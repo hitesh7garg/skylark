@@ -1,0 +1,140 @@
+0	ac	ad	ah	ai	al	am	an	as	at	aw	ax	ay	bb	db	kb	mb	ob	
+1	ab	ad	ah	ai	al	am	an	as	at	aw	ax	ay	cc	dc	ic	mc	pc	sc	vc	
+2	ab	ac	ah	ai	al	am	an	as	at	aw	ax	ay	cd	id	md	od	rd	sd	
+3	ab	ac	ad	ai	al	am	an	as	at	aw	ax	ay	eh	lh	oh	rh	sh	th	uh	
+4	ab	ac	ad	ah	al	am	an	as	at	aw	ax	ay	hi	ii	pi	si	ti	
+5	ab	ac	ad	ah	ai	am	an	as	at	aw	ax	ay	cl	el	kl	ll	pl	
+6	ab	ac	ad	ah	ai	al	an	as	at	aw	ax	ay	nm	pm	tm	
+7	ab	ac	ad	ah	ai	al	am	as	at	aw	ax	ay	en	in	mn	on	rn	sn	un	zn	
+8	ab	ac	ad	ah	ai	al	am	an	at	aw	ax	ay	cs	es	is	ms	os	ss	us	vs	
+9	ab	ac	ad	ah	ai	al	am	an	as	aw	ax	ay	ct	et	it	st	ut	vt	
+10	ab	ac	ad	ah	ai	al	am	an	as	at	ax	ay	mw	ow	
+11	ab	ac	ad	ah	ai	al	am	an	as	at	aw	ay	dx	ex	ox	tx	xx	
+12	ab	ac	ad	ah	ai	al	am	an	as	at	aw	ax	by	my	ny	
+13	ab	be	br	by	db	kb	mb	ob	
+14	bb	br	by	de	he	ie	me	ne	re	se	we	ye	
+15	bb	be	by	cr	hr	lr	mr	or	sr	yr	
+16	ay	bb	be	br	my	ny	
+17	cc	cd	cl	co	cr	cs	ct	ga	ha	la	ma	na	pa	sa	va	wa	
+18	ac	ca	cd	cl	co	cr	cs	ct	dc	ic	mc	pc	sc	vc	
+19	ad	ca	cc	cl	co	cr	cs	ct	id	md	od	rd	sd	
+20	al	ca	cc	cd	co	cr	cs	ct	el	kl	ll	pl	
+21	ca	cc	cd	cl	cr	cs	ct	do	go	ho	lo	mo	no	po	so	to	
+22	br	ca	cc	cd	cl	co	cs	ct	hr	lr	mr	or	sr	yr	
+23	as	ca	cc	cd	cl	co	cr	ct	es	is	ms	os	ss	us	vs	
+24	at	ca	cc	cd	cl	co	cr	cs	et	it	st	ut	vt	
+25	ab	bb	dc	de	do	dp	dx	kb	mb	ob	
+26	ac	cc	db	de	do	dp	dx	ic	mc	pc	sc	vc	
+27	be	db	dc	do	dp	dx	he	ie	me	ne	re	se	we	ye	
+28	co	db	dc	de	dp	dx	go	ho	lo	mo	no	po	so	to	
+29	db	dc	de	do	dx	hp	pp	sp	up	
+30	ax	db	dc	de	do	dp	ex	ox	tx	xx	
+31	ah	el	en	es	et	ex	lh	oh	rh	sh	th	uh	
+32	al	cl	eh	en	es	et	ex	kl	ll	pl	
+33	an	eh	el	es	et	ex	in	mn	on	rn	sn	un	zn	
+34	as	cs	eh	el	en	et	ex	is	ms	os	ss	us	vs	
+35	at	ct	eh	el	en	es	ex	it	st	ut	vt	
+36	ax	dx	eh	el	en	es	et	ox	tx	xx	
+37	ca	go	ha	la	ma	na	pa	sa	va	wa	
+38	co	do	ga	ho	lo	mo	no	po	so	to	
+39	ca	ga	he	hi	ho	hp	hr	la	ma	na	pa	sa	va	wa	
+40	be	de	ha	hi	ho	hp	hr	ie	me	ne	re	se	we	ye	
+41	ai	ha	he	ho	hp	hr	ii	pi	si	ti	
+42	co	do	go	ha	he	hi	hp	hr	lo	mo	no	po	so	to	
+43	dp	ha	he	hi	ho	hr	pp	sp	up	
+44	br	cr	ha	he	hi	ho	hp	lr	mr	or	sr	yr	
+45	ac	cc	dc	id	ie	if	ii	in	is	it	iv	mc	pc	sc	vc	
+46	ad	cd	ic	ie	if	ii	in	is	it	iv	md	od	rd	sd	
+47	be	de	he	ic	id	if	ii	in	is	it	iv	me	ne	re	se	we	ye	
+48	ic	id	ie	ii	in	is	it	iv	lf	mf	of	pf	rf	
+49	ai	hi	ic	id	ie	if	in	is	it	iv	pi	si	ti	
+50	an	en	ic	id	ie	if	ii	is	it	iv	mn	on	rn	sn	un	zn	
+51	as	cs	es	ic	id	ie	if	ii	in	it	iv	ms	os	ss	us	vs	
+52	at	ct	et	ic	id	ie	if	ii	in	is	iv	st	ut	vt	
+53	ic	id	ie	if	ii	in	is	it	tv	
+54	ab	bb	db	kl	mb	ob	
+55	al	cl	el	kb	ll	pl	
+56	ca	ga	ha	lf	lh	ll	lo	lr	ma	na	pa	sa	va	wa	
+57	if	la	lh	ll	lo	lr	mf	of	pf	rf	
+58	ah	eh	la	lf	ll	lo	lr	oh	rh	sh	th	uh	
+59	al	cl	el	kl	la	lf	lh	lo	lr	pl	
+60	co	do	go	ho	la	lf	lh	ll	lr	mo	no	po	so	to	
+61	br	cr	hr	la	lf	lh	ll	lo	mr	or	sr	yr	
+62	ca	ga	ha	la	mb	mc	md	me	mf	mg	mn	mo	mr	ms	mw	my	na	pa	sa	va	wa	
+63	ab	bb	db	kb	ma	mc	md	me	mf	mg	mn	mo	mr	ms	mw	my	ob	
+64	ac	cc	dc	ic	ma	mb	md	me	mf	mg	mn	mo	mr	ms	mw	my	pc	sc	vc	
+65	ad	cd	id	ma	mb	mc	me	mf	mg	mn	mo	mr	ms	mw	my	od	rd	sd	
+66	be	de	he	ie	ma	mb	mc	md	mf	mg	mn	mo	mr	ms	mw	my	ne	re	se	we	ye	
+67	if	lf	ma	mb	mc	md	me	mg	mn	mo	mr	ms	mw	my	of	pf	rf	
+68	ma	mb	mc	md	me	mf	mn	mo	mr	ms	mw	my	
+69	an	en	in	ma	mb	mc	md	me	mf	mg	mo	mr	ms	mw	my	on	rn	sn	un	zn	
+70	co	do	go	ho	lo	ma	mb	mc	md	me	mf	mg	mn	mr	ms	mw	my	no	po	so	to	
+71	br	cr	hr	lr	ma	mb	mc	md	me	mf	mg	mn	mo	ms	mw	my	or	sr	yr	
+72	as	cs	es	is	ma	mb	mc	md	me	mf	mg	mn	mo	mr	mw	my	os	ss	us	vs	
+73	aw	ma	mb	mc	md	me	mf	mg	mn	mo	mr	ms	my	ow	
+74	ay	by	ma	mb	mc	md	me	mf	mg	mn	mo	mr	ms	mw	ny	
+75	ca	ga	ha	la	ma	ne	nj	nm	no	nu	ny	pa	sa	va	wa	
+76	be	de	he	ie	me	na	nj	nm	no	nu	ny	re	se	we	ye	
+77	na	ne	nm	no	nu	ny	
+78	am	na	ne	nj	no	nu	ny	pm	tm	
+79	co	do	go	ho	lo	mo	na	ne	nj	nm	nu	ny	po	so	to	
+80	na	ne	nj	nm	no	ny	
+81	ay	by	my	na	ne	nj	nm	no	nu	
+82	ab	bb	db	kb	mb	od	of	oh	ok	on	or	os	ow	ox	oz	
+83	ad	cd	id	md	ob	of	oh	ok	on	or	os	ow	ox	oz	rd	sd	
+84	if	lf	mf	ob	od	oh	ok	on	or	os	ow	ox	oz	pf	rf	
+85	ah	eh	lh	ob	od	of	ok	on	or	os	ow	ox	oz	rh	sh	th	uh	
+86	ob	od	of	oh	on	or	os	ow	ox	oz	wk	
+87	an	en	in	mn	ob	od	of	oh	ok	or	os	ow	ox	oz	rn	sn	un	zn	
+88	br	cr	hr	lr	mr	ob	od	of	oh	ok	on	os	ow	ox	oz	sr	yr	
+89	as	cs	es	is	ms	ob	od	of	oh	ok	on	or	ow	ox	oz	ss	us	vs	
+90	aw	mw	ob	od	of	oh	ok	on	or	os	ox	oz	
+91	ax	dx	ex	ob	od	of	oh	ok	on	or	os	ow	oz	tx	xx	
+92	ob	od	of	oh	ok	on	or	os	ow	ox	
+93	ca	ga	ha	la	ma	na	pc	pf	pi	pl	pm	po	pp	sa	va	wa	
+94	ac	cc	dc	ic	mc	pa	pf	pi	pl	pm	po	pp	sc	vc	
+95	if	lf	mf	of	pa	pc	pi	pl	pm	po	pp	rf	
+96	ai	hi	ii	pa	pc	pf	pl	pm	po	pp	si	ti	
+97	al	cl	el	kl	ll	pa	pc	pf	pi	pm	po	pp	
+98	am	nm	pa	pc	pf	pi	pl	po	pp	tm	
+99	co	do	go	ho	lo	mo	no	pa	pc	pf	pi	pl	pm	pp	so	to	
+100	dp	hp	pa	pc	pf	pi	pl	pm	po	sp	up	
+101	ad	cd	id	md	od	re	rf	rh	rn	sd	
+102	be	de	he	ie	me	ne	rd	rf	rh	rn	se	we	ye	
+103	if	lf	mf	of	pf	rd	re	rh	rn	
+104	ah	eh	lh	oh	rd	re	rf	rn	sh	th	uh	
+105	an	en	in	mn	on	rd	re	rf	rh	sn	un	zn	
+106	ca	ga	ha	la	ma	na	pa	sc	sd	se	sh	si	sn	so	sp	sr	ss	st	va	wa	
+107	ac	cc	dc	ic	mc	pc	sa	sd	se	sh	si	sn	so	sp	sr	ss	st	vc	
+108	ad	cd	id	md	od	rd	sa	sc	se	sh	si	sn	so	sp	sr	ss	st	
+109	be	de	he	ie	me	ne	re	sa	sc	sd	sh	si	sn	so	sp	sr	ss	st	we	ye	
+110	ah	eh	lh	oh	rh	sa	sc	sd	se	si	sn	so	sp	sr	ss	st	th	uh	
+111	ai	hi	ii	pi	sa	sc	sd	se	sh	sn	so	sp	sr	ss	st	ti	
+112	an	en	in	mn	on	rn	sa	sc	sd	se	sh	si	so	sp	sr	ss	st	un	zn	
+113	co	do	go	ho	lo	mo	no	po	sa	sc	sd	se	sh	si	sn	sp	sr	ss	st	to	
+114	dp	hp	pp	sa	sc	sd	se	sh	si	sn	so	sr	ss	st	up	
+115	br	cr	hr	lr	mr	or	sa	sc	sd	se	sh	si	sn	so	sp	ss	st	yr	
+116	as	cs	es	is	ms	os	sa	sc	sd	se	sh	si	sn	so	sp	sr	st	us	vs	
+117	at	ct	et	it	sa	sc	sd	se	sh	si	sn	so	sp	sr	ss	ut	vt	
+118	ah	eh	lh	oh	rh	sh	ti	tm	to	tv	tx	uh	
+119	ai	hi	ii	pi	si	th	tm	to	tv	tx	
+120	am	nm	pm	th	ti	to	tv	tx	
+121	co	do	go	ho	lo	mo	no	po	so	th	ti	tm	tv	tx	
+122	iv	th	ti	tm	to	tx	
+123	ax	dx	ex	ox	th	ti	tm	to	tv	xx	
+124	ah	eh	lh	oh	rh	sh	th	un	up	us	ut	
+125	an	en	in	mn	on	rn	sn	uh	up	us	ut	zn	
+126	dp	hp	pp	sp	uh	un	us	ut	
+127	as	cs	es	is	ms	os	ss	uh	un	up	ut	vs	
+128	at	ct	et	it	st	uh	un	up	us	vt	
+129	ca	ga	ha	la	ma	na	pa	sa	vc	vs	vt	wa	
+130	ac	cc	dc	ic	mc	pc	sc	va	vs	vt	
+131	as	cs	es	is	ms	os	ss	us	va	vc	vt	
+132	at	ct	et	it	st	ut	va	vc	vs	
+133	ca	ga	ha	la	ma	na	pa	sa	va	we	wk	
+134	be	de	he	ie	me	ne	re	se	wa	wk	ye	
+135	ok	wa	we	
+136	ax	dx	ex	ox	tx	
+137	be	de	he	ie	me	ne	re	se	we	yr	
+138	br	cr	hr	lr	mr	or	sr	ye	
+139	an	en	in	mn	on	rn	sn	un	

@@ -1,0 +1,853 @@
+0	ash	bah	hah	rah	
+1	abo	abs	abt	arc	
+2	abc	abs	abt	ado	ago	
+3	abc	abo	abt	ads	ahs	ars	ass	lbs	tbs	
+4	abc	abo	abs	act	aft	alt	ant	apt	art	
+5	act	age	ale	ape	are	ate	ave	awe	axe	aye	ice	
+6	abt	ace	aft	alt	ant	apt	art	jct	pct	
+7	adj	ado	ads	adv	adz	aid	and	aud	odd	
+8	add	ado	ads	adv	adz	
+9	abo	add	adj	ads	adv	adz	ago	
+10	abs	add	adj	ado	adv	adz	ahs	ars	ass	gds	ids	yds	
+11	add	adj	ado	ads	adz	
+12	add	adj	ado	ads	adv	
+13	aft	alb	
+14	abt	act	afb	alt	ant	apt	art	eft	oft	
+15	ace	ago	ale	ape	are	ate	ave	awe	axe	aye	
+16	abo	ado	age	ego	
+17	ahs	ama	ana	wha	
+18	abs	ads	aha	ars	ass	ohs	uhs	
+19	add	ail	aim	air	and	aud	bid	did	hid	kid	lid	mid	rid	yid	
+20	aid	aim	air	all	awl	mil	nil	oil	til	
+21	aid	ail	air	arm	dim	him	jim	lim	nim	rim	tim	vim	
+22	aid	ail	aim	fir	sir	
+23	afb	ale	all	alp	alt	
+24	ace	age	alb	all	alp	alt	ape	are	ate	ave	awe	axe	aye	ole	
+25	ail	alb	ale	alp	alt	awl	ell	ill	
+26	alb	ale	all	alt	amp	app	asp	
+27	abt	act	aft	alb	ale	all	alp	ant	apt	art	ult	
+28	aha	amp	amu	ana	
+29	alp	ama	amu	app	asp	imp	ump	
+30	ama	amp	emu	
+31	aha	ama	and	ann	ant	any	
+32	add	aid	ana	ann	ant	any	aud	end	
+33	ana	and	ant	any	awn	inn	
+34	abt	act	aft	alt	ana	and	ann	any	apt	art	int	tnt	
+35	ana	and	ann	ant	
+36	ace	age	ale	app	apt	are	ate	ave	awe	axe	aye	ope	
+37	alp	amp	ape	apt	asp	opp	
+38	abt	act	aft	alt	ant	ape	app	art	opt	
+39	abc	are	arf	ark	arm	ars	art	crc	orc	
+40	ace	age	ale	ape	arc	arf	ark	arm	ars	art	ate	ave	awe	axe	aye	ere	ire	ore	pre	
+41	arc	are	ark	arm	ars	art	auf	
+42	arc	are	arf	arm	ars	art	ask	auk	irk	
+43	aim	arc	are	arf	ark	ars	art	
+44	abs	ads	ahs	arc	are	arf	ark	arm	art	ass	hrs	irs	ors	prs	yrs	
+45	abt	act	aft	alt	ant	apt	arc	are	arf	ark	arm	ars	ort	
+46	aah	ask	asp	ass	
+47	ark	ash	asp	ass	auk	
+48	alp	amp	app	ash	ask	ass	csp	esp	tsp	
+49	abs	ads	ahs	ars	ash	ask	asp	ess	mss	
+50	ace	age	ale	ape	are	ave	awe	axe	aye	rte	
+51	add	aid	and	auf	auk	aux	bud	cud	dud	iud	mud	pud	
+52	arf	aud	auk	aux	
+53	ark	ask	aud	auf	aux	yuk	
+54	aud	auf	auk	lux	mux	tux	
+55	ace	age	ale	ape	are	ate	avg	awe	axe	aye	eve	
+56	ave	
+57	ace	age	ale	ape	are	ate	ave	awl	awn	axe	aye	ewe	owe	
+58	ail	all	awe	awn	owl	
+59	ann	awe	awl	own	
+60	ace	age	ale	ape	are	ate	ave	awe	aye	
+61	ace	age	ale	ape	are	ate	ave	awe	axe	bye	dye	eye	lye	rye	wye	
+62	bad	bag	bah	ban	bar	bas	bat	bay	boa	bra	
+63	baa	bag	bah	ban	bar	bas	bat	bay	bed	bid	bod	bud	cad	dad	fad	gad	had	lad	mad	pad	rad	sad	tad	wad	
+64	baa	bad	bah	ban	bar	bas	bat	bay	beg	big	bog	bug	fag	gag	hag	jag	lag	mag	nag	rag	sag	tag	wag	zag	
+65	aah	baa	bad	bag	ban	bar	bas	bat	bay	hah	rah	
+66	baa	bad	bag	bah	bar	bas	bat	bay	ben	bin	bon	bun	can	dan	fan	man	nan	pan	ran	san	tan	van	wan	
+67	baa	bad	bag	bah	ban	bas	bat	bay	bur	car	ear	far	gar	jar	mar	oar	par	tar	war	
+68	baa	bad	bag	bah	ban	bar	bat	bay	bks	bps	bus	gas	has	mas	pas	was	
+69	baa	bad	bag	bah	ban	bar	bas	bay	bet	bit	bot	but	cat	eat	fat	gat	hat	mat	oat	pat	rat	sat	tat	vat	
+70	baa	bad	bag	bah	ban	bar	bas	bat	bey	boy	buy	cay	day	fay	gay	hay	jay	lay	may	nay	pay	ray	say	way	yay	
+71	bel	dbl	
+72	bad	bee	beg	bel	ben	bet	bey	bid	bod	bud	fed	led	ped	qed	red	wed	zed	
+73	bed	beg	bel	ben	bet	bey	bye	fee	gee	hee	lee	nee	pee	see	tee	vee	wee	zee	
+74	bag	bed	bee	bel	ben	bet	bey	big	bog	bug	keg	leg	meg	peg	reg	
+75	bbl	bed	bee	beg	ben	bet	bey	del	eel	gel	
+76	ban	bed	bee	beg	bel	bet	bey	bin	bon	bun	den	fen	gen	hen	ken	men	pen	ten	wen	yen	zen	
+77	bat	bed	bee	beg	bel	ben	bey	bit	bot	but	get	jet	let	met	net	pet	ret	set	vet	wet	yet	
+78	bay	bed	bee	beg	bel	ben	bet	boy	buy	fey	hey	key	ley	
+79	bid	big	bin	bio	bit	bob	bub	fib	jib	lib	nib	rib	sib	
+80	aid	bad	bed	bib	big	bin	bio	bit	bod	bud	did	hid	kid	lid	mid	rid	yid	
+81	bag	beg	bib	bid	bin	bio	bit	bog	bug	dig	fig	gig	jig	mig	pig	rig	wig	zig	
+82	ban	ben	bib	bid	big	bio	bit	bon	bun	din	fin	gin	kin	min	pin	sin	tin	vin	win	yin	
+83	bib	bid	big	bin	bit	boo	bro	
+84	bat	bet	bib	bid	big	bin	bio	bot	but	cit	fit	git	hit	kit	lit	nit	pit	sit	tit	wit	
+85	bas	bps	bus	
+86	baa	bob	bod	bog	bon	boo	bop	bot	bow	box	boy	bra	
+87	bib	boa	bod	bog	bon	boo	bop	bot	bow	box	boy	bub	cob	fob	gob	hob	job	lob	mob	nob	rob	sob	
+88	bad	bed	bid	boa	bob	bog	bon	boo	bop	bot	bow	box	boy	bud	cod	god	hod	mod	nod	pod	rod	sod	yod	
+89	bag	beg	big	boa	bob	bod	bon	boo	bop	bot	bow	box	boy	bug	cog	dog	fog	hog	jog	log	nog	tog	
+90	ban	ben	bin	boa	bob	bod	bog	boo	bop	bot	bow	box	boy	bun	con	don	eon	hon	ion	mon	non	son	ton	von	won	yon	
+91	bio	boa	bob	bod	bog	bon	bop	bot	bow	box	boy	bro	coo	goo	loo	moo	too	woo	zoo	
+92	boa	bob	bod	bog	bon	boo	bot	bow	box	boy	cop	fop	hop	lop	mop	pop	sop	top	wop	
+93	bat	bet	bit	boa	bob	bod	bog	bon	boo	bop	bow	box	boy	but	cot	dot	got	hot	jot	lot	mot	not	pot	rot	sot	tot	
+94	boa	bob	bod	bog	bon	boo	bop	bot	box	boy	cow	how	low	mow	now	pow	row	sow	tow	vow	wow	yow	
+95	boa	bob	bod	bog	bon	boo	bop	bot	bow	boy	fox	lox	pox	sox	vox	
+96	bay	bey	boa	bob	bod	bog	bon	boo	bop	bot	bow	box	buy	coy	goy	joy	soy	toy	
+97	bas	bks	bus	cps	fps	ops	ups	
+98	baa	boa	bro	era	ira	
+99	bio	boo	bra	fro	pro	
+100	bib	bob	bud	bug	bum	bun	bur	bus	but	buy	cub	dub	hub	nub	pub	rub	sub	tub	
+101	aud	bad	bed	bid	bod	bub	bug	bum	bun	bur	bus	but	buy	cud	dud	iud	mud	pud	
+102	bag	beg	big	bog	bub	bud	bum	bun	bur	bus	but	buy	dug	hug	jug	lug	mug	pug	rug	tug	
+103	bub	bud	bug	bun	bur	bus	but	buy	cum	gum	hum	mum	rum	sum	
+104	ban	ben	bin	bon	bub	bud	bug	bum	bur	bus	but	buy	dun	fun	gun	hun	nun	pun	run	sun	tun	
+105	bar	bub	bud	bug	bum	bun	bus	but	buy	cur	fur	our	
+106	bas	bks	bps	bub	bud	bug	bum	bun	bur	but	buy	jus	pus	
+107	bat	bet	bit	bot	bub	bud	bug	bum	bun	bur	bus	buy	cut	gut	hut	jut	nut	out	put	rut	tut	
+108	bay	bey	boy	bub	bud	bug	bum	bun	bur	bus	but	guy	
+109	aye	bee	dye	eye	lye	rye	wye	
+110	cad	cal	cam	can	cap	car	cat	caw	cay	cob	cub	dab	gab	jab	lab	nab	tab	
+111	bad	cab	cal	cam	can	cap	car	cat	caw	cay	cod	cud	dad	fad	gad	had	lad	mad	pad	rad	sad	tad	wad	
+112	cab	cad	cam	can	cap	car	cat	caw	cay	col	cpl	gal	mal	pal	sal	val	
+113	cab	cad	cal	can	cap	car	cat	caw	cay	chm	com	cum	dam	gam	ham	jam	lam	nam	ram	sam	tam	yam	
+114	ban	cab	cad	cal	cam	cap	car	cat	caw	cay	con	dan	fan	man	nan	pan	ran	san	tan	van	wan	
+115	cab	cad	cal	cam	can	car	cat	caw	cay	cop	csp	cup	gap	hap	jap	lap	map	nap	pap	rap	sap	tap	yap	zap	
+116	bar	cab	cad	cal	cam	can	cap	cat	caw	cay	cur	ear	far	gar	jar	mar	oar	par	tar	war	
+117	bat	cab	cad	cal	cam	can	cap	car	caw	cay	cit	cot	cst	cut	cwt	eat	fat	gat	hat	mat	oat	pat	rat	sat	tat	vat	
+118	cab	cad	cal	cam	can	cap	car	cat	cay	cow	daw	haw	jaw	law	maw	paw	raw	saw	taw	yaw	
+119	bay	cab	cad	cal	cam	can	cap	car	cat	caw	coy	cry	day	fay	gay	hay	jay	lay	may	nay	pay	ray	say	way	yay	
+120	cps	cts	
+121	chm	cpi	phi	
+122	cam	chi	com	cum	ohm	
+123	cit	via	
+124	bit	cat	cia	cot	cst	cut	cwt	fit	git	hit	kit	lit	nit	pit	sit	tit	wit	
+125	bob	cab	cod	cog	col	com	con	coo	cop	cot	cow	coy	cub	fob	gob	hob	job	lob	mob	nob	rob	sob	
+126	bod	cad	cob	cog	col	com	con	coo	cop	cot	cow	coy	cud	god	hod	mod	nod	pod	rod	sod	yod	
+127	bog	cob	cod	col	com	con	coo	cop	cot	cow	coy	ctg	dog	fog	hog	jog	log	nog	tog	
+128	cal	cob	cod	cog	com	con	coo	cop	cot	cow	coy	cpl	pol	sol	vol	
+129	cam	chm	cob	cod	cog	col	con	coo	cop	cot	cow	coy	cum	dom	mom	nom	rom	tom	
+130	bon	can	cob	cod	cog	col	com	coo	cop	cot	cow	coy	don	eon	hon	ion	mon	non	son	ton	von	won	yon	
+131	boo	cob	cod	cog	col	com	con	cop	cot	cow	coy	goo	loo	moo	too	woo	zoo	
+132	bop	cap	cob	cod	cog	col	com	con	coo	cot	cow	coy	csp	cup	fop	hop	lop	mop	pop	sop	top	wop	
+133	bot	cat	cit	cob	cod	cog	col	com	con	coo	cop	cow	coy	cst	cut	cwt	dot	got	hot	jot	lot	mot	not	pot	rot	sot	tot	
+134	bow	caw	cob	cod	cog	col	com	con	coo	cop	cot	coy	how	low	mow	now	pow	row	sow	tow	vow	wow	yow	
+135	boy	cay	cob	cod	cog	col	com	con	coo	cop	cot	cow	cry	goy	joy	soy	toy	
+136	chi	cpl	cps	cpu	
+137	cal	col	cpi	cps	cpu	
+138	bps	cgs	cpi	cpl	cpu	cts	fps	ops	ups	
+139	cpi	cpl	cps	
+140	arc	cry	orc	
+141	cay	coy	crc	dry	fry	pry	try	wry	
+142	asp	cap	cop	cst	cup	esp	tsp	
+143	cat	cit	cot	csp	cut	cwt	
+144	cog	cts	
+145	cgs	cps	ctg	hts	its	pts	qts	
+146	bub	cab	cob	cud	cue	cum	cup	cur	cut	dub	hub	nub	pub	rub	sub	tub	
+147	aud	bud	cad	cod	cub	cue	cum	cup	cur	cut	dud	iud	mud	pud	
+148	cub	cud	cum	cup	cur	cut	due	hue	que	rue	sue	
+149	bum	cam	chm	com	cub	cud	cue	cup	cur	cut	gum	hum	mum	rum	sum	
+150	cap	cop	csp	cub	cud	cue	cum	cur	cut	dup	hup	pup	sup	tup	yup	
+151	bur	car	cub	cud	cue	cum	cup	cut	fur	our	
+152	but	cat	cit	cot	cst	cub	cud	cue	cum	cup	cur	cwt	gut	hut	jut	nut	out	put	rut	tut	
+153	cat	cit	cot	cst	cut	
+154	cab	dad	dam	dan	daw	day	deb	dub	gab	jab	lab	nab	tab	
+155	bad	cad	dab	dam	dan	daw	day	did	dud	fad	gad	had	lad	mad	pad	rad	sad	tad	wad	
+156	cam	dab	dad	dan	daw	day	dim	dom	gam	ham	jam	lam	nam	ram	sam	tam	yam	
+157	ban	can	dab	dad	dam	daw	day	den	din	don	dun	fan	man	nan	pan	ran	san	tan	van	wan	
+158	caw	dab	dad	dam	dan	day	dew	haw	jaw	law	maw	paw	raw	saw	taw	yaw	
+159	bay	cay	dab	dad	dam	dan	daw	dry	fay	gay	hay	jay	lay	may	nay	pay	ray	say	way	yay	
+160	bbl	del	
+161	dab	dec	dei	del	den	der	des	dew	dub	neb	reb	web	
+162	deb	dei	del	den	der	des	dew	doc	rec	sec	
+163	deb	dec	del	den	der	des	dew	lei	
+164	bel	dbl	deb	dec	dei	den	der	des	dew	eel	gel	
+165	ben	dan	deb	dec	dei	del	der	des	dew	din	don	dun	fen	gen	hen	ken	men	pen	ten	wen	yen	zen	
+166	deb	dec	dei	del	den	des	dew	her	mer	per	
+167	deb	dec	dei	del	den	der	dew	dis	dos	yes	
+168	daw	deb	dec	dei	del	den	der	des	few	hew	jew	mew	new	pew	sew	yew	
+169	aid	bid	dad	die	dig	dim	din	dip	dis	dud	hid	kid	lid	mid	rid	yid	
+170	did	dig	dim	din	dip	dis	doe	due	dye	fie	hie	lie	pie	tie	vie	
+171	big	did	die	dim	din	dip	dis	dog	dug	fig	gig	jig	mig	pig	rig	wig	zig	
+172	aim	dam	did	die	dig	din	dip	dis	dom	him	jim	lim	nim	rim	tim	vim	
+173	bin	dan	den	did	die	dig	dim	dip	dis	don	dun	fin	gin	kin	min	pin	sin	tin	vin	win	yin	
+174	did	die	dig	dim	din	dis	dup	gip	hip	kip	lip	nip	pip	rip	sip	tip	vip	yip	zip	
+175	des	did	die	dig	dim	din	dip	dos	his	sis	tis	
+176	dec	doe	dog	dom	don	dos	dot	doz	hoc	loc	roc	soc	
+177	die	doc	dog	dom	don	dos	dot	doz	due	dye	foe	hoe	joe	roe	toe	woe	
+178	bog	cog	dig	doc	doe	dom	don	dos	dot	doz	dug	fog	hog	jog	log	nog	tog	
+179	com	dam	dim	doc	doe	dog	don	dos	dot	doz	mom	nom	rom	tom	
+180	bon	con	dan	den	din	doc	doe	dog	dom	dos	dot	doz	dun	eon	hon	ion	mon	non	son	ton	von	won	yon	
+181	des	dis	doc	doe	dog	dom	don	dot	doz	nos	sos	
+182	bot	cot	doc	doe	dog	dom	don	dos	doz	got	hot	jot	lot	mot	not	pot	rot	sot	tot	
+183	doc	doe	dog	dom	don	dos	dot	
+184	cry	day	fry	pry	try	wry	
+185	bub	cub	dab	deb	dud	due	dug	dun	duo	dup	hub	nub	pub	rub	sub	tub	
+186	aud	bud	cud	dad	did	dub	due	dug	dun	duo	dup	iud	mud	pud	
+187	cue	die	doe	dub	dud	dug	dun	duo	dup	dye	hue	que	rue	sue	
+188	bug	dig	dog	dub	dud	due	dun	duo	dup	hug	jug	lug	mug	pug	rug	tug	
+189	bun	dan	den	din	don	dub	dud	due	dug	duo	dup	fun	gun	hun	nun	pun	run	sun	tun	
+190	dub	dud	due	dug	dun	dup	quo	
+191	cup	dip	dub	dud	due	dug	dun	duo	hup	pup	sup	tup	yup	
+192	aye	bye	die	doe	due	eye	lye	rye	wye	
+193	bar	car	eat	eau	err	far	gar	jar	mar	oar	par	tar	war	
+194	bat	cat	ear	eau	eft	ext	fat	gat	hat	mat	oat	pat	rat	sat	tat	vat	
+195	ear	eat	emu	tau	
+196	
+197	bel	del	ell	gel	
+198	aft	eat	ext	oft	
+199	ego	erg	
+200	ago	egg	
+201	ere	eve	ewe	eye	uke	
+202	elf	elk	ell	elm	end	old	
+203	eld	elk	ell	elm	emf	eof	
+204	eld	elf	ell	elm	ilk	
+205	all	eel	eld	elf	elk	elm	ill	
+206	eld	elf	elk	ell	
+207	elf	ems	emu	eof	
+208	emf	emu	ens	ess	oms	
+209	amu	eau	emf	ems	
+210	end	ens	esc	etc	inc	
+211	and	eld	enc	ens	
+212	ems	enc	end	ess	ins	
+213	elf	emf	eon	
+214	bon	con	don	eof	hon	ion	mon	non	son	ton	von	won	yon	
+215	era	eta	spa	
+216	bra	epa	ere	erg	err	eta	ira	
+217	are	eke	era	erg	err	eve	ewe	eye	ire	ore	pre	
+218	egg	era	ere	err	
+219	ear	era	ere	erg	
+220	enc	esp	ess	etc	
+221	asp	csp	esc	ess	tsp	
+222	ass	ems	ens	esc	esp	mss	
+223	epa	era	etc	
+224	enc	esc	eta	
+225	ave	eke	ere	ewe	eye	
+226	awe	eke	ere	eve	eye	owe	
+227	eat	eft	
+228	aye	bye	dye	eke	ere	eve	ewe	lye	rye	wye	
+229	bad	cad	dad	fag	fan	far	fat	fax	fay	fed	fwd	gad	had	lad	mad	pad	rad	sad	tad	wad	
+230	bag	fad	fan	far	fat	fax	fay	fig	fog	gag	hag	jag	lag	mag	nag	rag	sag	tag	wag	zag	
+231	ban	can	dan	fad	fag	far	fat	fax	fay	fen	fin	fun	man	nan	pan	ran	san	tan	van	wan	
+232	bar	car	ear	fad	fag	fan	fat	fax	fay	fir	for	fur	gar	jar	mar	oar	par	tar	war	
+233	bat	cat	eat	fad	fag	fan	far	fax	fay	fit	gat	hat	mat	oat	pat	rat	sat	tat	vat	
+234	fad	fag	fan	far	fat	fay	fix	fox	lax	max	pax	sax	tax	wax	
+235	bay	cay	day	fad	fag	fan	far	fat	fax	fey	fly	fry	gay	hay	jay	lay	may	nay	pay	ray	say	way	yay	
+236	obi	
+237	bed	fad	fee	fem	fen	few	fey	fez	fwd	led	ped	qed	red	wed	zed	
+238	bee	fed	fem	fen	few	fey	fez	fie	foe	gee	hee	lee	nee	pee	see	tee	vee	wee	zee	
+239	fed	fee	fen	few	fey	fez	gem	hem	rem	tem	
+240	ben	den	fan	fed	fee	fem	few	fey	fez	fin	fun	gen	hen	ken	men	pen	ten	wen	yen	zen	
+241	dew	fed	fee	fem	fen	fey	fez	hew	jew	mew	new	pew	sew	yew	
+242	bey	fay	fed	fee	fem	fen	few	fez	fly	fry	hey	key	ley	
+243	fed	fee	fem	fen	few	fey	
+244	bib	fie	fig	fin	fir	fit	fix	fob	jib	lib	nib	rib	sib	
+245	die	fee	fib	fig	fin	fir	fit	fix	foe	hie	lie	pie	tie	vie	
+246	big	dig	fag	fib	fie	fin	fir	fit	fix	fog	gig	jig	mig	pig	rig	wig	zig	
+247	bin	din	fan	fen	fib	fie	fig	fir	fit	fix	fun	gin	kin	min	pin	sin	tin	vin	win	yin	
+248	air	far	fib	fie	fig	fin	fit	fix	for	fur	sir	
+249	bit	cit	fat	fib	fie	fig	fin	fir	fix	git	hit	kit	lit	nit	pit	sit	tit	wit	
+250	fax	fib	fie	fig	fin	fir	fit	fox	mix	nix	pix	six	xix	
+251	fly	
+252	fay	fey	flu	fry	ply	sly	
+253	bob	cob	fib	foe	fog	fop	for	fox	gob	hob	job	lob	mob	nob	rob	sob	
+254	doe	fee	fie	fob	fog	fop	for	fox	hoe	joe	roe	toe	woe	
+255	bog	cog	dog	fag	fig	fob	foe	fop	for	fox	hog	jog	log	nog	tog	
+256	bop	cop	fob	foe	fog	for	fox	hop	lop	mop	pop	sop	top	wop	
+257	far	fir	fob	foe	fog	fop	fox	fur	hor	nor	tor	
+258	box	fax	fix	fob	foe	fog	fop	for	lox	pox	sox	vox	
+259	bps	cps	ops	ups	
+260	bro	fry	pro	
+261	cry	dry	fay	fey	fly	fro	pry	try	wry	
+262	bun	dun	fan	fen	fin	fur	gun	hun	nun	pun	run	sun	tun	
+263	bur	cur	far	fir	for	fun	our	
+264	fad	fed	
+265	cab	dab	gad	gag	gal	gam	gap	gar	gas	gat	gay	gob	jab	lab	nab	tab	
+266	bad	cad	dad	fad	gab	gag	gal	gam	gap	gar	gas	gat	gay	god	had	lad	mad	pad	rad	sad	tad	wad	
+267	bag	fag	gab	gad	gal	gam	gap	gar	gas	gat	gay	gig	hag	jag	lag	mag	nag	rag	sag	tag	wag	zag	
+268	cal	gab	gad	gag	gam	gap	gar	gas	gat	gay	gel	mal	pal	sal	val	
+269	cam	dam	gab	gad	gag	gal	gap	gar	gas	gat	gay	gem	gum	gym	ham	jam	lam	nam	ram	sam	tam	yam	
+270	cap	gab	gad	gag	gal	gam	gar	gas	gat	gay	gip	gyp	hap	jap	lap	map	nap	pap	rap	sap	tap	yap	zap	
+271	bar	car	ear	far	gab	gad	gag	gal	gam	gap	gas	gat	gay	jar	mar	oar	par	tar	war	
+272	bas	gab	gad	gag	gal	gam	gap	gar	gat	gay	gds	has	mas	pas	was	
+273	bat	cat	eat	fat	gab	gad	gag	gal	gam	gap	gar	gas	gay	get	git	got	gut	hat	mat	oat	pat	rat	sat	tat	vat	
+274	bay	cay	day	fay	gab	gad	gag	gal	gam	gap	gar	gas	gat	goy	guy	hay	jay	lay	may	nay	pay	ray	say	way	yay	
+275	ads	gas	ids	yds	
+276	bee	fee	gel	gem	gen	get	hee	lee	nee	pee	see	tee	vee	wee	zee	
+277	bel	del	eel	gal	gee	gem	gen	get	
+278	fem	gam	gee	gel	gen	get	gum	gym	hem	rem	tem	
+279	ben	den	fen	gee	gel	gem	get	gin	gun	hen	ken	men	pen	ten	wen	yen	zen	
+280	bet	gat	gee	gel	gem	gen	git	got	gut	jet	let	met	net	pet	ret	set	vet	wet	yet	
+281	big	dig	fig	gag	gin	gip	git	jig	mig	pig	rig	wig	zig	
+282	bin	din	fin	gen	gig	gip	git	gun	kin	min	pin	sin	tin	vin	win	yin	
+283	dip	gap	gig	gin	git	gyp	hip	kip	lip	nip	pip	rip	sip	tip	vip	yip	zip	
+284	bit	cit	fit	gat	get	gig	gin	gip	got	gut	hit	kit	lit	nit	pit	sit	tit	wit	
+285	
+286	bob	cob	fob	gab	god	goo	got	gov	goy	hob	job	lob	mob	nob	rob	sob	
+287	bod	cod	gad	gob	goo	got	gov	goy	hod	mod	nod	pod	rod	sod	yod	
+288	boo	coo	gob	god	got	gov	goy	loo	moo	too	woo	zoo	
+289	bot	cot	dot	gat	get	git	gob	god	goo	gov	goy	gut	hot	jot	lot	mot	not	pot	rot	sot	tot	
+290	gob	god	goo	got	goy	tov	
+291	boy	coy	gay	gob	god	goo	got	gov	guy	joy	soy	toy	
+292	bum	cum	gam	gem	gun	gut	guy	gym	hum	mum	rum	sum	
+293	bun	dun	fun	gen	gin	gum	gut	guy	hun	nun	pun	run	sun	tun	
+294	but	cut	gat	get	git	got	gum	gun	guy	hut	jut	nut	out	put	rut	tut	
+295	buy	gay	goy	gum	gun	gut	
+296	gam	gem	gum	gyp	
+297	gap	gip	gym	
+298	bad	cad	dad	fad	gad	hag	hah	ham	hap	has	hat	haw	hay	hid	hod	lad	mad	pad	rad	sad	tad	wad	
+299	bag	fag	gag	had	hah	ham	hap	has	hat	haw	hay	hog	hug	jag	lag	mag	nag	rag	sag	tag	wag	zag	
+300	aah	bah	had	hag	ham	hap	has	hat	haw	hay	huh	rah	
+301	cam	dam	gam	had	hag	hah	hap	has	hat	haw	hay	hem	him	hum	jam	lam	nam	ram	sam	tam	yam	
+302	cap	gap	had	hag	hah	ham	has	hat	haw	hay	hep	hip	hop	hup	jap	lap	map	nap	pap	rap	sap	tap	yap	zap	
+303	bas	gas	had	hag	hah	ham	hap	hat	haw	hay	his	hrs	hts	mas	pas	was	
+304	bat	cat	eat	fat	gat	had	hag	hah	ham	hap	has	haw	hay	hit	hot	hut	mat	oat	pat	rat	sat	tat	vat	
+305	caw	daw	had	hag	hah	ham	hap	has	hat	hay	hew	how	jaw	law	maw	paw	raw	saw	taw	yaw	
+306	bay	cay	day	fay	gay	had	hag	hah	ham	hap	has	hat	haw	hey	hwy	jay	lay	may	nay	pay	ray	say	way	yay	
+307	bee	fee	gee	hem	hen	hep	her	hew	hex	hey	hie	hoe	hue	lee	nee	pee	see	tee	vee	wee	zee	
+308	fem	gem	ham	hee	hen	hep	her	hew	hex	hey	him	hum	rem	tem	
+309	ben	den	fen	gen	hee	hem	hep	her	hew	hex	hey	hon	hun	ken	men	pen	ten	wen	yen	zen	
+310	hap	hee	hem	hen	her	hew	hex	hey	hip	hop	hup	pep	rep	yep	
+311	der	hee	hem	hen	hep	hew	hex	hey	hor	mer	per	
+312	dew	few	haw	hee	hem	hen	hep	her	hex	hey	how	jew	mew	new	pew	sew	yew	
+313	hee	hem	hen	hep	her	hew	hey	lex	rex	sex	tex	vex	
+314	bey	fey	hay	hee	hem	hen	hep	her	hew	hex	hwy	key	ley	
+315	hid	hie	him	hip	his	hit	hoc	sic	tic	
+316	aid	bid	did	had	hic	hie	him	hip	his	hit	hod	kid	lid	mid	rid	yid	
+317	die	fie	hee	hic	hid	him	hip	his	hit	hoe	hue	lie	pie	tie	vie	
+318	aim	dim	ham	hem	hic	hid	hie	hip	his	hit	hum	jim	lim	nim	rim	tim	vim	
+319	dip	gip	hap	hep	hic	hid	hie	him	his	hit	hop	hup	kip	lip	nip	pip	rip	sip	tip	vip	yip	zip	
+320	dis	has	hic	hid	hie	him	hip	hit	hrs	hts	sis	tis	
+321	bit	cit	fit	git	hat	hic	hid	hie	him	hip	his	hot	hut	kit	lit	nit	pit	sit	tit	wit	
+322	bob	cob	fob	gob	hoc	hod	hoe	hog	hoi	hon	hop	hor	hot	how	hub	job	lob	mob	nob	rob	sob	
+323	doc	hic	hob	hod	hoe	hog	hoi	hon	hop	hor	hot	how	loc	roc	soc	
+324	bod	cod	god	had	hid	hob	hoc	hoe	hog	hoi	hon	hop	hor	hot	how	mod	nod	pod	rod	sod	yod	
+325	doe	foe	hee	hie	hob	hoc	hod	hog	hoi	hon	hop	hor	hot	how	hue	joe	roe	toe	woe	
+326	bog	cog	dog	fog	hag	hob	hoc	hod	hoe	hoi	hon	hop	hor	hot	how	hug	jog	log	nog	tog	
+327	hob	hoc	hod	hoe	hog	hon	hop	hor	hot	how	moi	poi	
+328	bon	con	don	eon	hen	hob	hoc	hod	hoe	hog	hoi	hop	hor	hot	how	hun	ion	mon	non	son	ton	von	won	yon	
+329	bop	cop	fop	hap	hep	hip	hob	hoc	hod	hoe	hog	hoi	hon	hor	hot	how	hup	lop	mop	pop	sop	top	wop	
+330	for	her	hob	hoc	hod	hoe	hog	hoi	hon	hop	hot	how	nor	tor	
+331	bot	cot	dot	got	hat	hit	hob	hoc	hod	hoe	hog	hoi	hon	hop	hor	how	hut	jot	lot	mot	not	pot	rot	sot	tot	
+332	bow	cow	haw	hew	hob	hoc	hod	hoe	hog	hoi	hon	hop	hor	hot	low	mow	now	pow	row	sow	tow	vow	wow	yow	
+333	ars	has	his	hts	irs	ors	prs	yrs	
+334	cts	has	his	hrs	its	pts	qts	
+335	bub	cub	dub	hob	hue	hug	huh	hum	hun	hup	hut	nub	pub	rub	sub	tub	
+336	cue	due	hee	hie	hoe	hub	hug	huh	hum	hun	hup	hut	que	rue	sue	
+337	bug	dug	hag	hog	hub	hue	huh	hum	hun	hup	hut	jug	lug	mug	pug	rug	tug	
+338	hah	hub	hue	hug	hum	hun	hup	hut	
+339	bum	cum	gum	ham	hem	him	hub	hue	hug	huh	hun	hup	hut	mum	rum	sum	
+340	bun	dun	fun	gun	hen	hon	hub	hue	hug	huh	hum	hup	hut	nun	pun	run	sun	tun	
+341	cup	dup	hap	hep	hip	hop	hub	hue	hug	huh	hum	hun	hut	pup	sup	tup	yup	
+342	but	cut	gut	hat	hit	hot	hub	hue	hug	huh	hum	hun	hup	jut	nut	out	put	rut	tut	
+343	hay	hey	
+344	ibm	ism	
+345	i'm	ism	
+346	ace	icy	ire	
+347	ice	ivy	
+348	ads	gds	ifs	ins	iqs	irs	its	yds	
+349	ids	ins	iqs	irs	its	
+350	xii	
+351	elk	ill	ink	irk	
+352	all	ell	ilk	
+353	amp	ump	
+354	enc	ink	inn	ins	int	
+355	ilk	inc	inn	ins	int	irk	
+356	ann	inc	ink	ins	int	ion	
+357	ens	ids	ifs	inc	ink	inn	int	iqs	irs	its	
+358	ant	inc	ink	inn	ins	tnt	
+359	bon	con	don	eon	hon	inn	iou	mon	non	son	ton	von	won	yon	
+360	ion	you	
+361	ids	ifs	ins	irs	its	
+362	bra	era	ire	irk	irs	
+363	are	ere	ice	ira	irk	irs	ore	pre	
+364	ark	ilk	ink	ira	ire	irs	
+365	ars	hrs	ids	ifs	ins	iqs	ira	ire	irk	its	ors	prs	yrs	
+366	i'm	ibm	
+367	cts	hts	ids	ifs	ins	iqs	irs	pts	qts	
+368	aud	bud	cud	dud	mud	pud	
+369	icy	
+370	cab	dab	gab	jag	jai	jam	jap	jar	jaw	jay	jib	job	lab	nab	tab	
+371	bag	fag	gag	hag	jab	jai	jam	jap	jar	jaw	jay	jig	jog	jug	lag	mag	nag	rag	sag	tag	wag	zag	
+372	jab	jag	jam	jap	jar	jaw	jay	tai	
+373	cam	dam	gam	ham	jab	jag	jai	jap	jar	jaw	jay	jim	lam	nam	ram	sam	tam	yam	
+374	cap	gap	hap	jab	jag	jai	jam	jar	jaw	jay	lap	map	nap	pap	rap	sap	tap	yap	zap	
+375	bar	car	ear	far	gar	jab	jag	jai	jam	jap	jaw	jay	mar	oar	par	tar	war	
+376	caw	daw	haw	jab	jag	jai	jam	jap	jar	jay	jew	law	maw	paw	raw	saw	taw	yaw	
+377	bay	cay	day	fay	gay	hay	jab	jag	jai	jam	jap	jar	jaw	joy	lay	may	nay	pay	ray	say	way	yay	
+378	act	jet	jot	jut	pct	
+379	bet	get	jct	jeu	jew	jot	jut	let	met	net	pet	ret	set	vet	wet	yet	
+380	jet	jew	leu	
+381	dew	few	hew	jaw	jet	jeu	mew	new	pew	sew	yew	
+382	bib	fib	jab	jig	jim	job	lib	nib	rib	sib	
+383	big	dig	fig	gig	jag	jib	jim	jog	jug	mig	pig	rig	wig	zig	
+384	aim	dim	him	jam	jib	jig	lim	nim	rim	tim	vim	
+385	bob	cob	fob	gob	hob	jab	jib	joe	jog	jot	joy	lob	mob	nob	rob	sob	
+386	doe	foe	hoe	job	jog	jot	joy	roe	toe	woe	
+387	bog	cog	dog	fog	hog	jag	jig	job	joe	jot	joy	jug	log	nog	tog	
+388	bot	cot	dot	got	hot	jct	jet	job	joe	jog	joy	jut	lot	mot	not	pot	rot	sot	tot	
+389	boy	coy	goy	jay	job	joe	jog	jot	soy	toy	
+390	bug	dug	hug	jag	jig	jog	jus	jut	lug	mug	pug	rug	tug	
+391	bus	jug	jut	pus	
+392	but	cut	gut	hut	jct	jet	jot	jug	jus	nut	out	put	rut	tut	
+393	beg	ken	key	leg	meg	peg	reg	
+394	ben	den	fen	gen	hen	keg	key	kin	men	pen	ten	wen	yen	zen	
+395	bey	fey	hey	keg	ken	ley	
+396	aid	bid	did	hid	kin	kip	kit	lid	mid	rid	yid	
+397	bin	din	fin	gin	ken	kid	kip	kit	min	pin	sin	tin	vin	win	yin	
+398	dip	gip	hip	kid	kin	kit	lip	nip	pip	rip	sip	tip	vip	yip	zip	
+399	bit	cit	fit	git	hit	kid	kin	kip	lit	nit	pit	sit	tit	wit	
+400	cab	dab	gab	jab	lac	lad	lag	lam	lap	law	lax	lay	lib	lob	nab	tab	
+401	lab	lad	lag	lam	lap	law	lax	lay	loc	mac	pac	sac	
+402	bad	cad	dad	fad	gad	had	lab	lac	lag	lam	lap	law	lax	lay	led	lid	mad	pad	rad	sad	tad	wad	
+403	bag	fag	gag	hag	jag	lab	lac	lad	lam	lap	law	lax	lay	leg	log	lug	mag	nag	rag	sag	tag	wag	zag	
+404	cam	dam	gam	ham	jam	lab	lac	lad	lag	lap	law	lax	lay	lim	lpm	nam	ram	sam	tam	yam	
+405	cap	gap	hap	jap	lab	lac	lad	lag	lam	law	lax	lay	lip	lop	map	nap	pap	rap	sap	tap	yap	zap	
+406	caw	daw	haw	jaw	lab	lac	lad	lag	lam	lap	lax	lay	low	maw	paw	raw	saw	taw	yaw	
+407	fax	lab	lac	lad	lag	lam	lap	law	lay	lex	lox	lux	max	pax	sax	tax	wax	
+408	bay	cay	day	fay	gay	hay	jay	lab	lac	lad	lag	lam	lap	law	lax	ley	may	nay	pay	ray	say	way	yay	
+409	abs	tbs	
+410	led	lee	leg	lei	lek	leo	let	leu	lev	lex	ley	mea	pea	sea	tea	yea	
+411	bed	fed	lad	lea	lee	leg	lei	lek	leo	let	leu	lev	lex	ley	lid	ped	qed	red	wed	zed	
+412	bee	fee	gee	hee	lea	led	leg	lei	lek	leo	let	leu	lev	lex	ley	lie	lye	nee	pee	see	tee	vee	wee	zee	
+413	beg	keg	lag	lea	led	lee	lei	lek	leo	let	leu	lev	lex	ley	log	lug	meg	peg	reg	
+414	dei	lea	led	lee	leg	lek	leo	let	leu	lev	lex	ley	
+415	lea	led	lee	leg	lei	leo	let	leu	lev	lex	ley	
+416	lea	led	lee	leg	lei	lek	let	leu	lev	lex	ley	loo	
+417	bet	get	jet	lea	led	lee	leg	lei	lek	leo	leu	lev	lex	ley	lit	lot	met	net	pet	ret	set	vet	wet	yet	
+418	jeu	lea	led	lee	leg	lei	lek	leo	let	lev	lex	ley	
+419	lea	led	lee	leg	lei	lek	leo	let	leu	lex	ley	rev	
+420	hex	lax	lea	led	lee	leg	lei	lek	leo	let	leu	lev	ley	lox	lux	rex	sex	tex	vex	
+421	bey	fey	hey	key	lay	lea	led	lee	leg	lei	lek	leo	let	leu	lev	lex	
+422	bib	fib	jib	lab	lid	lie	lim	lip	liq	lit	lob	nib	rib	sib	
+423	aid	bid	did	hid	kid	lad	led	lib	lie	lim	lip	liq	lit	mid	rid	yid	
+424	die	fie	hie	lee	lib	lid	lim	lip	liq	lit	lye	pie	tie	vie	
+425	aim	dim	him	jim	lam	lib	lid	lie	lip	liq	lit	lpm	nim	rim	tim	vim	
+426	dip	gip	hip	kip	lap	lib	lid	lie	lim	liq	lit	lop	nip	pip	rip	sip	tip	vip	yip	zip	
+427	lib	lid	lie	lim	lip	lit	
+428	bit	cit	fit	git	hit	kit	let	lib	lid	lie	lim	lip	liq	lot	nit	pit	sit	tit	wit	
+429	bob	cob	fob	gob	hob	job	lab	lib	loc	log	loo	lop	lot	low	lox	mob	nob	rob	sob	
+430	doc	hoc	lac	lob	log	loo	lop	lot	low	lox	roc	soc	
+431	bog	cog	dog	fog	hog	jog	lag	leg	lob	loc	loo	lop	lot	low	lox	lug	nog	tog	
+432	boo	coo	goo	leo	lob	loc	log	lop	lot	low	lox	moo	too	woo	zoo	
+433	bop	cop	fop	hop	lap	lip	lob	loc	log	loo	lot	low	lox	mop	pop	sop	top	wop	
+434	bot	cot	dot	got	hot	jot	let	lit	lob	loc	log	loo	lop	low	lox	mot	not	pot	rot	sot	tot	
+435	bow	cow	how	law	lob	loc	log	loo	lop	lot	lox	mow	now	pow	row	sow	tow	vow	wow	yow	
+436	box	fox	lax	lex	lob	loc	log	loo	lop	lot	low	lux	pox	sox	vox	
+437	lam	lim	rpm	wpm	
+438	bug	dug	hug	jug	lag	leg	log	lux	mug	pug	rug	tug	
+439	aux	lax	lex	lox	lug	mux	tux	
+440	aye	bye	dye	eye	lee	lie	rye	wye	
+441	lac	mad	mag	mal	man	mao	map	mar	mas	mat	maw	max	may	pac	sac	
+442	bad	cad	dad	fad	gad	had	lad	mac	mag	mal	man	mao	map	mar	mas	mat	maw	max	may	mfd	mid	mod	mud	pad	rad	sad	tad	wad	
+443	bag	fag	gag	hag	jag	lag	mac	mad	mal	man	mao	map	mar	mas	mat	maw	max	may	meg	mfg	mig	mpg	msg	mug	nag	rag	sag	tag	wag	zag	
+444	cal	gal	mac	mad	mag	man	mao	map	mar	mas	mat	maw	max	may	mil	pal	sal	val	
+445	ban	can	dan	fan	mac	mad	mag	mal	mao	map	mar	mas	mat	maw	max	may	men	min	mon	nan	pan	ran	san	tan	van	wan	
+446	mac	mad	mag	mal	man	map	mar	mas	mat	maw	max	may	moo	tao	
+447	cap	gap	hap	jap	lap	mac	mad	mag	mal	man	mao	mar	mas	mat	maw	max	may	mop	nap	pap	rap	sap	tap	yap	zap	
+448	bar	car	ear	far	gar	jar	mac	mad	mag	mal	man	mao	map	mas	mat	maw	max	may	mer	oar	par	tar	war	
+449	bas	gas	has	mac	mad	mag	mal	man	mao	map	mar	mat	maw	max	may	mss	pas	was	
+450	bat	cat	eat	fat	gat	hat	mac	mad	mag	mal	man	mao	map	mar	mas	maw	max	may	met	mkt	mot	oat	pat	rat	sat	tat	vat	
+451	caw	daw	haw	jaw	law	mac	mad	mag	mal	man	mao	map	mar	mas	mat	max	may	mew	mow	paw	raw	saw	taw	yaw	
+452	fax	lax	mac	mad	mag	mal	man	mao	map	mar	mas	mat	maw	may	mix	mux	pax	sax	tax	wax	
+453	bay	cay	day	fay	gay	hay	jay	lay	mac	mad	mag	mal	man	mao	map	mar	mas	mat	maw	max	nay	pay	ray	say	way	yay	
+454	lea	meg	men	mer	met	mew	pea	sea	tea	yea	
+455	beg	keg	leg	mag	mea	men	mer	met	mew	mfg	mig	mpg	msg	mug	peg	reg	
+456	ben	den	fen	gen	hen	ken	man	mea	meg	mer	met	mew	min	mon	pen	ten	wen	yen	zen	
+457	der	her	mar	mea	meg	men	met	mew	per	
+458	bet	get	jet	let	mat	mea	meg	men	mer	mew	mkt	mot	net	pet	ret	set	vet	wet	yet	
+459	dew	few	hew	jew	maw	mea	meg	men	mer	met	mow	new	pew	sew	yew	
+460	mad	mfg	mid	mod	mud	
+461	mag	meg	mfd	mig	mpg	msg	mug	
+462	aid	bid	did	hid	kid	lid	mad	mfd	mig	mil	min	mix	mod	mud	rid	yid	
+463	big	dig	fig	gig	jig	mag	meg	mfg	mid	mil	min	mix	mpg	msg	mug	pig	rig	wig	zig	
+464	ail	mal	mid	mig	min	mix	nil	oil	til	
+465	bin	din	fin	gin	kin	man	men	mid	mig	mil	mix	mon	pin	sin	tin	vin	win	yin	
+466	fix	max	mid	mig	mil	min	mux	nix	pix	six	xix	
+467	mat	met	mot	
+468	bob	cob	fob	gob	hob	job	lob	mod	moi	mom	mon	moo	mop	mot	mow	nob	rob	sob	
+469	bod	cod	god	hod	mad	mfd	mid	mob	moi	mom	mon	moo	mop	mot	mow	mud	nod	pod	rod	sod	yod	
+470	hoi	mob	mod	mom	mon	moo	mop	mot	mow	poi	
+471	com	dom	mob	mod	moi	mon	moo	mop	mot	mow	mum	nom	rom	tom	
+472	bon	con	don	eon	hon	ion	man	men	min	mob	mod	moi	mom	moo	mop	mot	mow	non	son	ton	von	won	yon	
+473	boo	coo	goo	loo	mao	mob	mod	moi	mom	mon	mop	mot	mow	too	woo	zoo	
+474	bop	cop	fop	hop	lop	map	mob	mod	moi	mom	mon	moo	mot	mow	pop	sop	top	wop	
+475	bot	cot	dot	got	hot	jot	lot	mat	met	mkt	mob	mod	moi	mom	mon	moo	mop	mow	not	pot	rot	sot	tot	
+476	bow	cow	how	low	maw	mew	mob	mod	moi	mom	mon	moo	mop	mot	now	pow	row	sow	tow	vow	wow	yow	
+477	mag	meg	mfg	mig	mph	msg	mug	
+478	mpg	
+479	mag	meg	mfg	mig	mpg	mss	mug	
+480	ass	ess	mas	msg	
+481	aud	bud	cud	dud	iud	mad	mfd	mid	mod	mug	mum	mux	pud	
+482	bug	dug	hug	jug	lug	mag	meg	mfg	mig	mpg	msg	mud	mum	mux	pug	rug	tug	
+483	bum	cum	gum	hum	mom	mud	mug	mux	rum	sum	
+484	aux	lux	max	mix	mud	mug	mum	tux	
+485	cab	dab	gab	jab	lab	nae	nag	nam	nan	nap	nay	neb	nib	nob	nub	tab	
+486	nab	nag	nam	nan	nap	nay	nee	
+487	bag	fag	gag	hag	jag	lag	mag	nab	nae	nam	nan	nap	nay	nog	rag	sag	tag	wag	zag	
+488	cam	dam	gam	ham	jam	lam	nab	nae	nag	nan	nap	nay	nim	nom	ram	sam	tam	yam	
+489	ban	can	dan	fan	man	nab	nae	nag	nam	nap	nay	non	nun	pan	ran	san	tan	van	wan	
+490	cap	gap	hap	jap	lap	map	nab	nae	nag	nam	nan	nay	nip	pap	rap	sap	tap	yap	zap	
+491	bay	cay	day	fay	gay	hay	jay	lay	may	nab	nae	nag	nam	nan	nap	pay	ray	say	way	yay	
+492	deb	nab	nee	net	new	nib	nob	nub	reb	web	
+493	bee	fee	gee	hee	lee	nae	neb	net	new	pee	see	tee	vee	wee	zee	
+494	bet	get	jet	let	met	neb	nee	new	nit	not	nut	pet	ret	set	vet	wet	yet	
+495	dew	few	hew	jew	mew	neb	nee	net	now	pew	sew	yew	
+496	bib	fib	jib	lib	nab	neb	nil	nim	nip	nit	nix	nob	nub	rib	sib	
+497	ail	mil	nib	nim	nip	nit	nix	oil	til	
+498	aim	dim	him	jim	lim	nam	nib	nil	nip	nit	nix	nom	rim	tim	vim	
+499	dip	gip	hip	kip	lip	nap	nib	nil	nim	nit	nix	pip	rip	sip	tip	vip	yip	zip	
+500	bit	cit	fit	git	hit	kit	lit	net	nib	nil	nim	nip	nix	not	nut	pit	sit	tit	wit	
+501	fix	mix	nib	nil	nim	nip	nit	pix	six	xix	
+502	bob	cob	fob	gob	hob	job	lob	mob	nab	neb	nib	nod	nog	nom	non	nor	nos	not	now	nub	rob	sob	
+503	bod	cod	god	hod	mod	nob	nog	nom	non	nor	nos	not	now	pod	rod	sod	yod	
+504	bog	cog	dog	fog	hog	jog	log	nag	nob	nod	nom	non	nor	nos	not	now	tog	
+505	com	dom	mom	nam	nim	nob	nod	nog	non	nor	nos	not	now	rom	tom	
+506	bon	con	don	eon	hon	ion	mon	nan	nob	nod	nog	nom	nor	nos	not	now	nun	son	ton	von	won	yon	
+507	for	hor	nob	nod	nog	nom	non	nos	not	now	tor	
+508	dos	nob	nod	nog	nom	non	nor	not	now	sos	
+509	bot	cot	dot	got	hot	jot	lot	mot	net	nit	nob	nod	nog	nom	non	nor	nos	now	nut	pot	rot	sot	tot	
+510	bow	cow	how	low	mow	new	nob	nod	nog	nom	non	nor	nos	not	pow	row	sow	tow	vow	wow	yow	
+511	
+512	bub	cub	dub	hub	nab	neb	nib	nob	nun	nut	pub	rub	sub	tub	
+513	bun	dun	fun	gun	hun	nan	non	nub	nut	pun	run	sun	tun	
+514	but	cut	gut	hut	jut	net	nit	not	nub	nun	out	put	rut	tut	
+515	oak	oar	oat	off	
+516	oaf	oar	oat	yak	
+517	bar	car	ear	far	gar	jar	mar	oaf	oak	oat	our	par	tar	war	
+518	bat	cat	eat	fat	gat	hat	mat	oaf	oak	oar	oft	opt	ort	out	pat	rat	sat	tat	vat	
+519	fbi	oui	
+520	add	ode	old	
+521	odd	ole	one	ope	ore	owe	
+522	oaf	oft	
+523	aft	eft	oat	off	opt	ort	out	
+524	chm	oho	ohs	
+525	ohm	ohs	rho	tho	who	
+526	ahs	ohm	oho	oms	ops	ors	uhs	
+527	ail	mil	nil	owl	til	
+528	eld	odd	ole	
+529	ale	ode	old	one	ope	ore	owe	
+530	ems	ohs	ops	ors	
+531	ode	ole	ope	ore	owe	
+532	
+533	ape	ode	ole	one	opp	ops	opt	ore	owe	
+534	app	ope	ops	opt	
+535	bps	cps	fps	ohs	oms	ope	opp	opt	ors	ups	
+536	apt	oat	oft	ope	opp	ops	ort	out	
+537	orc	ore	ors	ort	urb	
+538	arc	crc	orb	ore	ors	ort	
+539	are	ere	ire	ode	ole	one	ope	orb	orc	ors	ort	owe	pre	
+540	ars	hrs	irs	ohs	oms	ops	orb	orc	ore	ort	prs	yrs	
+541	art	oat	oft	opt	orb	orc	ore	ors	out	
+542	obi	our	out	qui	sui	
+543	bur	cur	fur	oar	oui	out	
+544	but	cut	gut	hut	jut	nut	oat	oft	opt	ort	oui	our	put	rut	tut	
+545	
+546	awe	ewe	ode	ole	one	ope	ore	owl	own	
+547	awl	oil	owe	own	
+548	awn	owe	owl	
+549	
+550	lac	mac	pad	pal	pan	pap	par	pas	pat	paw	pax	pay	sac	
+551	bad	cad	dad	fad	gad	had	lad	mad	pac	pal	pan	pap	par	pas	pat	paw	pax	pay	ped	pod	ppd	pud	rad	sad	tad	wad	
+552	cal	gal	mal	pac	pad	pan	pap	par	pas	pat	paw	pax	pay	pol	sal	val	
+553	ban	can	dan	fan	man	nan	pac	pad	pal	pap	par	pas	pat	paw	pax	pay	pen	pin	pun	ran	san	tan	van	wan	
+554	cap	gap	hap	jap	lap	map	nap	pac	pad	pal	pan	par	pas	pat	paw	pax	pay	pep	pip	pop	pup	rap	sap	tap	yap	zap	
+555	bar	car	ear	far	gar	jar	mar	oar	pac	pad	pal	pan	pap	pas	pat	paw	pax	pay	per	tar	war	
+556	bas	gas	has	mas	pac	pad	pal	pan	pap	par	pat	paw	pax	pay	prs	pts	pus	was	
+557	bat	cat	eat	fat	gat	hat	mat	oat	pac	pad	pal	pan	pap	par	pas	paw	pax	pay	pct	pet	pit	pot	put	rat	sat	tat	vat	
+558	caw	daw	haw	jaw	law	maw	pac	pad	pal	pan	pap	par	pas	pat	pax	pay	pew	pow	raw	saw	taw	yaw	
+559	fax	lax	max	pac	pad	pal	pan	pap	par	pas	pat	paw	pay	pbx	pix	pox	pyx	sax	tax	wax	
+560	bay	cay	day	fay	gay	hay	jay	lay	may	nay	pac	pad	pal	pan	pap	par	pas	pat	paw	pax	ply	pry	ray	say	way	yay	
+561	pax	pix	pox	pyx	
+562	act	jct	pat	pet	pit	pot	put	
+563	lea	mea	ped	pee	peg	pen	pep	per	pet	pew	sea	tea	yea	
+564	bed	fed	led	pad	pea	pee	peg	pen	pep	per	pet	pew	pod	ppd	pud	qed	red	wed	zed	
+565	bee	fee	gee	hee	lee	nee	pea	ped	peg	pen	pep	per	pet	pew	pie	pre	see	tee	vee	wee	zee	
+566	beg	keg	leg	meg	pea	ped	pee	pen	pep	per	pet	pew	pig	pkg	pug	reg	
+567	ben	den	fen	gen	hen	ken	men	pan	pea	ped	pee	peg	pep	per	pet	pew	pin	pun	ten	wen	yen	zen	
+568	hep	pap	pea	ped	pee	peg	pen	per	pet	pew	pip	pop	pup	rep	yep	
+569	der	her	mer	par	pea	ped	pee	peg	pen	pep	pet	pew	
+570	bet	get	jet	let	met	net	pat	pct	pea	ped	pee	peg	pen	pep	per	pew	pit	pot	put	ret	set	vet	wet	yet	
+571	dew	few	hew	jew	mew	new	paw	pea	ped	pee	peg	pen	pep	per	pet	pow	sew	yew	
+572	chi	poi	psi	
+573	die	fie	hie	lie	pee	pig	pin	pip	pit	pix	pre	tie	vie	
+574	big	dig	fig	gig	jig	mig	peg	pie	pin	pip	pit	pix	pkg	pug	rig	wig	zig	
+575	bin	din	fin	gin	kin	min	pan	pen	pie	pig	pip	pit	pix	pun	sin	tin	vin	win	yin	
+576	dip	gip	hip	kip	lip	nip	pap	pep	pie	pig	pin	pit	pix	pop	pup	rip	sip	tip	vip	yip	zip	
+577	bit	cit	fit	git	hit	kit	lit	nit	pat	pct	pet	pie	pig	pin	pip	pix	pot	put	sit	tit	wit	
+578	fix	mix	nix	pax	pbx	pie	pig	pin	pip	pit	pox	pyx	six	xix	
+579	peg	pig	pug	
+580	fly	pay	pry	sly	
+581	bod	cod	god	hod	mod	nod	pad	ped	poi	pol	pop	pot	pow	pox	ppd	pud	rod	sod	yod	
+582	hoi	moi	phi	pod	pol	pop	pot	pow	pox	psi	
+583	col	pal	pod	poi	pop	pot	pow	pox	sol	vol	
+584	bop	cop	fop	hop	lop	mop	pap	pep	pip	pod	poi	pol	pot	pow	pox	pup	sop	top	wop	
+585	bot	cot	dot	got	hot	jot	lot	mot	not	pat	pct	pet	pit	pod	poi	pol	pop	pow	pox	put	rot	sot	tot	
+586	bow	cow	how	low	mow	now	paw	pew	pod	poi	pol	pop	pot	pox	row	sow	tow	vow	wow	yow	
+587	box	fox	lox	pax	pbx	pix	pod	poi	pol	pop	pot	pow	pyx	sox	vox	
+588	pad	ped	pod	pud	
+589	are	ere	ire	ore	pee	pie	pro	prs	pry	
+590	bro	fro	pre	prs	pry	
+591	ars	hrs	irs	ors	pas	pre	pro	pry	pts	pus	yrs	
+592	cry	dry	fry	pay	ply	pre	pro	prs	try	wry	
+593	psi	
+594	phi	poi	psf	
+595	cts	hts	its	pas	prs	pus	qts	
+596	bub	cub	dub	hub	nub	pud	pug	pun	pup	pus	put	rub	sub	tub	
+597	aud	bud	cud	dud	iud	mud	pad	ped	pod	ppd	pub	pug	pun	pup	pus	put	
+598	bug	dug	hug	jug	lug	mug	peg	pig	pkg	pub	pud	pun	pup	pus	put	rug	tug	
+599	bun	dun	fun	gun	hun	nun	pan	pen	pin	pub	pud	pug	pup	pus	put	run	sun	tun	
+600	cup	dup	hup	pap	pep	pip	pop	pub	pud	pug	pun	pus	put	sup	tup	yup	
+601	bus	jus	pas	prs	pts	pub	pud	pug	pun	pup	put	
+602	but	cut	gut	hut	jut	nut	out	pat	pct	pet	pit	pot	pub	pud	pug	pun	pup	pus	rut	tut	
+603	pax	pbx	pix	pox	
+604	bed	fed	led	ped	red	wed	zed	
+605	cts	hts	its	pts	qty	
+606	qts	sty	tty	
+607	que	qui	quo	
+608	cue	due	hue	qua	qui	quo	rue	sue	
+609	oui	qua	que	quo	sui	
+610	duo	qua	que	qui	
+611	bad	cad	dad	fad	gad	had	lad	mad	pad	rag	rah	ram	ran	rap	rat	raw	ray	red	rid	rod	sad	tad	wad	
+612	bag	fag	gag	hag	jag	lag	mag	nag	rad	rah	ram	ran	rap	rat	raw	ray	reg	rig	rug	sag	tag	wag	zag	
+613	aah	bah	hah	rad	rag	ram	ran	rap	rat	raw	ray	
+614	cam	dam	gam	ham	jam	lam	nam	rad	rag	rah	ran	rap	rat	raw	ray	rem	rim	rom	rpm	rum	sam	tam	yam	
+615	ban	can	dan	fan	man	nan	pan	rad	rag	rah	ram	rap	rat	raw	ray	run	san	tan	van	wan	
+616	cap	gap	hap	jap	lap	map	nap	pap	rad	rag	rah	ram	ran	rat	raw	ray	rep	rip	sap	tap	yap	zap	
+617	bat	cat	eat	fat	gat	hat	mat	oat	pat	rad	rag	rah	ram	ran	rap	raw	ray	ret	rot	rut	sat	tat	vat	
+618	caw	daw	haw	jaw	law	maw	paw	rad	rag	rah	ram	ran	rap	rat	ray	row	saw	taw	yaw	
+619	bay	cay	day	fay	gay	hay	jay	lay	may	nay	pay	rad	rag	rah	ram	ran	rap	rat	raw	say	way	yay	
+620	deb	neb	rec	red	ref	reg	rem	rep	req	ret	rev	rex	rib	rob	rub	web	
+621	dec	reb	red	ref	reg	rem	rep	req	ret	rev	rex	roc	sec	
+622	bed	fed	led	ped	qed	rad	reb	rec	ref	reg	rem	rep	req	ret	rev	rex	rid	rod	wed	zed	
+623	reb	rec	red	reg	rem	rep	req	ret	rev	rex	
+624	beg	keg	leg	meg	peg	rag	reb	rec	red	ref	rem	rep	req	ret	rev	rex	rig	rug	
+625	fem	gem	hem	ram	reb	rec	red	ref	reg	rep	req	ret	rev	rex	rim	rom	rpm	rum	tem	
+626	hep	pep	rap	reb	rec	red	ref	reg	rem	req	ret	rev	rex	rip	yep	
+627	reb	rec	red	ref	reg	rem	rep	ret	rev	rex	seq	
+628	bet	get	jet	let	met	net	pet	rat	reb	rec	red	ref	reg	rem	rep	req	rev	rex	rot	rut	set	vet	wet	yet	
+629	lev	reb	rec	red	ref	reg	rem	rep	req	ret	rex	
+630	hex	lex	reb	rec	red	ref	reg	rem	rep	req	ret	rev	sex	tex	vex	
+631	oho	tho	who	
+632	bib	fib	jib	lib	nib	reb	rid	rig	rim	rip	rob	rub	sib	
+633	aid	bid	did	hid	kid	lid	mid	rad	red	rib	rig	rim	rip	rod	yid	
+634	big	dig	fig	gig	jig	mig	pig	rag	reg	rib	rid	rim	rip	rug	wig	zig	
+635	aim	dim	him	jim	lim	nim	ram	rem	rib	rid	rig	rip	rom	rpm	rum	tim	vim	
+636	dip	gip	hip	kip	lip	nip	pip	rap	rep	rib	rid	rig	rim	sip	tip	vip	yip	zip	
+637	bob	cob	fob	gob	hob	job	lob	mob	nob	reb	rib	roc	rod	roe	rom	rot	row	rub	sob	
+638	doc	hoc	loc	rec	rob	rod	roe	rom	rot	row	soc	
+639	bod	cod	god	hod	mod	nod	pod	rad	red	rid	rob	roc	roe	rom	rot	row	sod	yod	
+640	doe	foe	hoe	joe	rob	roc	rod	rom	rot	row	rte	rue	rye	toe	woe	
+641	com	dom	mom	nom	ram	rem	rim	rob	roc	rod	roe	rot	row	rpm	rum	tom	
+642	bot	cot	dot	got	hot	jot	lot	mot	not	pot	rat	ret	rob	roc	rod	roe	rom	row	rut	sot	tot	
+643	bow	cow	how	low	mow	now	pow	raw	rob	roc	rod	roe	rom	rot	sow	tow	vow	wow	yow	
+644	lpm	ram	rem	rim	rom	rum	wpm	
+645	ate	roe	rue	rye	
+646	bub	cub	dub	hub	nub	pub	reb	rib	rob	rue	rug	rum	run	rut	sub	tub	
+647	cue	due	hue	que	roe	rte	rub	rug	rum	run	rut	rye	sue	
+648	bug	dug	hug	jug	lug	mug	pug	rag	reg	rig	rub	rue	rum	run	rut	tug	
+649	bum	cum	gum	hum	mum	ram	rem	rim	rom	rpm	rub	rue	rug	run	rut	sum	
+650	bun	dun	fun	gun	hun	nun	pun	ran	rub	rue	rug	rum	rut	sun	tun	
+651	but	cut	gut	hut	jut	nut	out	put	rat	ret	rot	rub	rue	rug	rum	run	tut	
+652	rye	
+653	aye	bye	dye	eye	lye	roe	rte	rue	rya	wye	
+654	lac	mac	pac	sad	sag	sal	sam	san	sap	sat	saw	sax	say	sec	sic	soc	
+655	bad	cad	dad	fad	gad	had	lad	mad	pad	rad	sac	sag	sal	sam	san	sap	sat	saw	sax	say	sod	tad	wad	
+656	bag	fag	gag	hag	jag	lag	mag	nag	rag	sac	sad	sal	sam	san	sap	sat	saw	sax	say	tag	wag	zag	
+657	cal	gal	mal	pal	sac	sad	sag	sam	san	sap	sat	saw	sax	say	sol	val	
+658	cam	dam	gam	ham	jam	lam	nam	ram	sac	sad	sag	sal	san	sap	sat	saw	sax	say	sum	tam	yam	
+659	ban	can	dan	fan	man	nan	pan	ran	sac	sad	sag	sal	sam	sap	sat	saw	sax	say	sin	son	sun	tan	van	wan	
+660	cap	gap	hap	jap	lap	map	nap	pap	rap	sac	sad	sag	sal	sam	san	sat	saw	sax	say	sip	sop	sup	tap	yap	zap	
+661	bat	cat	eat	fat	gat	hat	mat	oat	pat	rat	sac	sad	sag	sal	sam	san	sap	saw	sax	say	set	sit	sot	tat	vat	
+662	caw	daw	haw	jaw	law	maw	paw	raw	sac	sad	sag	sal	sam	san	sap	sat	sax	say	sew	sow	taw	yaw	
+663	fax	lax	max	pax	sac	sad	sag	sal	sam	san	sap	sat	saw	say	sex	six	sox	tax	wax	
+664	bay	cay	day	fay	gay	hay	jay	lay	may	nay	pay	ray	sac	sad	sag	sal	sam	san	sap	sat	saw	sax	shy	sky	sly	soy	spy	sty	way	yay	
+665	ski	sri	sui	
+666	lea	mea	pea	sec	see	seq	set	sew	sex	spa	tea	yea	
+667	dec	rec	sac	sea	see	seq	set	sew	sex	sic	soc	
+668	bee	fee	gee	hee	lee	nee	pee	sea	sec	seq	set	sew	sex	she	sue	tee	vee	wee	zee	
+669	req	sea	sec	see	set	sew	sex	
+670	bet	get	jet	let	met	net	pet	ret	sat	sea	sec	see	seq	sew	sex	sit	sot	vet	wet	yet	
+671	dew	few	hew	jew	mew	new	pew	saw	sea	sec	see	seq	set	sex	sow	yew	
+672	hex	lex	rex	sax	sea	sec	see	seq	set	sew	six	sox	tex	vex	
+673	see	shy	sue	the	
+674	say	she	sky	sly	soy	spy	sty	thy	why	
+675	bib	fib	jib	lib	nib	rib	sic	sin	sip	sir	sis	sit	six	sob	sub	
+676	hic	sac	sec	sib	sin	sip	sir	sis	sit	six	soc	tic	
+677	bin	din	fin	gin	kin	min	pin	san	sib	sic	sip	sir	sis	sit	six	son	sun	tin	vin	win	yin	
+678	dip	gip	hip	kip	lip	nip	pip	rip	sap	sib	sic	sin	sir	sis	sit	six	sop	sup	tip	vip	yip	zip	
+679	air	fir	sib	sic	sin	sip	sis	sit	six	
+680	dis	his	sib	sic	sin	sip	sir	sit	six	sos	tis	
+681	bit	cit	fit	git	hit	kit	lit	nit	pit	sat	set	sib	sic	sin	sip	sir	sis	six	sot	tit	wit	
+682	fix	mix	nix	pix	sax	sex	sib	sic	sin	sip	sir	sis	sit	sox	xix	
+683	sci	sky	sri	sui	
+684	say	shy	ski	sly	soy	spy	sty	
+685	fly	ply	say	shy	sky	soy	spy	sty	
+686	bob	cob	fob	gob	hob	job	lob	mob	nob	rob	sib	soc	sod	sol	son	sop	sos	sot	sow	sox	soy	sub	
+687	doc	hoc	loc	roc	sac	sec	sic	sob	sod	sol	son	sop	sos	sot	sow	sox	soy	
+688	bod	cod	god	hod	mod	nod	pod	rod	sad	sob	soc	sol	son	sop	sos	sot	sow	sox	soy	yod	
+689	col	pol	sal	sob	soc	sod	son	sop	sos	sot	sow	sox	soy	vol	
+690	bon	con	don	eon	hon	ion	mon	non	san	sin	sob	soc	sod	sol	sop	sos	sot	sow	sox	soy	sun	ton	von	won	yon	
+691	bop	cop	fop	hop	lop	mop	pop	sap	sip	sob	soc	sod	sol	son	sos	sot	sow	sox	soy	sup	top	wop	
+692	dos	nos	sis	sob	soc	sod	sol	son	sop	sot	sow	sox	soy	
+693	bot	cot	dot	got	hot	jot	lot	mot	not	pot	rot	sat	set	sit	sob	soc	sod	sol	son	sop	sos	sow	sox	soy	tot	
+694	bow	cow	how	low	mow	now	pow	row	saw	sew	sob	soc	sod	sol	son	sop	sos	sot	sox	soy	tow	vow	wow	yow	
+695	box	fox	lox	pox	sax	sex	six	sob	soc	sod	sol	son	sop	sos	sot	sow	soy	vox	
+696	boy	coy	goy	joy	say	shy	sky	sly	sob	soc	sod	sol	son	sop	sos	sot	sow	sox	spy	sty	toy	
+697	epa	sea	spy	
+698	say	shy	sky	sly	soy	spa	sty	
+699	sci	ski	sui	
+700	qty	say	shy	sky	sly	soy	spy	tty	
+701	bub	cub	dub	hub	nub	pub	rub	sib	sob	sue	sui	sum	sun	sup	tub	
+702	cue	due	hue	que	rue	see	she	sub	sui	sum	sun	sup	
+703	oui	qui	sci	ski	sri	sub	sue	sum	sun	sup	
+704	bum	cum	gum	hum	mum	rum	sam	sub	sue	sui	sun	sup	
+705	bun	dun	fun	gun	hun	nun	pun	run	san	sin	son	sub	sue	sui	sum	sup	tun	
+706	cup	dup	hup	pup	sap	sip	sop	sub	sue	sui	sum	sun	tup	yup	
+707	cab	dab	gab	jab	lab	nab	tad	tag	tai	tam	tan	tao	tap	tar	tat	tau	taw	tax	tub	
+708	bad	cad	dad	fad	gad	had	lad	mad	pad	rad	sad	tab	tag	tai	tam	tan	tao	tap	tar	tat	tau	taw	tax	wad	
+709	bag	fag	gag	hag	jag	lag	mag	nag	rag	sag	tab	tad	tai	tam	tan	tao	tap	tar	tat	tau	taw	tax	tog	tug	wag	zag	
+710	jai	tab	tad	tag	tam	tan	tao	tap	tar	tat	tau	taw	tax	
+711	cam	dam	gam	ham	jam	lam	nam	ram	sam	tab	tad	tag	tai	tan	tao	tap	tar	tat	tau	taw	tax	tem	tim	tom	yam	
+712	ban	can	dan	fan	man	nan	pan	ran	san	tab	tad	tag	tai	tam	tao	tap	tar	tat	tau	taw	tax	ten	tin	ton	tun	van	wan	
+713	mao	tab	tad	tag	tai	tam	tan	tap	tar	tat	tau	taw	tax	tho	too	two	
+714	cap	gap	hap	jap	lap	map	nap	pap	rap	sap	tab	tad	tag	tai	tam	tan	tao	tar	tat	tau	taw	tax	tip	top	tsp	tup	yap	zap	
+715	bar	car	ear	far	gar	jar	mar	oar	par	tab	tad	tag	tai	tam	tan	tao	tap	tat	tau	taw	tax	tor	war	
+716	bat	cat	eat	fat	gat	hat	mat	oat	pat	rat	sat	tab	tad	tag	tai	tam	tan	tao	tap	tar	tau	taw	tax	tit	tnt	tot	tut	vat	
+717	eau	tab	tad	tag	tai	tam	tan	tao	tap	tar	tat	taw	tax	
+718	caw	daw	haw	jaw	law	maw	paw	raw	saw	tab	tad	tag	tai	tam	tan	tao	tap	tar	tat	tau	tax	tow	yaw	
+719	fax	lax	max	pax	sax	tab	tad	tag	tai	tam	tan	tao	tap	tar	tat	tau	taw	tex	tux	wax	
+720	abs	lbs	tis	
+721	lea	mea	pea	sea	tee	tem	ten	tex	yea	
+722	bee	fee	gee	hee	lee	nee	pee	see	tea	tem	ten	tex	the	tie	toe	vee	wee	zee	
+723	fem	gem	hem	rem	tam	tea	tee	ten	tex	tim	tom	
+724	ben	den	fen	gen	hen	ken	men	pen	tan	tea	tee	tem	tex	tin	ton	tun	wen	yen	zen	
+725	hex	lex	rex	sex	tax	tea	tee	tem	ten	tux	vex	
+726	she	tee	tho	thy	tie	toe	
+727	oho	rho	tao	the	thy	too	two	who	
+728	shy	the	tho	toy	try	tty	why	
+729	hic	sic	tie	til	tim	tin	tip	tis	tit	
+730	die	fie	hie	lie	pie	tee	the	tic	til	tim	tin	tip	tis	tit	toe	vie	
+731	ail	mil	nil	oil	tic	tie	tim	tin	tip	tis	tit	
+732	aim	dim	him	jim	lim	nim	rim	tam	tem	tic	tie	til	tin	tip	tis	tit	tom	vim	
+733	bin	din	fin	gin	kin	min	pin	sin	tan	ten	tic	tie	til	tim	tip	tis	tit	ton	tun	vin	win	yin	
+734	dip	gip	hip	kip	lip	nip	pip	rip	sip	tap	tic	tie	til	tim	tin	tis	tit	top	tsp	tup	vip	yip	zip	
+735	dis	his	sis	tbs	tic	tie	til	tim	tin	tip	tit	
+736	bit	cit	fit	git	hit	kit	lit	nit	pit	sit	tat	tic	tie	til	tim	tin	tip	tis	tnt	tot	tut	wit	
+737	
+738	ant	int	tat	tit	tot	tut	
+739	doe	foe	hoe	joe	roe	tee	the	tie	tog	tom	ton	too	top	tor	tot	tov	tow	toy	woe	
+740	bog	cog	dog	fog	hog	jog	log	nog	tag	toe	tom	ton	too	top	tor	tot	tov	tow	toy	tug	
+741	com	dom	mom	nom	rom	tam	tem	tim	toe	tog	ton	too	top	tor	tot	tov	tow	toy	
+742	bon	con	don	eon	hon	ion	mon	non	son	tan	ten	tin	toe	tog	tom	too	top	tor	tot	tov	tow	toy	tun	von	won	yon	
+743	boo	coo	goo	loo	moo	tao	tho	toe	tog	tom	ton	top	tor	tot	tov	tow	toy	two	woo	zoo	
+744	bop	cop	fop	hop	lop	mop	pop	sop	tap	tip	toe	tog	tom	ton	too	tor	tot	tov	tow	toy	tsp	tup	wop	
+745	for	hor	nor	tar	toe	tog	tom	ton	too	top	tot	tov	tow	toy	
+746	bot	cot	dot	got	hot	jot	lot	mot	not	pot	rot	sot	tat	tit	tnt	toe	tog	tom	ton	too	top	tor	tov	tow	toy	tut	
+747	gov	toe	tog	tom	ton	too	top	tor	tot	tow	toy	
+748	bow	cow	how	low	mow	now	pow	row	sow	taw	toe	tog	tom	ton	too	top	tor	tot	tov	toy	vow	wow	yow	
+749	boy	coy	goy	joy	soy	thy	toe	tog	tom	ton	too	top	tor	tot	tov	tow	try	tty	
+750	
+751	cry	dry	fry	pry	thy	toy	tty	wry	
+752	asp	csp	esp	tap	tip	top	tup	
+753	qty	sty	thy	toy	try	
+754	bub	cub	dub	hub	nub	pub	rub	sub	tab	tug	tun	tup	tut	tux	
+755	bug	dug	hug	jug	lug	mug	pug	rug	tag	tog	tub	tun	tup	tut	tux	
+756	bun	dun	fun	gun	hun	nun	pun	run	sun	tan	ten	tin	ton	tub	tug	tup	tut	tux	
+757	cup	dup	hup	pup	sup	tap	tip	top	tsp	tub	tug	tun	tut	tux	yup	
+758	but	cut	gut	hut	jut	nut	out	put	rut	tat	tit	tnt	tot	tub	tug	tun	tup	tux	
+759	aux	lux	mux	tax	tex	tub	tug	tun	tup	tut	
+760	tao	tho	too	
+761	
+762	
+763	ahs	ohs	ups	
+764	eke	use	
+765	alt	
+766	amp	imp	
+767	bps	cps	fps	ops	uhs	
+768	orb	urn	
+769	urb	
+770	use	
+771	uke	usa	
+772	cal	gal	mal	pal	sal	van	vat	vol	
+773	ban	can	dan	fan	man	nan	pan	ran	san	tan	val	vat	vin	von	wan	
+774	bat	cat	eat	fat	gat	hat	mat	oat	pat	rat	sat	tat	val	van	vet	
+775	bee	fee	gee	hee	lee	nee	pee	see	tee	vet	vex	vie	wee	zee	
+776	bet	get	jet	let	met	net	pet	ret	set	vat	vee	vex	wet	yet	
+777	hex	lex	rex	sex	tex	vee	vet	vox	
+778	cia	vie	vim	vin	vip	viz	
+779	die	fie	hie	lie	pie	tie	vee	via	vim	vin	vip	viz	
+780	aim	dim	him	jim	lim	nim	rim	tim	via	vie	vin	vip	viz	
+781	bin	din	fin	gin	kin	min	pin	sin	tin	van	via	vie	vim	vip	viz	von	win	yin	
+782	dip	gip	hip	kip	lip	nip	pip	rip	sip	tip	via	vie	vim	vin	viz	yip	zip	
+783	via	vie	vim	vin	vip	wiz	
+784	col	pol	sol	val	von	vow	vox	
+785	bon	con	don	eon	hon	ion	mon	non	son	ton	van	vin	vol	vow	vox	won	yon	
+786	bow	cow	how	low	mow	now	pow	row	sow	tow	vol	von	vox	wow	yow	
+787	box	fox	lox	pox	sox	vex	vol	von	vow	
+788	bad	cad	dad	fad	gad	had	lad	mad	pad	rad	sad	tad	wag	wan	war	was	wax	way	wed	
+789	bag	fag	gag	hag	jag	lag	mag	nag	rag	sag	tag	wad	wan	war	was	wax	way	wig	zag	
+790	ban	can	dan	fan	man	nan	pan	ran	san	tan	van	wad	wag	war	was	wax	way	wen	win	won	
+791	bar	car	ear	far	gar	jar	mar	oar	par	tar	wad	wag	wan	was	wax	way	
+792	bas	gas	has	mas	pas	wad	wag	wan	war	wax	way	
+793	fax	lax	max	pax	sax	tax	wad	wag	wan	war	was	way	
+794	bay	cay	day	fay	gay	hay	jay	lay	may	nay	pay	ray	say	wad	wag	wan	war	was	wax	why	wry	yay	
+795	deb	neb	reb	wed	wee	wen	wet	
+796	bed	fed	led	ped	qed	red	wad	web	wee	wen	wet	zed	
+797	bee	fee	gee	hee	lee	nee	pee	see	tee	vee	web	wed	wen	wet	woe	wye	zee	
+798	ben	den	fen	gen	hen	ken	men	pen	ten	wan	web	wed	wee	wet	win	won	yen	zen	
+799	bet	get	jet	let	met	net	pet	ret	set	vet	web	wed	wee	wen	wit	yet	
+800	aha	who	why	
+801	oho	rho	tho	wha	why	woo	
+802	shy	thy	way	wha	who	wry	
+803	big	dig	fig	gig	jig	mig	pig	rig	wag	win	wit	wiz	zig	
+804	bin	din	fin	gin	kin	min	pin	sin	tin	vin	wan	wen	wig	wit	wiz	won	yin	
+805	bit	cit	fit	git	hit	kit	lit	nit	pit	sit	tit	wet	wig	win	wiz	
+806	viz	wig	win	wit	
+807	doe	foe	hoe	joe	roe	toe	wee	wok	won	woo	wop	wow	wye	
+808	woe	won	woo	wop	wow	
+809	bon	con	don	eon	hon	ion	mon	non	son	ton	von	wan	wen	win	woe	wok	woo	wop	wow	yon	
+810	boo	coo	goo	loo	moo	too	who	woe	wok	won	wop	wow	zoo	
+811	bop	cop	fop	hop	lop	mop	pop	sop	top	woe	wok	won	woo	wow	
+812	bow	cow	how	low	mow	now	pow	row	sow	tow	vow	woe	wok	won	woo	wop	yow	
+813	lpm	rpm	
+814	cry	dry	fry	pry	try	way	why	
+815	aye	bye	dye	eye	lye	rye	wee	woe	
+816	iii	xiv	xix	xvi	xxi	
+817	xii	xix	xxv	
+818	fix	mix	nix	pix	six	xii	xiv	xxx	
+819	xii	xxi	
+820	xii	xvi	xxv	xxx	
+821	xiv	xxi	xxx	
+822	xix	xxi	xxv	
+823	oak	yam	yap	yaw	yay	yuk	
+824	cam	dam	gam	ham	jam	lam	nam	ram	sam	tam	yak	yap	yaw	yay	
+825	cap	gap	hap	jap	lap	map	nap	pap	rap	sap	tap	yak	yam	yaw	yay	yep	yip	yup	zap	
+826	caw	daw	haw	jaw	law	maw	paw	raw	saw	taw	yak	yam	yap	yay	yew	yow	
+827	bay	cay	day	fay	gay	hay	jay	lay	may	nay	pay	ray	say	way	yak	yam	yap	yaw	
+828	ads	gds	ids	yes	yrs	
+829	lea	mea	pea	sea	tea	yen	yep	yes	yet	yew	
+830	ben	den	fen	gen	hen	ken	men	pen	ten	wen	yea	yep	yes	yet	yew	yin	yon	zen	
+831	hep	pep	rep	yap	yea	yen	yes	yet	yew	yip	yup	
+832	des	yds	yea	yen	yep	yet	yew	yrs	
+833	bet	get	jet	let	met	net	pet	ret	set	vet	wet	yea	yen	yep	yes	yew	
+834	dew	few	hew	jew	mew	new	pew	sew	yaw	yea	yen	yep	yes	yet	yow	
+835	aid	bid	did	hid	kid	lid	mid	rid	yin	yip	yod	
+836	bin	din	fin	gin	kin	min	pin	sin	tin	vin	win	yen	yid	yip	yon	
+837	dip	gip	hip	kip	lip	nip	pip	rip	sip	tip	vip	yap	yep	yid	yin	yup	zip	
+838	bod	cod	god	hod	mod	nod	pod	rod	sod	yid	yon	you	yow	
+839	bon	con	don	eon	hon	ion	mon	non	son	ton	von	won	yen	yin	yod	you	yow	
+840	iou	yod	yon	yow	
+841	bow	cow	how	low	mow	now	pow	row	sow	tow	vow	wow	yaw	yew	yod	yon	you	
+842	ars	hrs	irs	ors	prs	yds	yes	
+843	auk	yak	yup	
+844	cup	dup	hup	pup	sup	tup	yap	yep	yip	yuk	
+845	bag	fag	gag	hag	jag	lag	mag	nag	rag	sag	tag	wag	zap	zig	
+846	cap	gap	hap	jap	lap	map	nap	pap	rap	sap	tap	yap	zag	zip	
+847	bed	fed	led	ped	qed	red	wed	zee	zen	
+848	bee	fee	gee	hee	lee	nee	pee	see	tee	vee	wee	zed	zen	
+849	ben	den	fen	gen	hen	ken	men	pen	ten	wen	yen	zed	zee	
+850	big	dig	fig	gig	jig	mig	pig	rig	wig	zag	zip	
+851	dip	gip	hip	kip	lip	nip	pip	rip	sip	tip	vip	yip	zap	zig	
+852	boo	coo	goo	loo	moo	too	woo	

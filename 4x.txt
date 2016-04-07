@@ -1,0 +1,3130 @@
+0	hahs	
+1	abbr	able	
+2	abbe	
+3	abet	aced	aged	aped	awed	axed	
+4	abed	abut	
+5	abbe	ably	axle	
+6	able	ally	
+7	abet	
+8	
+9	abed	aces	acid	aged	aped	awed	axed	iced	
+10	aced	acts	ages	ales	apes	ares	aves	awes	axes	ayes	ices	
+11	achy	acme	acne	acre	
+12	ache	ashy	
+13	aced	amid	arid	avid	
+14	
+15	ache	acne	acre	
+16	ache	acme	acre	anne	
+17	ache	acme	acne	
+18	aces	ants	arts	
+19	edam	
+20	ados	aids	ands	odds	
+21	advt	alit	edit	
+22	adds	
+23	adit	
+24	anon	axon	leon	neon	peon	
+25	airy	awry	eery	very	
+26	agar	ajar	alar	
+27	
+28	afar	ajar	alar	
+29	abed	aced	ages	aped	awed	axed	
+30	aces	aged	ales	apes	ares	aves	awes	axes	ayes	
+31	
+32	akin	
+33	
+34	
+35	chem	them	
+36	
+37	aids	bide	fide	hide	ride	side	tide	vide	wide	
+38	adds	aide	ails	aims	airs	ands	bids	fids	kids	lids	mids	rids	yids	
+39	aids	aims	airs	alls	awls	mils	nils	oils	
+40	aids	ails	airs	alms	arms	dims	nims	rims	vims	
+41	aids	ails	aims	airy	firs	sirs	
+42	aery	airs	awry	miry	wiry	
+43	afar	agar	alar	
+44	agin	skin	
+45	alan	alar	alas	alii	
+46	alai	alar	alas	clan	elan	flan	plan	
+47	afar	agar	ajar	alai	alan	alas	
+48	alai	alan	alar	albs	ales	alls	alms	alps	
+49	albs	alfa	alga	alma	
+50	alas	alba	ales	alls	alms	alps	
+51	ales	aloe	flee	glee	
+52	aces	ages	alas	albs	alee	alls	alms	alps	apes	ares	aves	awes	axes	ayes	oles	
+53	alba	alga	alma	
+54	alba	alfa	alma	
+55	alai	alit	
+56	adit	alii	flit	slit	
+57	ails	alas	albs	ales	ally	alms	alps	awls	ells	ills	
+58	ably	alls	illy	
+59	alba	alfa	alga	alms	atma	
+60	aims	alas	albs	ales	alls	alma	alps	arms	elms	
+61	alee	floe	sloe	
+62	alas	albs	ales	alls	alms	amps	asps	
+63	alto	
+64	also	auto	
+65	arum	glum	plum	slum	
+66	ayah	
+67	amex	omen	
+68	amen	apex	
+69	acid	amis	arid	avid	
+70	amid	amps	anis	avis	axis	
+71	
+72	
+73	alps	amis	asps	imps	umps	
+74	
+75	
+76	adds	aids	anis	ants	anus	ends	
+77	knew	
+78	amis	ands	ants	anus	avis	axis	
+79	
+80	anne	anno	
+81	acne	anna	anno	ante	
+82	anna	anne	
+83	aeon	axon	
+84	anti	
+85	anne	anti	ants	
+86	ansi	ante	ants	
+87	acts	ands	anis	ante	anti	anus	arts	
+88	ands	anis	ants	gnus	onus	
+89	abed	aced	aged	aper	apes	apex	awed	axed	sped	
+90	aped	apes	apex	aver	
+91	aces	ages	ales	aped	aper	apex	ares	aves	awes	axes	ayes	opes	
+92	amex	aped	aper	apes	
+93	arse	
+94	
+95	crab	drab	grab	
+96	arco	arcs	orch	
+97	arch	arcs	
+98	arch	arco	ares	arks	arms	arts	orcs	
+99	ares	aria	asea	urea	
+100	aces	ages	ales	apes	arcs	area	arks	arms	arts	aves	awes	axes	ayes	ires	ores	pres	
+101	area	arid	asia	
+102	acid	amid	aria	avid	grid	
+103	arcs	ares	arms	arts	asks	auks	irks	
+104	aims	alms	arcs	ares	arks	army	arts	
+105	arms	arty	
+106	apse	
+107	acts	ants	arcs	ares	arks	arms	arty	orts	
+108	army	arts	atty	
+109	alum	drum	
+110	
+111	area	asia	
+112	achy	
+113	aria	asea	
+114	arks	asps	auks	
+115	alps	amps	asks	
+116	asst	
+117	assn	psst	
+118	alma	
+119	atop	
+120	atom	stop	
+121	atty	
+122	arty	attn	
+123	arks	asks	yuks	
+124	
+125	bunt	cunt	hunt	punt	runt	
+126	
+127	alto	
+128	
+129	aper	aves	ever	over	
+130	aces	ages	ales	apes	ares	aver	avis	awes	axes	ayes	eves	
+131	acid	amid	arid	avis	ovid	
+132	amis	anis	aves	avid	axis	
+133	
+134	awry	sway	
+135	abed	aced	aged	aped	awes	axed	owed	
+136	aces	ages	ales	apes	ares	aves	awed	awls	awns	axes	ayes	ewes	owes	
+137	ails	alls	awes	awns	owls	
+138	awes	awls	owns	
+139	
+140	aery	airy	away	
+141	abed	aced	aged	aped	awed	axel	axes	
+142	axed	axes	axil	
+143	aces	ages	ales	apes	ares	aves	awes	axed	axel	axis	ayes	exes	oxes	
+144	axel	axis	
+145	amis	anis	avis	axes	axil	
+146	able	
+147	aeon	anon	
+148	amah	
+149	aces	ages	ales	apes	ares	aves	awes	axes	byes	dyes	eyes	lyes	oyes	ryes	wyes	
+150	baas	bail	ball	bawl	
+151	baal	bads	bags	bans	bars	bass	bats	bays	bias	boas	bras	
+152	babe	babu	baby	
+153	baba	babu	baby	bade	bake	bale	bane	bare	base	bate	
+154	baba	babe	baby	tabu	
+155	baba	babe	babu	
+156	back	bash	bath	each	mach	tach	
+157	bach	balk	bank	bark	bask	beck	bock	buck	hack	jack	lack	mack	pack	rack	sack	tack	wack	yack	
+158	babe	bads	bake	bale	bane	bare	base	bate	bide	bode	fade	jade	lade	made	vade	wade	
+159	baas	bade	bags	bans	bars	bass	bats	bays	beds	bids	bods	buds	cads	dads	fads	gads	lads	mads	pads	rads	tads	wads	
+160	baas	bads	bans	bars	bass	bats	bays	begs	bogs	bugs	fags	gags	hags	jags	lags	mags	nags	rags	sags	tags	wags	zags	
+161	bait	bast	
+162	baal	bait	ball	bawl	boil	fail	hail	jail	mail	nail	pail	rail	sail	tail	vail	wail	
+163	baht	bail	bast	brit	fait	gait	lait	wait	
+164	babe	bade	bale	bane	bare	base	bate	bike	cake	fake	hake	jake	lake	make	rake	sake	take	wake	
+165	bale	bali	balk	ball	balm	band	bard	baud	bawd	bold	
+166	babe	bade	bake	bald	bali	balk	ball	balm	bane	bare	base	bate	bile	bole	dale	gale	hale	kale	male	pale	sale	tale	vale	wale	yale	
+167	bald	bale	balk	ball	balm	mali	
+168	back	bald	bale	bali	ball	balm	bank	bark	bask	bilk	bulk	calk	talk	walk	
+169	baal	bail	bald	bale	bali	balk	balm	bawl	bell	bill	boll	bull	call	fall	gall	hall	mall	pall	tall	wall	
+170	bald	bale	bali	balk	ball	calm	palm	
+171	bald	bane	bang	bank	bans	bard	baud	bawd	bend	bind	bond	bund	hand	land	rand	sand	wand	
+172	babe	bade	bake	bale	band	bang	bank	bans	bare	base	bate	bene	bone	cane	dane	jane	lane	mane	pane	sane	vane	wane	
+173	band	bane	bank	bans	bong	bung	dang	fang	gang	hang	pang	rang	sang	tang	wang	yang	
+174	back	balk	band	bane	bang	bans	bark	bask	bunk	dank	hank	lank	rank	sank	tank	yank	
+175	baas	bads	bags	band	bane	bang	bank	bars	bass	bats	bays	bens	bins	bons	buns	cans	fans	mans	pans	sans	tans	vans	
+176	bard	bare	barf	bark	barn	bars	garb	
+177	bald	band	barb	bare	barf	bark	barn	bars	baud	bawd	bird	card	hard	lard	nard	pard	ward	yard	
+178	babe	bade	bake	bale	bane	barb	bard	barf	bark	barn	bars	base	bate	bore	byre	care	dare	fare	hare	mare	pare	rare	tare	ware	yare	
+179	barb	bard	bare	bark	barn	bars	
+180	back	balk	bank	barb	bard	bare	barf	barn	bars	bask	dark	hark	lark	mark	nark	park	wark	
+181	barb	bard	bare	barf	bark	bars	born	burn	darn	earn	tarn	warn	yarn	
+182	baas	bads	bags	bans	barb	bard	bare	barf	bark	barn	bass	bats	bays	burs	cars	ears	gars	jars	mars	oars	pars	tars	wars	
+183	babe	bade	bake	bale	bane	bare	bash	bask	bass	bast	bate	case	ease	rase	vase	
+184	bach	base	bask	bass	bast	bath	bosh	bush	cash	dash	gash	hash	lash	mash	rash	sash	wash	
+185	back	balk	bank	bark	base	bash	bass	bast	cask	mask	task	
+186	baas	bads	bags	bans	bars	base	bash	bask	bast	bats	bays	bess	boss	buss	lass	mass	pass	sass	tass	
+187	baht	bait	base	bash	bask	bass	best	bust	cast	east	fast	hast	last	mast	past	vast	wast	
+188	babe	bade	bake	bale	bane	bare	base	bath	bats	bete	bite	byte	date	fate	gate	hate	late	mate	pate	rate	sate	tate	
+189	bach	bash	bate	bats	both	hath	lath	math	oath	path	
+190	baas	bads	bags	bans	bars	bass	bate	bath	bays	bets	bits	buts	cats	eats	fats	gats	hats	mats	oats	pats	rats	tats	vats	wats	
+191	bald	band	bard	bawd	gaud	laud	
+192	bald	band	bard	baud	bawl	
+193	baal	bail	ball	bawd	bowl	pawl	yawl	
+194	baas	bads	bags	bans	bars	bass	bats	beys	boys	buys	cays	days	fays	gays	hays	jays	kays	lays	mays	nays	pays	rays	says	ways	
+195	berm	
+196	beak	beam	bean	bear	beat	beau	bend	brad	dead	head	lead	mead	read	
+197	bead	beam	bean	bear	beat	beau	beck	leak	peak	teak	weak	
+198	bead	beak	bean	bear	beat	beau	berm	ream	seam	team	
+199	bead	beak	beam	bear	beat	beau	been	bran	dean	jean	lean	mean	pean	wean	
+200	bead	beak	beam	bean	beat	beau	beer	boar	dear	fear	gear	hear	lear	near	pear	rear	sear	tear	wear	year	
+201	bead	beak	beam	bean	bear	beau	beet	belt	bent	best	blat	boat	brat	feat	heat	meat	neat	peat	seat	teat	
+202	bead	beak	beam	bean	bear	beat	
+203	back	beak	bock	buck	deck	heck	neck	peck	
+204	bads	bees	begs	bens	bess	bets	beys	bids	bods	buds	feds	peds	reds	teds	weds	zeds	
+205	been	beep	beer	bees	beet	reef	
+206	bean	beef	beep	beer	bees	beet	keen	peen	seen	teen	ween	
+207	beef	been	beer	bees	beet	deep	jeep	keep	peep	seep	veep	weep	
+208	bear	beef	been	beep	bees	beet	bier	boer	deer	jeer	leer	peer	seer	veer	
+209	beds	beef	been	beep	beer	beet	begs	bens	bess	bets	beys	byes	cees	dees	fees	gees	lees	pees	sees	tees	vees	zees	
+210	beat	beef	been	beep	beer	bees	belt	bent	best	feet	meet	
+211	bags	beds	bees	bens	bess	bets	beys	bogs	bugs	kegs	legs	pegs	
+212	ball	belt	bill	boll	bull	cell	dell	fell	hell	jell	sell	tell	well	yell	
+213	beat	beet	bell	bent	best	bolt	celt	felt	gelt	melt	pelt	welt	
+214	beta	
+215	band	bead	bene	bens	bent	bind	bond	bund	fend	lend	mend	pend	rend	send	tend	vend	wend	
+216	bane	bend	bens	bent	bete	bone	gene	
+217	bans	beds	bees	begs	bend	bene	bent	bess	bets	beys	bins	bons	buns	dens	fens	gens	hens	kens	lens	mens	pens	tens	wens	yens	
+218	beat	beet	belt	bend	bene	bens	best	bunt	cent	dent	gent	kent	lent	pent	rent	sent	tent	vent	went	
+219	berm	burg	
+220	bdrm	beam	berg	derm	germ	perm	term	
+221	bass	beds	bees	begs	bens	best	bets	beys	boss	buss	cess	fess	jess	less	mess	ness	
+222	bast	beat	beet	belt	bent	bess	bust	hest	jest	lest	nest	pest	rest	test	vest	west	zest	
+223	bema	bete	bets	feta	meta	zeta	
+224	bate	bene	beta	bets	bite	byte	fete	mete	
+225	bats	beds	bees	begs	bens	bess	beta	bete	beys	bits	buts	gets	jets	lets	nets	pets	sets	vets	wets	
+226	levy	
+227	bays	beds	bees	begs	bens	bess	bets	boys	buys	keys	leys	
+228	baas	bibs	bids	bins	bios	bits	boas	bras	dias	vias	
+229	bias	bids	bins	bios	bits	bobs	bubs	dibs	fibs	gibs	jibs	libs	mibs	nibs	ribs	sibs	
+230	aide	bade	bids	bike	bile	bite	bode	fide	hide	ride	side	tide	vide	wide	
+231	aids	bads	beds	bias	bibs	bide	bins	bios	bits	bods	buds	fids	kids	lids	mids	rids	yids	
+232	beer	boer	lier	pier	tier	vier	
+233	boff	buff	jiff	miff	riff	tiff	
+234	bake	bide	bile	bite	dike	hike	kike	like	mike	pike	tike	
+235	bale	bide	bike	bilk	bill	bite	bole	file	mile	nile	pile	rile	tile	vile	wile	
+236	balk	bile	bill	bulk	milk	silk	
+237	ball	bell	bile	bilk	biol	boll	bull	dill	fill	gill	hill	jill	kill	mill	nill	pill	rill	sill	till	will	
+238	band	bend	bins	bird	bond	bund	find	hind	kind	mind	rind	wind	
+239	bans	bens	bias	bibs	bids	bind	bios	bits	bons	buns	dins	fins	gins	jins	kins	lins	mins	pins	sins	tins	vins	wins	yins	
+240	bill	bios	viol	
+241	bias	bibs	bids	bins	biol	bits	boos	bros	
+242	bard	bind	gird	
+243	bate	bete	bide	bike	bile	bits	byte	cite	kite	lite	mite	rite	site	
+244	bats	bets	bias	bibs	bids	bins	bios	bite	buts	fits	hits	kits	lits	nits	pits	sits	tits	wits	
+245	blah	blat	blob	flab	slab	
+246	blab	blat	
+247	beat	blab	blah	blot	boat	brat	flat	plat	slat	
+248	
+249	blew	blvd	bred	fled	pled	sled	
+250	bled	blow	brew	clew	flew	slew	
+251	clip	flip	slip	
+252	blab	bloc	blot	blow	boob	glob	slob	
+253	blob	blot	blow	
+254	blat	blob	bloc	blow	boot	clot	plot	slot	
+255	blew	blob	bloc	blot	brow	flow	glow	plow	slow	
+256	blur	clue	flue	glue	slue	
+257	blue	slur	
+258	bled	
+259	bear	boas	boat	boer	boor	hoar	roar	soar	
+260	baas	bias	boar	boat	bobs	bods	bogs	bons	boos	bops	boss	bows	boys	bras	moas	
+261	beat	blat	boar	boas	bolt	boot	bort	bout	brat	coat	goat	moat	
+262	bibs	boas	bods	bogs	bons	boos	bops	boss	bows	boys	bubs	cobs	fobs	gobs	hobs	jobs	lobs	mobs	nobs	robs	sobs	
+263	bock	bola	bona	
+264	back	beck	boca	book	buck	cock	dock	hock	jock	lock	mock	nock	pock	rock	sock	
+265	bade	bide	bods	body	bole	bone	bore	code	lode	mode	node	rode	
+266	bads	beds	bids	boas	bobs	bode	body	bogs	bons	boos	bops	boss	bows	boys	buds	cods	gods	hods	mods	nods	pods	rods	sods	
+267	bode	bods	bogy	bony	boxy	
+268	beer	bier	boar	boor	doer	goer	hoer	
+269	biff	buff	doff	toff	
+270	bags	begs	boas	bobs	bods	bogy	bons	boos	bops	boss	bows	boys	bugs	cogs	dogs	fogs	hogs	jogs	logs	nogs	togs	
+271	body	bogs	bony	boxy	dogy	fogy	logy	
+272	bail	boll	bowl	coil	foil	moil	roil	soil	toil	
+273	boca	bold	bole	boll	bolo	bolt	bona	cola	kola	
+274	bald	bola	bole	boll	bolo	bolt	bond	cold	fold	gold	hold	mold	sold	told	wold	
+275	bale	bile	bode	bola	bold	boll	bolo	bolt	bone	bore	cole	dole	hole	mole	pole	role	sole	tole	vole	
+276	ball	bell	bill	boil	bola	bold	bole	bolo	bolt	bowl	bull	coll	doll	loll	moll	poll	roll	toll	
+277	bola	bold	bole	boll	bolt	bono	boyo	bozo	nolo	polo	solo	
+278	belt	boat	bola	bold	bole	boll	bolo	boot	bort	bout	colt	dolt	holt	jolt	molt	volt	
+279	boob	comb	tomb	womb	
+280	boca	bola	bond	bone	bong	bono	bons	bony	dona	
+281	band	bend	bind	bold	bona	bone	bong	bono	bons	bony	bund	fond	pond	yond	
+282	bane	bene	bode	bole	bona	bond	bong	bono	bons	bony	bore	cone	done	gone	hone	lone	none	pone	tone	zone	
+283	bang	bona	bond	bone	bono	bons	bony	bung	dong	gong	kong	long	pong	song	tong	
+284	bolo	bona	bond	bone	bong	bons	bony	boyo	bozo	mono	
+285	bans	bens	bins	boas	bobs	bods	bogs	bona	bond	bone	bong	bono	bony	boos	bops	boss	bows	boys	buns	cons	dons	eons	ions	mons	pons	sons	tons	
+286	body	bogy	bona	bond	bone	bong	bono	bons	boxy	cony	mony	pony	tony	
+287	blob	bomb	book	boom	boon	boor	boos	boot	
+288	bock	boob	boom	boon	boor	boos	boot	cook	gook	hook	kook	look	nook	rook	took	
+289	boob	book	boon	boor	boos	boot	doom	loom	room	zoom	
+290	boob	book	boom	boor	boos	boot	born	coon	goon	loon	moon	noon	soon	
+291	boar	boer	boob	book	boom	boon	boos	boot	door	moor	poor	
+292	bios	boas	bobs	bods	bogs	bons	boob	book	boom	boon	boor	boot	bops	boss	bows	boys	bros	coos	goos	loos	moos	woos	zoos	
+293	blot	boat	bolt	boob	book	boom	boon	boor	boos	bort	bout	coot	foot	hoot	loot	moot	root	soot	toot	
+294	boas	bobs	bods	bogs	bons	boos	boss	bows	boys	cops	fops	hops	lops	mops	oops	pops	sops	tops	wops	
+295	bare	bode	bole	bone	born	bort	byre	core	fore	gore	lore	more	pore	sore	tore	wore	yore	
+296	barn	boon	bore	bort	burn	corn	horn	lorn	morn	porn	torn	worn	
+297	boat	bolt	boot	bore	born	bout	fort	mort	port	sort	tort	wort	
+298	bash	boss	both	bush	cosh	gosh	josh	nosh	posh	tosh	
+299	bass	bess	boas	bobs	bods	bogs	bons	boos	bops	bosh	bows	boys	buss	doss	joss	loss	moss	toss	
+300	bath	bosh	doth	goth	loth	moth	
+301	boat	bolt	boot	bort	brut	gout	lout	pout	rout	tout	
+302	bawl	boil	boll	bows	cowl	fowl	howl	jowl	yowl	
+303	boas	bobs	bods	bogs	bons	boos	bops	boss	bowl	boys	cows	dows	hows	lows	mows	nows	pows	rows	sows	tows	vows	wows	yows	
+304	body	bogy	bony	doxy	foxy	
+305	bolo	bono	boys	bozo	
+306	bays	beys	boas	bobs	bods	bogs	bons	boos	bops	boss	bows	boyo	buys	goys	joys	soys	toys	
+307	bolo	bono	boyo	
+308	bead	brae	brag	bran	bras	brat	braw	bray	bred	grad	
+309	brad	brag	bran	bras	brat	braw	bray	brie	
+310	brad	brae	bran	bras	brat	braw	bray	brig	crag	drag	frag	
+311	bean	brad	brae	brag	bras	brat	braw	bray	brin	iran	
+312	baas	bias	boas	brad	brae	brag	bran	brat	braw	bray	bros	eras	gras	
+313	beat	blat	boat	brad	brae	brag	bran	bras	braw	bray	brit	brut	drat	erat	frat	prat	
+314	brad	brae	brag	bran	bras	brat	bray	brew	brow	craw	draw	
+315	brad	brae	brag	bran	bras	brat	braw	dray	fray	gray	pray	tray	
+316	bled	brad	brew	fred	ired	
+317	blew	braw	bred	brow	crew	drew	grew	
+318	brae	brig	brim	brin	brio	brit	erie	
+319	brag	brie	brim	brin	brio	brit	frig	orig	prig	trig	
+320	brie	brig	brin	brio	brit	grim	prim	trim	
+321	bran	brie	brig	brim	brio	brit	erin	grin	
+322	brie	brig	brim	brin	brit	trio	
+323	bait	brat	brie	brig	brim	brin	brio	brut	grit	writ	
+324	bios	boos	bras	brow	eros	pros	
+325	blow	braw	brew	bros	crow	frow	grow	prow	trow	vrow	
+326	bout	brat	brit	
+327	bubs	
+328	bibs	bobs	bubo	buds	bugs	bums	buns	burs	buss	buts	buys	cubs	dubs	hubs	nubs	pubs	rubs	subs	tubs	
+329	back	beck	bock	bulk	bunk	duck	fuck	guck	huck	luck	muck	puck	ruck	suck	tuck	
+330	bads	beds	bids	bods	bubs	bugs	bums	buns	burs	buss	buts	buys	cuds	duds	fuds	iuds	muds	puds	suds	
+331	biff	boff	cuff	duff	guff	huff	luff	muff	puff	ruff	tuff	
+332	bags	begs	bogs	bubs	buds	bums	buns	burs	buss	buts	buys	dugs	fugs	hugs	jugs	lugs	mugs	pugs	rugs	tugs	vugs	
+333	bulk	bull	
+334	balk	bilk	buck	bulb	bull	bunk	hulk	sulk	
+335	ball	bell	bill	boll	bulb	bulk	burl	cull	dull	full	gull	hull	lull	mull	null	pull	
+336	bums	burp	dump	hump	jump	lump	mump	pump	rump	sump	
+337	bubs	buds	bugs	bump	buns	burs	buss	buts	buys	gums	hums	mums	rums	sums	
+338	band	bend	bind	bond	bung	bunk	bunn	buns	bunt	fund	
+339	bang	bong	bund	bunk	bunn	buns	bunt	burg	dung	gung	hung	kung	lung	rung	sung	
+340	bank	buck	bulk	bund	bung	bunn	buns	bunt	dunk	funk	gunk	hunk	junk	lunk	punk	sunk	
+341	bund	bung	bunk	buns	bunt	burn	
+342	bans	bens	bins	bons	bubs	buds	bugs	bums	bund	bung	bunk	bunn	bunt	burs	buss	buts	buys	duns	guns	huns	nuns	puns	runs	suns	tuns	
+343	aunt	bent	bund	bung	bunk	bunn	buns	bust	butt	cunt	hunt	punt	runt	
+344	bury	busy	
+345	berg	bung	burl	burn	burp	burr	burs	bury	
+346	bull	burg	burn	burp	burr	burs	bury	curl	furl	hurl	purl	
+347	barn	born	bunn	burg	burl	burp	burr	burs	bury	durn	turn	
+348	bump	burg	burl	burn	burr	burs	bury	
+349	burg	burl	burn	burp	burs	bury	purr	
+350	bars	bubs	buds	bugs	bums	buns	burg	burl	burn	burp	burr	bury	buss	buts	buys	curs	furs	ours	
+351	buoy	burg	burl	burn	burp	burr	burs	busy	fury	jury	
+352	bash	bosh	buss	bust	busy	gush	hush	lush	mush	push	rush	tush	
+353	bass	bess	boss	bubs	buds	bugs	bums	buns	burs	bush	bust	busy	buts	buys	cuss	fuss	muss	puss	
+354	bast	best	bunt	bush	buss	busy	butt	dust	gust	just	lust	must	oust	rust	
+355	buoy	bury	bush	buss	bust	
+356	bats	bets	bits	bubs	buds	bugs	bums	buns	burs	buss	butt	buys	cuts	guts	huts	juts	nuts	outs	puts	ruts	tuts	
+357	bunt	bust	buts	mutt	putt	
+358	bays	beys	boys	bubs	buds	bugs	bums	buns	burs	buss	buts	guys	
+359	fuzz	
+360	ayes	bees	dyes	eyes	lyes	oyes	ryes	wyes	
+361	bare	bore	byte	gyre	lyre	pyre	tyre	
+362	bate	bete	bite	byre	
+363	cads	cams	cans	caps	cars	cats	caws	cays	cobs	cubs	dabs	gabs	jabs	labs	nabs	tabs	
+364	bads	cabs	cams	cans	caps	cars	cats	caws	cays	cods	cuds	dads	fads	gads	lads	mads	pads	rads	tads	wads	
+365	cage	cake	came	cane	cape	care	case	cave	safe	
+366	cafe	cagy	cake	came	cane	cape	care	case	cave	gage	mage	page	rage	sage	wage	
+367	cage	caky	cavy	sagy	
+368	bake	cafe	cage	caky	came	cane	cape	care	case	cave	coke	cuke	fake	hake	jake	lake	make	rake	sake	take	wake	
+369	cagy	cake	cavy	laky	
+370	calf	calk	call	calm	calx	talc	
+371	calc	calk	call	calm	calx	half	
+372	balk	calc	calf	call	calm	calx	cask	talk	walk	
+373	ball	calc	calf	calk	calm	calx	carl	caul	cell	coll	cull	fall	gall	hall	mall	pall	tall	wall	
+374	balm	calc	calf	calk	call	calx	palm	
+375	calc	calf	calk	call	calm	
+376	cafe	cage	cake	camp	cams	cane	cape	care	case	cave	come	cyme	dame	fame	game	kame	lame	name	same	tame	
+377	came	cams	carp	comp	damp	lamp	ramp	tamp	vamp	
+378	cabs	cads	came	camp	cans	caps	cars	cats	caws	cays	dams	gams	hams	jams	lams	rams	tams	yams	
+379	bane	cafe	cage	cake	came	cans	cant	cape	care	case	cave	cine	cone	dane	jane	lane	mane	pane	sane	vane	wane	
+380	bans	cabs	cads	cams	cane	cant	caps	cars	cats	caws	cays	cons	fans	mans	pans	sans	tans	vans	
+381	cane	cans	cart	cast	cent	cont	cunt	pant	rant	want	
+382	cafe	cage	cake	came	cane	caps	care	case	cave	cope	gape	jape	nape	rape	tape	
+383	cabs	cads	cams	cans	cape	cars	cats	caws	cays	cops	cups	gaps	haps	laps	maps	naps	paps	raps	saps	taps	yaps	zaps	
+384	bard	care	carl	carp	cars	cart	cord	curd	hard	lard	nard	pard	ward	yard	
+385	bare	cafe	cage	cake	came	cane	cape	card	carl	carp	cars	cart	case	cave	core	cure	dare	fare	hare	mare	pare	rare	tare	ware	yare	
+386	call	card	care	carp	cars	cart	caul	ctrl	curl	earl	marl	
+387	camp	card	care	carl	cars	cart	corp	harp	tarp	warp	
+388	bars	cabs	cads	cams	cans	caps	card	care	carl	carp	cart	cats	caws	cays	curs	ears	gars	jars	mars	oars	pars	tars	wars	
+389	cant	card	care	carl	carp	cars	cast	cert	curt	dart	fart	hart	kart	mart	part	tart	wart	
+390	case	cash	cask	cast	nasa	
+391	base	cafe	cage	cake	came	cane	cape	care	casa	cash	cask	cast	cave	ease	rase	vase	
+392	bash	casa	case	cask	cast	cosh	dash	gash	hash	lash	mash	rash	sash	wash	
+393	bask	calk	casa	case	cash	cast	mask	task	
+394	bast	cant	cart	casa	case	cash	cask	cost	cyst	east	fast	hast	last	mast	past	vast	wast	
+395	bats	cabs	cads	cams	cans	caps	cars	caws	cays	cots	cuts	eats	fats	gats	hats	mats	oats	pats	rats	tats	vats	wats	
+396	call	carl	haul	maul	paul	waul	
+397	cafe	cage	cake	came	cane	cape	care	case	cavy	cove	dave	eave	gave	have	lave	nave	pave	rave	save	wave	
+398	cagy	caky	cave	navy	wavy	
+399	cabs	cads	cams	cans	caps	cars	cats	cays	cows	haws	jaws	laws	maws	paws	raws	saws	taws	yaws	
+400	bays	cabs	cads	cams	cans	caps	cars	cats	caws	days	fays	gays	hays	jays	kays	lays	mays	nays	pays	rays	says	ways	
+401	
+402	code	
+403	bees	cess	cues	dees	fees	gees	lees	pees	sees	tees	vees	zees	
+404	cell	coil	heil	veil	
+405	bell	call	ceil	celt	coll	cull	dell	fell	hell	jell	sell	tell	well	yell	
+406	belt	cell	cent	cert	colt	cult	felt	gelt	melt	pelt	welt	
+407	bent	cant	celt	cert	cont	cunt	dent	gent	kent	lent	pent	rent	sent	tent	vent	went	
+408	cart	celt	cent	curt	pert	vert	wert	
+409	bess	cees	cuss	fess	jess	less	mess	ness	
+410	cham	chap	char	chat	chaw	chid	clad	shad	
+411	chad	chap	char	chat	chaw	chem	chum	clam	cram	sham	wham	
+412	chad	cham	char	chat	chaw	chip	chop	clap	crap	whap	
+413	chad	cham	chap	chat	chaw	czar	
+414	chad	cham	chap	char	chaw	chit	coat	ghat	shat	that	what	
+415	chad	cham	chap	char	chat	chew	chow	claw	craw	thaw	
+416	chem	chew	chez	clef	
+417	ahem	cham	chef	chew	chez	chum	them	
+418	chaw	chef	chem	chez	chow	clew	crew	phew	shew	thew	whew	
+419	chef	chem	chew	
+420	chic	chid	chin	chip	chit	
+421	chia	chid	chin	chip	chit	
+422	chad	chia	chic	chin	chip	chit	
+423	chia	chic	chid	chip	chit	coin	shin	thin	
+424	chap	chia	chic	chid	chin	chit	chop	clip	ship	whip	
+425	chat	chia	chic	chid	chin	chip	shit	whit	
+426	chap	chip	chou	chow	clop	coop	crop	shop	
+427	chop	chow	thou	
+428	chaw	chew	chop	chou	crow	dhow	show	
+429	chug	chum	club	
+430	chub	chum	thug	
+431	cham	chem	chub	chug	
+432	
+433	cane	cite	cone	dine	fine	kine	line	mine	nine	pine	sine	tine	vine	wine	
+434	
+435	bite	cine	city	cote	cute	kite	lite	mite	rite	site	
+436	cite	pity	
+437	chad	clam	clan	clap	claw	clay	clod	glad	
+438	cham	clad	clan	clap	claw	clay	cram	slam	
+439	alan	clad	clam	clap	claw	clay	cyan	elan	flan	plan	
+440	chap	clad	clam	clan	claw	clay	clip	clop	crap	flap	slap	
+441	chaw	clad	clam	clan	clap	clay	clew	craw	flaw	slaw	
+442	clad	clam	clan	clap	claw	cloy	flay	play	slay	
+443	chef	clew	
+444	blew	chew	claw	clef	crew	flew	slew	
+445	blip	chip	clap	clop	flip	slip	
+446	clad	clog	clop	clot	cloy	plod	
+447	clod	clop	clot	cloy	flog	slog	
+448	chop	clap	clip	clod	clog	clot	cloy	coop	crop	flop	glop	plop	slop	
+449	blot	clod	clog	clop	cloy	coot	plot	slot	
+450	clay	clod	clog	clop	clot	ploy	
+451	chub	clue	flub	
+452	blue	club	flue	glue	slue	
+453	
+454	coat	coax	coil	coll	cool	cowl	foal	goal	
+455	boat	chat	coal	coax	colt	cont	coot	cost	goat	moat	
+456	coal	coat	hoax	
+457	bobs	cabs	cods	cogs	cons	coos	cops	cots	cows	cubs	fobs	gobs	hobs	jobs	lobs	mobs	nobs	robs	sobs	
+458	bock	coco	conk	cook	cork	dock	hock	jock	lock	mock	nock	pock	rock	sock	
+459	cock	coho	loco	poco	
+460	code	cods	cola	coma	soda	
+461	bode	cede	coda	cods	coke	cole	come	cone	cope	core	cote	cove	lode	mode	node	rode	
+462	bods	cads	cobs	coda	code	cogs	cons	coos	cops	cots	cows	cuds	gods	hods	mods	nods	pods	rods	sods	
+463	cold	cord	cued	hoed	toed	
+464	bogs	cobs	cods	cons	coos	cops	cots	cows	dogs	fogs	hogs	jogs	logs	nogs	togs	
+465	coco	
+466	coil	coin	coir	conf	
+467	boil	ceil	coal	coif	coin	coir	coll	cool	cowl	foil	moil	roil	soil	toil	
+468	chin	coif	coil	coir	conn	coon	corn	join	loin	
+469	coif	coil	coin	noir	
+470	cake	code	cole	come	cone	cope	core	cote	cove	cuke	hoke	joke	poke	toke	woke	yoke	
+471	bola	coda	cold	cole	coll	colt	coma	kola	
+472	bold	coed	cola	cole	coll	colt	cord	fold	gold	hold	mold	sold	told	wold	
+473	bole	code	coke	cola	cold	coll	colt	come	cone	cope	core	cote	cove	dole	hole	mole	pole	role	sole	tole	vole	
+474	boll	call	cell	coal	coil	cola	cold	cole	colt	cool	cowl	cull	doll	loll	moll	poll	roll	toll	
+475	bolt	celt	coat	cola	cold	cole	coll	cont	coot	cost	cult	dolt	holt	jolt	molt	volt	
+476	coda	cola	comb	come	comp	soma	
+477	bomb	coma	come	comp	tomb	womb	
+478	came	code	coke	cole	coma	comb	comp	cone	cope	core	cote	cove	cyme	dome	home	nome	pome	rome	some	tome	
+479	camp	coma	comb	come	coop	corp	coup	pomp	romp	
+480	bone	cane	cine	code	coke	cole	come	conf	conj	conk	conn	cons	cont	cony	cope	core	cote	cove	done	gone	hone	lone	none	pone	tone	zone	
+481	coif	cone	conj	conk	conn	cons	cont	cony	
+482	cone	conf	conk	conn	cons	cont	cony	
+483	cock	cone	conf	conj	conn	cons	cont	cony	cook	cork	honk	monk	
+484	coin	cone	conf	conj	conk	cons	cont	cony	coon	corn	
+485	bons	cans	cobs	cods	cogs	cone	conf	conj	conk	conn	cont	cony	coos	cops	cots	cows	dons	eons	ions	mons	pons	sons	tons	
+486	cant	cent	coat	colt	cone	conf	conj	conk	conn	cons	cony	coot	cost	cunt	font	wont	
+487	bony	cone	conf	conj	conk	conn	cons	cont	copy	cosy	cozy	mony	pony	tony	
+488	book	cock	conk	cool	coon	coop	coos	coot	cork	gook	hook	kook	look	nook	rook	took	
+489	coal	coil	coll	cook	coon	coop	coos	coot	cowl	fool	pool	tool	wool	
+490	boon	coin	conn	cook	cool	coop	coos	coot	corn	goon	loon	moon	noon	soon	
+491	chop	clop	comp	cook	cool	coon	coos	coot	corp	coup	crop	goop	hoop	loop	poop	
+492	boos	cobs	cods	cogs	cons	cook	cool	coon	coop	coot	cops	cots	cows	goos	loos	moos	woos	zoos	
+493	boot	clot	coat	colt	cont	cook	cool	coon	coop	coos	cost	foot	hoot	loot	moot	root	soot	toot	
+494	cape	code	coke	cole	come	cone	cops	copy	core	cote	cove	dope	hope	lope	mope	nope	pope	rope	tope	
+495	bops	caps	cobs	cods	cogs	cons	coos	cope	copy	cots	cows	cups	fops	hops	lops	mops	oops	pops	sops	tops	wops	
+496	cony	cope	cops	cosy	cozy	dopy	mopy	ropy	
+497	card	coed	cold	core	cork	corm	corn	corp	curd	ford	lord	word	
+498	bore	care	code	coke	cole	come	cone	cope	cord	cork	corm	corn	corp	cote	cove	cure	fore	gore	lore	more	pore	sore	tore	wore	yore	
+499	cock	conk	cook	cord	core	corm	corn	corp	fork	pork	work	york	
+500	cord	core	cork	corn	corp	dorm	form	norm	worm	
+501	born	coin	conn	coon	cord	core	cork	corm	corp	horn	lorn	morn	porn	torn	worn	
+502	carp	comp	coop	cord	core	cork	corm	corn	coup	dorp	
+503	bosh	cash	cost	cosy	gosh	josh	nosh	posh	tosh	
+504	cast	coat	colt	cont	coot	cosh	cosy	cyst	dost	host	lost	most	post	tost	
+505	cony	copy	cosh	cost	cozy	nosy	posy	rosy	
+506	cite	code	coke	cole	come	cone	cope	core	cots	cove	cute	dote	mote	note	rote	tote	vote	
+507	cats	cobs	cods	cogs	cons	coos	cops	cote	cows	cuts	dots	hots	jots	lots	mots	nots	pots	rots	sots	tots	wots	
+508	comp	coop	corp	loup	soup	
+509	cave	code	coke	cole	come	cone	cope	core	cote	dove	hove	love	move	rove	wove	
+510	bowl	coal	coil	coll	cool	cows	fowl	howl	jowl	yowl	
+511	bows	caws	cobs	cods	cogs	cons	coos	cops	cots	cowl	dows	hows	lows	mows	nows	pows	rows	sows	tows	vows	wows	yows	
+512	cony	copy	cosy	dozy	oozy	
+513	arab	crag	cram	crap	craw	crib	drab	grab	
+514	brag	crab	cram	crap	craw	drag	frag	
+515	cham	clam	crab	crag	crap	craw	dram	gram	pram	tram	
+516	chap	clap	crab	crag	cram	craw	crop	trap	wrap	
+517	braw	chaw	claw	crab	crag	cram	crap	crew	crow	draw	
+518	crew	free	tree	
+519	brew	chew	clew	craw	cree	crow	drew	grew	
+520	crab	drib	
+521	chop	clop	coop	crap	crow	drop	prop	trop	
+522	brow	chow	craw	crew	crop	frow	grow	prow	trow	vrow	
+523	crux	
+524	crud	
+525	carl	curl	
+526	cube	cubs	tuba	
+527	cuba	cubs	cuke	cure	cute	lube	rube	tube	
+528	bubs	cabs	cobs	cuba	cube	cuds	cues	cups	curs	cuss	cuts	dubs	hubs	nubs	pubs	rubs	subs	tubs	
+529	buds	cads	cods	cubs	cues	cups	curs	cuss	cuts	duds	fuds	iuds	muds	puds	suds	
+530	coed	cues	curd	hued	rued	sued	
+531	cees	cubs	cuds	cued	cups	curs	cuss	cuts	dues	hues	ques	rues	sues	
+532	buff	duff	guff	huff	luff	muff	puff	ruff	tuff	
+533	cake	coke	cube	cure	cute	duke	juke	luke	nuke	puke	
+534	bull	call	cell	coll	cult	curl	dull	full	gull	hull	lull	mull	null	pull	
+535	celt	colt	cull	cunt	curt	
+536	aunt	bunt	cant	cent	cont	cult	curt	hunt	punt	runt	
+537	caps	cops	cubs	cuds	cues	curs	cuss	cuts	pups	sups	tups	
+538	curd	cure	curl	curs	curt	
+539	card	cord	cued	curb	cure	curl	curs	curt	turd	
+540	care	core	cube	cuke	curb	curd	curl	curs	curt	cute	jure	lure	pure	sure	
+541	burl	carl	ctrl	cull	curb	curd	cure	curs	curt	furl	hurl	purl	
+542	burs	cars	cubs	cuds	cues	cups	curb	curd	cure	curl	curt	cuss	cuts	furs	ours	
+543	cart	cert	cult	cunt	curb	curd	cure	curl	curs	hurt	yurt	
+544	cuss	
+545	buss	cess	cubs	cuds	cues	cups	curs	cusp	cuts	fuss	muss	puss	
+546	cite	cote	cube	cuke	cure	cuts	jute	lute	mute	
+547	buts	cats	cots	cubs	cuds	cues	cups	curs	cuss	cute	guts	huts	juts	nuts	outs	puts	ruts	tuts	
+548	clan	
+549	came	come	
+550	cast	cost	
+551	char	izar	tzar	
+552	cabs	dads	dais	dams	days	debs	dibs	dubs	gabs	jabs	labs	nabs	tabs	
+553	dale	dame	dane	dare	date	dave	daze	dice	duce	face	lace	mace	pace	race	
+554	dado	dads	dana	data	
+555	dada	dads	dago	dido	dodo	
+556	bads	cads	dabs	dada	dado	dais	dams	days	duds	fads	gads	lads	mads	pads	rads	tads	wads	
+557	dart	deft	haft	raft	waft	
+558	dado	sago	
+559	dabs	dads	dams	days	
+560	bale	dace	dame	dane	dare	date	dave	daze	dele	dole	gale	hale	kale	male	pale	sale	tale	vale	wale	yale	
+561	came	dace	dale	damn	damp	dams	dane	dare	date	dave	daze	dime	dome	fame	game	kame	lame	name	same	tame	
+562	dame	damp	dams	darn	dawn	
+563	camp	dame	damn	dams	dump	lamp	ramp	tamp	vamp	
+564	cams	dabs	dads	dais	dame	damn	damp	days	dbms	dims	doms	gams	hams	jams	lams	rams	tams	yams	
+565	dada	dane	dang	dank	data	dona	
+566	bane	cane	dace	dale	dame	dana	dang	dank	dare	date	dave	daze	dine	done	dune	dyne	jane	lane	mane	pane	sane	vane	wane	
+567	bang	dana	dane	dank	ding	dong	dung	fang	gang	hang	pang	rang	sang	tang	wang	yang	
+568	bank	dana	dane	dang	dark	dunk	hank	lank	rank	sank	tank	yank	
+569	bare	care	dace	dale	dame	dane	dark	darn	dart	date	dave	daze	dire	fare	hare	mare	pare	rare	tare	ware	yare	
+570	bark	dank	dare	darn	dart	dirk	hark	lark	mark	nark	park	wark	
+571	barn	damn	dare	dark	dart	dawn	durn	earn	tarn	warn	yarn	
+572	cart	daft	dare	dark	darn	dirt	fart	hart	kart	mart	part	tart	wart	
+573	bash	cash	dish	gash	hash	lash	mash	rash	sash	wash	
+574	dada	dana	date	rata	
+575	bate	dace	dale	dame	dane	dare	data	dave	daze	dote	fate	gate	hate	late	mate	pate	rate	sate	tate	
+576	drub	
+577	cave	dace	dale	dame	dane	dare	date	daze	dive	dove	eave	gave	have	lave	nave	pave	rave	save	wave	
+578	damn	darn	down	fawn	lawn	pawn	sawn	yawn	
+579	bays	cays	dabs	dads	dais	dams	drys	fays	gays	hays	jays	kays	lays	mays	nays	pays	rays	says	ways	
+580	dace	dale	dame	dane	dare	date	dave	doze	faze	gaze	haze	laze	maze	raze	
+581	dams	dims	doms	
+582	bead	deaf	deal	dean	dear	deed	duad	dyad	head	lead	mead	read	
+583	dead	deal	dean	dear	leaf	
+584	dead	deaf	dean	dear	dell	dial	dual	heal	leal	meal	peal	real	seal	teal	veal	weal	zeal	
+585	bean	dead	deaf	deal	dear	jean	lean	mean	pean	wean	
+586	bear	dead	deaf	deal	dean	deer	fear	gear	hear	lear	near	pear	rear	sear	tear	wear	year	
+587	dabs	debt	dees	dens	deus	dews	dibs	dubs	nebs	rebs	webs	
+588	debs	deft	dent	dept	
+589	beck	deco	desk	dick	dock	duck	heck	neck	peck	
+590	deck	demo	
+591	dead	deem	deep	deer	dees	died	dyed	feed	geed	heed	meed	need	peed	reed	seed	teed	weed	
+592	deed	deep	deer	dees	derm	diem	seem	teem	
+593	beep	deed	deem	deer	dees	jeep	keep	peep	seep	veep	weep	
+594	beer	dear	deed	deem	deep	dees	doer	dyer	jeer	leer	peer	seer	veer	
+595	bees	cees	debs	deed	deem	deep	deer	dens	deus	dews	dies	does	dues	dyes	fees	gees	lees	pees	sees	tees	vees	zees	
+596	daft	debt	defy	dent	dept	heft	left	reft	weft	
+597	deft	deny	dewy	
+598	deva	
+599	dale	deli	dell	dole	
+600	dele	dell	
+601	bell	cell	deal	dele	deli	dill	doll	dull	fell	hell	jell	sell	tell	well	yell	
+602	deco	memo	
+603	bens	debs	dees	dent	deny	deus	dews	dins	dons	duns	fens	gens	hens	kens	lens	mens	pens	tens	wens	yens	
+604	bent	cent	debt	deft	dens	deny	dept	dint	gent	kent	lent	pent	rent	sent	tent	vent	went	
+605	defy	dens	dent	dewy	
+606	debt	deft	dent	dipt	kept	sept	wept	
+607	berm	deem	dorm	germ	perm	term	
+608	deck	disk	dusk	
+609	debs	dees	dens	deux	dews	zeus	
+610	deus	jeux	
+611	deja	diva	leva	
+612	debs	dees	dens	deus	dewy	dows	hews	jews	mews	news	pews	sews	yews	
+613	defy	deny	dews	
+614	chow	show	
+615	dial	diam	dias	ding	drag	
+616	deal	diag	diam	dias	dill	dual	rial	vial	
+617	diag	dial	dias	diem	dram	siam	
+618	bias	diag	dial	diam	dibs	dies	digs	dims	dins	dips	vias	
+619	bibs	dabs	debs	dias	dies	digs	dims	dins	dips	dubs	fibs	gibs	jibs	libs	mibs	nibs	ribs	sibs	
+620	dace	dick	dict	dike	dime	dine	dire	dive	duce	lice	mice	nice	rice	vice	
+621	deck	dice	dict	dirk	disk	dock	duck	hick	kick	lick	mick	nick	pick	rick	sick	tick	wick	
+622	dice	dick	diet	dint	dipt	dirt	duct	
+623	dado	didy	dodo	fido	lido	
+624	dido	tidy	
+625	deed	diem	dies	diet	dyed	hied	lied	pied	tied	vied	
+626	deem	diam	died	dies	diet	
+627	dees	dias	dibs	died	diem	diet	digs	dims	dins	dips	does	dues	dyes	hies	lies	pies	ties	vies	
+628	dict	died	diem	dies	dint	dipt	dirt	duet	
+629	dias	dibs	dies	dims	dins	dips	dogs	dugs	figs	gigs	jigs	migs	pigs	rigs	wigs	zigs	
+630	bike	dice	dime	dine	dire	dive	duke	dyke	hike	kike	like	mike	pike	tike	
+631	bill	dell	dial	doll	dull	fill	gill	hill	jill	kill	mill	nill	pill	rill	sill	till	will	
+632	dame	dice	dike	dims	dine	dire	dive	dome	lime	mime	rime	time	
+633	aims	dams	dbms	dias	dibs	dies	digs	dime	dins	dips	doms	nims	rims	vims	
+634	cine	dane	dice	dike	dime	ding	dins	dint	dire	dive	done	dune	dyne	fine	kine	line	mine	nine	pine	sine	tine	vine	wine	
+635	dang	diag	dine	dins	dint	dong	dung	king	ling	ming	ping	ring	sing	ting	wing	zing	
+636	bins	dens	dias	dibs	dies	digs	dims	dine	ding	dint	dips	dons	duns	fins	gins	jins	kins	lins	mins	pins	sins	tins	vins	wins	yins	
+637	dent	dict	diet	dine	ding	dins	dipt	dirt	hint	lint	mint	pint	tint	
+638	dias	dibs	dies	digs	dims	dins	dipt	gips	hips	kips	lips	nips	pips	rips	sips	tips	vips	yips	zips	
+639	dept	dict	diet	dint	dips	dirt	
+640	dare	dice	dike	dime	dine	dirk	dirt	dive	eire	fire	hire	lire	mire	sire	tire	wire	
+641	dark	dick	dire	dirt	disk	kirk	mirk	
+642	dart	dict	diet	dint	dipt	dire	dirk	girt	
+643	dish	disk	misc	
+644	dash	disc	disk	fish	pish	wish	
+645	desk	dick	dirk	disc	dish	dusk	risk	
+646	deva	dive	viva	
+647	dave	dice	dike	dime	dine	dire	diva	dove	five	give	hive	jive	live	rive	vive	wive	
+648	
+649	bock	cock	deck	dick	docs	duck	hock	jock	lock	mock	nock	pock	rock	sock	
+650	dock	does	dogs	doms	dons	dors	doss	dots	dows	rocs	
+651	dado	dido	dojo	modo	
+652	boer	deer	does	door	dour	dyer	goer	hoer	
+653	dees	dies	docs	doer	dogs	doms	dons	dors	doss	dots	dows	dues	dyes	foes	goes	hoes	joes	noes	roes	toes	woes	
+654	boff	duff	toff	
+655	dogs	dogy	dole	dome	done	dope	dose	dote	dove	doze	loge	
+656	bogs	cogs	digs	docs	does	doge	dogy	doms	dons	dors	doss	dots	dows	dugs	fogs	hogs	jogs	logs	nogs	togs	
+657	bogy	doge	dogs	dopy	dory	doty	doxy	dozy	fogy	logy	
+658	dodo	
+659	bole	cole	dale	dele	doge	doll	dolt	dome	done	dope	dose	dote	dove	doze	hole	mole	pole	role	sole	tole	vole	
+660	boll	coll	dell	dill	dole	dolt	dull	loll	moll	poll	roll	toll	
+661	bolt	colt	dole	doll	dost	holt	jolt	molt	volt	
+662	come	dame	dime	doge	dole	doms	done	dope	dose	dote	dove	doze	home	nome	pome	rome	some	tome	
+663	dams	dbms	dims	docs	does	dogs	dome	dons	dors	doss	dots	dows	moms	noms	roms	toms	
+664	bona	dana	done	dong	dons	
+665	bone	cone	dane	dine	doge	dole	dome	dona	dong	dons	dope	dose	dote	dove	doze	dune	dyne	gone	hone	lone	none	pone	tone	zone	
+666	bong	dang	ding	dona	done	dons	dung	gong	kong	long	pong	song	tong	
+667	bons	cons	dens	dins	docs	does	dogs	doms	dona	done	dong	dors	doss	dots	dows	duns	eons	ions	mons	pons	sons	tons	
+668	boom	door	dorm	loom	room	zoom	
+669	boor	doer	doom	dour	moor	poor	
+670	cope	doge	dole	dome	done	dopy	dose	dote	dove	doze	dupe	hope	lope	mope	nope	pope	rope	tope	
+671	copy	dogy	dope	dory	doty	doxy	dozy	mopy	ropy	
+672	corm	derm	doom	dorp	dors	dory	form	norm	worm	
+673	corp	dorm	dors	dory	
+674	docs	does	dogs	doms	dons	dorm	dorp	dory	doss	dots	dows	hors	tors	
+675	dogy	dopy	dorm	dorp	dors	doty	doxy	dozy	gory	lory	tory	
+676	doge	dole	dome	done	dope	doss	dost	dote	dove	doze	hose	jose	lose	nose	pose	rose	
+677	boss	docs	does	dogs	doms	dons	dors	dose	dost	dots	dows	joss	loss	moss	toss	
+678	cost	dolt	dose	doss	dust	host	lost	most	post	tost	
+679	cote	date	doge	dole	dome	done	dope	dose	doth	dots	doty	dove	doze	mote	note	rote	tote	vote	
+680	both	dote	dots	doty	goth	loth	moth	
+681	cots	docs	does	dogs	doms	dons	dors	doss	dote	doth	doty	dows	hots	jots	lots	mots	nots	pots	rots	sots	tots	wots	
+682	dogy	dopy	dory	dote	doth	dots	doxy	dozy	duty	
+683	doer	door	four	hour	jour	lour	pour	sour	tour	your	
+684	cove	dave	dive	doge	dole	dome	done	dope	dose	dote	doze	hove	love	move	rove	wove	
+685	dawn	dows	gown	mown	sown	town	
+686	bows	cows	dews	docs	does	dogs	doms	dons	dors	doss	dots	down	hows	lows	mows	nows	pows	rows	sows	tows	vows	wows	yows	
+687	boxy	dogy	dopy	dory	doty	dozy	foxy	
+688	daze	doge	dole	dome	done	dope	dose	dote	dove	dozy	ooze	
+689	cozy	dogy	dopy	dory	doty	doxy	doze	oozy	
+690	arab	crab	drag	dram	drat	draw	dray	drib	drub	grab	
+691	brag	crag	diag	drab	dram	drat	draw	dray	dreg	drug	frag	
+692	cram	diam	drab	drag	drat	draw	dray	drum	gram	pram	tram	
+693	brat	drab	drag	dram	draw	dray	erat	frat	prat	
+694	braw	craw	drab	drag	dram	drat	dray	drew	
+695	bray	drab	drag	dram	drat	draw	fray	gray	pray	tray	
+696	drag	drek	drew	drug	
+697	dreg	drew	trek	
+698	brew	crew	draw	dreg	drek	grew	
+699	crib	drab	drip	drub	
+700	drib	drop	grip	trip	
+701	crop	drip	prop	trop	
+702	daub	drab	drib	drug	drum	grub	
+703	drag	dreg	drub	drum	frug	
+704	arum	dram	drub	drug	
+705	days	
+706	dead	dual	dyad	quad	
+707	deal	dial	duad	duel	dull	qual	
+708	bubs	cubs	dabs	debs	dibs	duds	dues	dugs	duns	duos	hubs	nubs	pubs	rubs	subs	tubs	
+709	dace	dice	duck	duct	dude	duke	dune	dupe	puce	
+710	buck	deck	dick	dock	duce	duct	dunk	dusk	fuck	guck	huck	luck	muck	puck	ruck	suck	tuck	
+711	dict	duce	duck	duet	dust	
+712	duce	duds	duke	dune	dupe	nude	rude	
+713	buds	cuds	dads	dubs	dude	dues	dugs	duns	duos	fuds	iuds	muds	puds	suds	
+714	dual	dues	duet	dull	fuel	
+715	cues	dees	dies	does	dubs	duds	duel	duet	dugs	duns	duos	dyes	hues	ques	rues	sues	
+716	diet	duct	duel	dues	dust	suet	
+717	buff	cuff	doff	guff	huff	luff	muff	puff	ruff	tuff	
+718	bugs	digs	dogs	dubs	duds	dues	duns	duos	fugs	hugs	jugs	lugs	mugs	pugs	rugs	tugs	vugs	
+719	cuke	dike	duce	dude	dune	dupe	dyke	juke	luke	nuke	puke	
+720	bull	cull	dell	dill	doll	dual	duel	duly	full	gull	hull	lull	mull	null	pull	
+721	dull	duty	july	
+722	dump	numb	
+723	bump	damp	dumb	hump	jump	lump	mump	pump	rump	sump	
+724	dane	dine	done	duce	dude	duke	dung	dunk	duns	dupe	dyne	june	lune	rune	tune	
+725	bung	dang	ding	dong	dune	dunk	duns	gung	hung	kung	lung	rung	sung	
+726	bunk	dank	duck	dune	dung	duns	dusk	funk	gunk	hunk	junk	lunk	punk	sunk	
+727	buns	dens	dins	dons	dubs	duds	dues	dugs	dune	dung	dunk	duos	guns	huns	nuns	puns	runs	suns	tuns	
+728	dubs	duds	dues	dugs	duns	quos	
+729	dope	duce	dude	duke	dune	jupe	supe	
+730	burn	darn	turn	
+731	desk	disk	duck	dunk	dust	husk	musk	rusk	tusk	
+732	bust	dost	duct	duet	dusk	gust	just	lust	must	oust	rust	
+733	doty	duly	
+734	dead	duad	dyed	
+735	deed	died	dyad	dyer	dyes	eyed	
+736	deer	doer	dyed	dyes	eyer	oyer	
+737	ayes	byes	dees	dies	does	dues	dyed	dyer	eyes	lyes	oyes	ryes	wyes	
+738	dike	duke	dyne	tyke	
+739	dane	dine	done	dune	dyke	syne	
+740	bach	etch	mach	tach	
+741	carl	earn	ears	marl	
+742	barn	darn	earl	ears	tarn	warn	yarn	
+743	bars	cars	earl	earn	eats	errs	gars	jars	mars	oars	pars	tars	wars	
+744	base	case	east	easy	eave	else	esse	rase	vase	
+745	bast	cast	ease	easy	erst	fast	hast	last	mast	past	vast	wast	
+746	ease	east	
+747	bats	cats	ears	efts	fats	gats	hats	mats	oats	pats	rats	tats	vats	wats	
+748	faux	
+749	cave	dave	ease	gave	have	lave	nave	pave	rave	save	wave	
+750	
+751	econ	
+752	ecol	encl	
+753	
+754	eccl	econ	
+755	ebon	ecol	icon	
+756	
+757	emus	
+758	adam	exam	
+759	eddy	
+760	edda	edgy	
+761	even	
+762	edgy	
+763	eddy	edge	
+764	adit	emit	exit	
+765	eely	ells	gels	
+766	eels	eery	rely	
+767	aery	eely	very	
+768	efts	offs	
+769	eats	effs	
+770	
+771	egis	egos	ergs	
+772	eggs	egos	
+773	eggs	egis	eros	
+774	dire	fire	hire	lire	mire	sire	tire	wire	
+775	ekes	eyed	
+776	eked	eses	eves	ewes	exes	eyes	ukes	
+777	alan	clan	flan	plan	
+778	elks	ells	elms	ends	olds	
+779	
+780	elds	ells	elms	ilks	
+781	alls	eels	elds	elks	elms	ills	
+782	alms	elds	elks	ells	elmy	
+783	elms	emmy	
+784	ease	esse	
+785	emit	
+786	edit	emir	exit	omit	smit	
+787	elmy	
+788	ecus	
+789	eccl	
+790	ands	elds	
+791	
+792	know	snow	
+793	
+794	bons	cons	dons	erns	ions	mons	pons	sons	tons	
+795	
+796	spic	
+797	bras	erat	ergs	erns	eros	errs	gras	
+798	brat	drat	eras	erst	frat	prat	
+799	ergs	
+800	eggs	eras	ergo	erns	eros	errs	
+801	brie	erin	erne	
+802	brin	erie	grin	
+803	erie	erns	
+804	eons	eras	ergs	erne	eros	errs	urns	
+805	bros	egos	eras	ergs	erns	errs	pros	
+806	ears	eras	ergs	erns	eros	
+807	east	erat	
+808	ekes	eves	ewes	exes	eyes	uses	
+809	
+810	ease	else	
+811	each	itch	
+812	
+813	
+814	eden	ever	eves	oven	
+815	aver	even	eves	ewer	eyer	over	
+816	aves	ekes	eses	even	ever	ewes	exes	eyes	
+817	
+818	ever	ewes	eyer	
+819	awes	ekes	eses	eves	ewer	exes	eyes	owes	
+820	edam	
+821	exes	
+822	axes	ekes	eses	eves	ewes	exec	eyes	oxes	
+823	edit	emit	
+824	
+825	dyed	eked	eyer	eyes	
+826	dyer	ever	ewer	eyed	eyes	oyer	
+827	ayes	byes	dyes	ekes	eses	eves	ewes	exes	eyed	eyer	lyes	oyes	ryes	wyes	
+828	dace	fact	fade	fake	fame	fare	fate	faze	lace	mace	pace	race	
+829	face	fait	fart	fast	faut	pact	tact	
+830	bade	face	fads	fake	fame	fare	fate	faze	fide	jade	lade	made	vade	wade	
+831	bads	cads	dads	fade	fags	fans	fats	fays	feds	fids	fuds	gads	lads	mads	pads	rads	tads	wads	
+832	bags	fads	fans	fats	fays	figs	fogs	fugs	gags	hags	jags	lags	mags	nags	rags	sags	tags	wags	zags	
+833	bail	fain	fair	fait	fall	foil	hail	jail	mail	nail	pail	rail	sail	tail	vail	wail	
+834	fail	fair	fait	faun	fawn	gain	lain	main	pain	rain	vain	wain	
+835	fail	fain	fait	hair	lair	pair	
+836	bait	fact	fail	fain	fair	fart	fast	faut	flit	gait	lait	wait	
+837	bake	cake	face	fade	fame	fare	fate	faze	hake	jake	lake	make	rake	sake	take	wake	
+838	ball	call	fail	fell	fill	full	gall	hall	mall	pall	tall	wall	
+839	came	dame	face	fade	fake	fare	fate	faze	fume	game	kame	lame	name	same	tame	
+840	bang	dang	fans	gang	hang	pang	rang	sang	tang	wang	yang	
+841	bans	cans	fads	fags	fang	fats	fays	fens	fins	mans	pans	sans	tans	vans	
+842	bare	care	dare	face	fade	fake	fame	farm	faro	fart	fate	faze	fire	fore	hare	mare	pare	rare	tare	ware	yare	
+843	fare	faro	fart	firm	form	harm	warm	
+844	fare	farm	fart	taro	
+845	cart	dart	fact	fait	fare	farm	faro	fast	faut	fort	hart	kart	mart	part	tart	wart	
+846	bast	cast	east	fact	fait	fart	faut	fist	hast	last	mast	past	vast	wast	
+847	bate	date	face	fade	fake	fame	fare	fats	faze	fete	gate	hate	late	mate	pate	rate	sate	tate	
+848	bats	cats	eats	fads	fags	fans	fate	fays	fits	gats	hats	mats	oats	pats	rats	tats	vats	wats	
+849	fain	faut	faux	fawn	
+850	fact	fait	fart	fast	faun	faux	maut	naut	taut	
+851	eaux	faun	faut	flux	
+852	dawn	fain	faun	lawn	pawn	sawn	yawn	
+853	bays	cays	days	fads	fags	fans	fats	gays	hays	jays	kays	lays	mays	nays	pays	rays	says	ways	
+854	daze	face	fade	fake	fame	fare	fate	fuze	gaze	haze	laze	maze	raze	
+855	bear	dear	feat	gear	hear	lear	near	pear	rear	sear	tear	wear	year	
+856	beat	fear	feet	felt	fiat	flat	frat	heat	meat	neat	peat	seat	teat	
+857	beds	fads	fees	fens	fess	fids	fuds	peds	reds	teds	weds	zeds	
+858	deed	feel	fees	feet	fend	feud	fled	fred	geed	heed	meed	need	peed	reed	seed	teed	weed	
+859	feed	fees	feet	fell	fuel	heel	keel	peel	reel	
+860	bees	cees	dees	feds	feed	feel	feet	fens	fess	foes	gees	lees	pees	sees	tees	vees	zees	
+861	beet	feat	feed	feel	fees	felt	fret	meet	
+862	bell	cell	dell	fall	feel	felt	fill	full	hell	jell	sell	tell	well	yell	
+863	belt	celt	feat	feet	fell	gelt	melt	pelt	welt	
+864	bend	feed	fens	feud	find	fond	fund	lend	mend	pend	rend	send	tend	vend	wend	
+865	bens	dens	fans	feds	fees	fend	fess	fins	gens	hens	kens	lens	mens	pens	tens	wens	yens	
+866	kern	tern	
+867	bess	cess	feds	fees	fens	fuss	jess	less	mess	ness	
+868	beta	fete	meta	zeta	
+869	bete	fate	feta	mete	
+870	feed	fend	
+871	feat	fist	flat	frat	
+872	bibs	dibs	fids	figs	fins	firs	fits	fobs	gibs	jibs	libs	mibs	nibs	ribs	sibs	
+873	mica	pica	
+874	aide	bide	fade	fido	fids	fife	file	fine	fire	five	fixe	hide	ride	side	tide	vide	wide	
+875	dido	fide	fids	lido	
+876	aids	bids	fads	feds	fibs	fide	fido	figs	fins	firs	fits	fuds	kids	lids	mids	rids	yids	
+877	lief	
+878	fide	file	fine	fire	five	fixe	life	rife	wife	
+879	digs	fags	fibs	fids	fins	firs	fits	fogs	fugs	gigs	jigs	migs	pigs	rigs	wigs	zigs	
+880	fuji	
+881	bile	fide	fife	fill	film	fine	fire	five	fixe	mile	nile	pile	rile	tile	vile	wile	
+882	bill	dill	fall	fell	file	film	full	gill	hill	jill	kill	mill	nill	pill	rill	sill	till	will	
+883	file	fill	firm	
+884	bind	fend	fine	fink	finn	fins	fond	fund	hind	kind	mind	rind	wind	
+885	cine	dine	fide	fife	file	find	fink	finn	fins	fire	five	fixe	kine	line	mine	nine	pine	sine	tine	vine	wine	
+886	find	fine	finn	fins	funk	kink	link	mink	oink	pink	rink	sink	wink	
+887	find	fine	fink	fins	jinn	
+888	bins	dins	fans	fens	fibs	fids	figs	find	fine	fink	finn	firs	fits	gins	jins	kins	lins	mins	pins	sins	tins	vins	wins	yins	
+889	dire	eire	fare	fide	fife	file	fine	firm	firs	five	fixe	fore	hire	lire	mire	sire	tire	wire	
+890	farm	film	fire	firs	form	
+891	airs	fibs	fids	figs	fins	fire	firm	fits	furs	sirs	
+892	dish	fist	pish	wish	
+893	fast	fiat	fish	gist	hist	kist	list	mist	
+894	bits	fats	fibs	fids	figs	fins	firs	hits	kits	lits	nits	pits	sits	tits	wits	
+895	dive	fide	fife	file	fine	fire	fixe	give	hive	jive	live	rive	vive	wive	
+896	fide	fife	file	fine	fire	five	
+897	fuzz	
+898	blab	flag	flak	flan	flap	flat	flaw	flax	flay	flub	slab	
+899	flab	flak	flan	flap	flat	flaw	flax	flay	flog	frag	slag	
+900	flab	flag	flan	flap	flat	flaw	flax	flay	
+901	alan	clan	elan	flab	flag	flak	flap	flat	flaw	flax	flay	plan	
+902	clap	flab	flag	flak	flan	flat	flaw	flax	flay	flip	flop	slap	
+903	blat	feat	fiat	flab	flag	flak	flan	flap	flaw	flax	flay	flit	frat	plat	slat	
+904	claw	flab	flag	flak	flan	flap	flat	flax	flay	flew	flow	slaw	
+905	flab	flag	flak	flan	flap	flat	flaw	flay	flex	flux	
+906	clay	flab	flag	flak	flan	flap	flat	flaw	flax	fray	play	slay	
+907	fled	flee	flew	flex	plea	
+908	bled	feed	flea	flee	flew	flex	fred	pled	sled	
+909	alee	flea	fled	flew	flex	floe	flue	free	glee	
+910	blew	clew	flaw	flea	fled	flee	flex	flow	slew	
+911	flax	flea	fled	flee	flew	flux	
+912	blip	clip	flap	flit	flop	slip	
+913	alit	fait	flat	flip	slit	
+914	aloe	flee	flog	flop	flow	flue	sloe	
+915	clog	flag	floe	flop	flow	frog	slog	
+916	clop	flap	flip	floe	flog	flow	glop	plop	slop	
+917	blow	flaw	flew	floe	flog	flop	frow	glow	plow	slow	
+918	club	flab	flue	flus	flux	
+919	blue	clue	flee	floe	flub	flus	flux	glue	slue	
+920	flub	flue	flux	plus	
+921	faux	flax	flex	flub	flue	flus	
+922	coal	foam	foil	fool	foul	fowl	goal	
+923	foal	form	loam	roam	
+924	bobs	cobs	fibs	foes	fogs	fops	gobs	hobs	jobs	lobs	mobs	nobs	robs	sobs	
+925	loci	
+926	does	fees	fobs	fogs	fops	goes	hoes	joes	noes	roes	toes	woes	
+927	bogs	cogs	dogs	fags	figs	fobs	foes	fogy	fops	fugs	hogs	jogs	logs	nogs	togs	
+928	bogy	dogy	fogs	foxy	logy	
+929	boil	coil	fail	foal	fool	foul	fowl	moil	roil	soil	toil	
+930	bold	cold	folk	fond	food	ford	gold	hold	mold	sold	told	wold	
+931	fold	fork	polk	yolk	
+932	bond	fend	find	fold	font	food	ford	fund	pond	yond	
+933	cont	fond	foot	fort	wont	
+934	fold	fond	fool	foot	ford	good	hood	mood	rood	wood	
+935	cool	foal	foil	food	foot	foul	fowl	pool	tool	wool	
+936	boot	coot	font	food	fool	fort	hoot	loot	moot	root	soot	toot	
+937	bops	cops	fobs	foes	fogs	hops	lops	mops	oops	pops	sops	tops	wops	
+938	ford	fore	fork	form	fort	hora	tora	
+939	cord	fold	fond	food	fora	fore	fork	form	fort	lord	word	
+940	bore	core	fare	fire	fora	ford	fork	form	fort	gore	lore	more	pore	sore	tore	wore	yore	
+941	cork	folk	fora	ford	fore	form	fort	pork	work	york	
+942	corm	dorm	farm	firm	foam	fora	ford	fore	fork	fort	norm	worm	
+943	bort	fart	font	foot	fora	ford	fore	fork	form	mort	port	sort	tort	wort	
+944	foal	foil	fool	four	fowl	soul	
+945	dour	foul	hour	jour	lour	pour	sour	tour	your	
+946	bowl	cowl	foal	foil	fool	foul	howl	jowl	yowl	
+947	boxy	doxy	fogy	
+948	brag	crag	drag	flag	frat	frau	fray	frig	frog	frug	
+949	brat	drat	erat	feat	fiat	flat	frag	frau	fray	fret	prat	
+950	frag	frat	fray	
+951	bray	dray	flay	frag	frat	frau	gray	pray	tray	
+952	bred	feed	fled	free	fret	ired	
+953	cree	flee	fred	fret	tree	
+954	feet	frat	fred	free	
+955	brig	frag	friz	frog	frug	orig	prig	trig	
+956	frig	
+957	flog	frag	frig	from	frow	frug	grog	
+958	frog	frow	prom	
+959	brow	crow	flow	frog	from	grow	prow	trow	vrow	
+960	drug	frag	frig	frog	
+961	buck	duck	funk	guck	huck	luck	muck	puck	ruck	suck	tuck	
+962	buds	cuds	duds	fads	feds	fids	fugs	furs	fuss	iuds	muds	puds	suds	
+963	duel	feel	full	furl	
+964	bugs	dugs	fags	figs	fogs	fuds	furs	fuss	hugs	jugs	lugs	mugs	pugs	rugs	tugs	vugs	
+965	fiji	
+966	bull	cull	dull	fall	fell	fill	fuel	furl	gull	hull	lull	mull	null	pull	
+967	fame	fumy	fuse	fuze	
+968	fume	fury	
+969	bund	fend	find	fond	funk	
+970	bunk	dunk	fink	fuck	fund	gunk	hunk	junk	lunk	punk	sunk	
+971	burl	curl	fuel	full	furs	fury	hurl	purl	
+972	burs	curs	firs	fuds	fugs	furl	fury	fuss	ours	
+973	bury	fumy	furl	furs	jury	
+974	fume	fuss	fuze	muse	ruse	
+975	buss	cuss	fess	fuds	fugs	furs	fuse	muss	puss	
+976	faze	fume	fuse	fuzz	
+977	buzz	fizz	fuze	
+978	cabs	dabs	gads	gags	gals	gams	gaps	gars	gats	gays	gibs	gobs	jabs	labs	nabs	tabs	
+979	bads	cads	dads	fads	gabs	gags	gals	gams	gaps	gars	gats	gays	gods	lads	mads	pads	rads	tads	wads	
+980	guff	
+981	gage	gags	gala	raga	saga	
+982	cage	gaga	gags	gale	game	gape	gate	gave	gaze	mage	page	rage	sage	wage	
+983	bags	fags	gabs	gads	gaga	gage	gals	gams	gaps	gars	gats	gays	gigs	hags	jags	lags	mags	nags	rags	sags	tags	wags	zags	
+984	fain	gait	grin	lain	main	pain	rain	vain	wain	
+985	bait	fait	gain	grit	lait	wait	
+986	gaga	gale	gall	gals	gila	mala	
+987	bale	dale	gage	gala	gall	gals	game	gape	gate	gave	gaze	hale	kale	male	pale	sale	tale	vale	wale	yale	
+988	ball	call	fall	gala	gale	gals	gaol	gill	gull	hall	mall	pall	tall	wall	
+989	gabs	gads	gags	gala	gale	gall	gams	gaps	gars	gats	gays	gels	pals	
+990	came	dame	fame	gage	gale	gams	gamy	gape	gate	gave	gaze	kame	lame	name	same	tame	
+991	cams	dams	gabs	gads	gags	gals	game	gamy	gaps	gars	gats	gays	gems	gums	gyms	hams	jams	lams	rams	tams	yams	
+992	game	gams	gapy	gary	
+993	bang	dang	fang	gong	gung	hang	pang	rang	sang	tang	wang	yang	
+994	gall	geol	
+995	cape	gage	gale	game	gaps	gapy	gate	gave	gaze	jape	nape	rape	tape	
+996	caps	gabs	gads	gags	gals	gams	gape	gapy	gars	gats	gays	gips	gyps	haps	laps	maps	naps	paps	raps	saps	taps	yaps	zaps	
+997	gamy	gape	gaps	gary	
+998	barb	gars	gary	
+999	bars	cars	ears	gabs	gads	gags	gals	gams	gaps	garb	gary	gats	gays	jars	mars	oars	pars	tars	wars	
+1000	gamy	gapy	garb	gars	gory	mary	nary	vary	wary	
+1001	bash	cash	dash	gasp	gosh	gush	hash	lash	mash	rash	sash	wash	
+1002	gash	hasp	rasp	wasp	
+1003	bate	date	fate	gage	gale	game	gape	gats	gave	gaze	hate	late	mate	pate	rate	sate	tate	
+1004	bats	cats	eats	fats	gabs	gads	gags	gals	gams	gaps	gars	gate	gays	gets	guts	hats	mats	oats	pats	rats	tats	vats	wats	
+1005	baud	laud	
+1006	cave	dave	eave	gage	gale	game	gape	gate	gaze	give	gyve	have	lave	nave	pave	rave	save	wave	
+1007	hawk	
+1008	bays	cays	days	fays	gabs	gads	gags	gals	gams	gaps	gars	gats	goys	guys	hays	jays	kays	lays	mays	nays	pays	rays	says	ways	
+1009	daze	faze	gage	gale	game	gape	gate	gave	haze	laze	maze	raze	
+1010	bear	dear	fear	guar	hear	lear	near	pear	rear	sear	tear	wear	year	
+1011	deed	feed	geek	gees	geld	heed	meed	need	peed	reed	seed	teed	weed	
+1012	geed	gees	leek	meek	peek	reek	seek	week	
+1013	bees	cees	dees	fees	geed	geek	gels	gems	gens	gets	goes	lees	pees	sees	tees	vees	zees	
+1014	geed	gels	gelt	gild	gold	held	meld	veld	weld	
+1015	eels	gals	gees	geld	gelt	gems	gens	gets	
+1016	belt	celt	felt	geld	gels	gent	gilt	melt	pelt	welt	
+1017	gams	gees	gels	gens	gets	gums	gyms	hems	rems	
+1018	bene	gens	gent	gone	
+1019	bens	dens	fens	gees	gels	gems	gene	gent	gets	gins	guns	hens	kens	lens	mens	pens	tens	wens	yens	
+1020	bent	cent	dent	gelt	gene	gens	kent	lent	pent	rent	sent	tent	vent	went	
+1021	geol	geom	grog	
+1022	gaol	geog	geom	
+1023	geog	geol	germ	geum	glom	
+1024	berm	derm	geom	geum	perm	term	
+1025	bets	gats	gees	gels	gems	gens	guts	jets	lets	nets	pets	sets	vets	wets	
+1026	geom	germ	glum	
+1027	chat	gnat	goat	shat	that	what	
+1028	glee	thee	whee	
+1029	gibs	give	jibe	
+1030	bibs	dibs	fibs	gabs	gibe	gigs	gins	gips	gobs	jibs	libs	mibs	nibs	ribs	sibs	
+1031	gilt	girt	gist	lift	rift	sift	
+1032	digs	figs	gags	gibs	gins	gips	jigs	migs	pigs	rigs	wigs	zigs	
+1033	gala	gild	gill	gilt	
+1034	geld	gila	gill	gilt	gird	gold	mild	wild	
+1035	bill	dill	fill	gall	gila	gild	gilt	girl	gull	hill	jill	kill	mill	nill	pill	rill	sill	till	will	
+1036	gelt	gift	gila	gild	gill	girt	gist	hilt	jilt	kilt	lilt	milt	silt	tilt	wilt	
+1037	limp	pimp	simp	
+1038	bins	dins	fins	gens	gibs	gigs	gips	guns	jins	kins	lins	mins	pins	sins	tins	vins	wins	yins	
+1039	dips	gaps	gibs	gigs	gins	gyps	hips	kips	lips	nips	pips	rips	sips	tips	vips	yips	zips	
+1040	bird	gild	girl	girt	
+1041	gill	gird	girt	
+1042	dirt	gift	gilt	gird	girl	gist	
+1043	fist	gift	gilt	girt	gust	hist	kist	list	mist	
+1044	dive	five	gave	gibe	gyve	hive	jive	live	rive	vive	wive	
+1045	clad	goad	grad	
+1046	alee	flee	ghee	glen	glue	
+1047	glee	
+1048	glim	glob	
+1049	glib	glom	glum	grim	slim	
+1050	blob	glib	glom	glop	glow	slob	
+1051	geom	glim	glob	glop	glow	glum	
+1052	clop	flop	glob	glom	glow	goop	plop	slop	
+1053	blow	flow	glob	glom	glop	grow	plow	slow	
+1054	blue	clue	flue	glee	glum	glut	slue	
+1055	alum	geum	glim	glom	glue	glut	plum	slum	
+1056	glue	glum	gout	slut	
+1057	ghat	gnaw	goat	
+1058	gnat	
+1059	anus	onus	
+1060	glad	goal	goat	gold	good	grad	load	road	toad	woad	
+1061	coal	foal	goad	goat	
+1062	boat	coat	ghat	gnat	goad	goal	gout	govt	moat	
+1063	bobs	cobs	fobs	gabs	gibs	goby	gods	goes	goos	goys	hobs	jobs	lobs	mobs	nobs	robs	sobs	
+1064	gobs	gory	
+1065	bods	cods	gads	gobs	goes	goos	goys	hods	mods	nods	pods	rods	sods	
+1066	boer	doer	goes	hoer	
+1067	does	foes	gees	gobs	gods	goer	goos	goys	hoes	joes	noes	roes	toes	woes	
+1068	logo	togo	
+1069	bold	cold	fold	geld	gild	goad	golf	good	hold	mold	sold	told	wold	
+1070	gold	goof	gulf	wolf	
+1071	bone	cone	done	gene	gong	gore	hone	lone	none	pone	tone	zone	
+1072	bong	dong	gang	gone	gung	kong	long	pong	song	tong	
+1073	food	goad	gold	goof	gook	goon	goop	goos	hood	mood	rood	wood	
+1074	golf	good	gook	goon	goop	goos	hoof	roof	woof	
+1075	book	cook	good	goof	goon	goop	goos	hook	kook	look	nook	rook	took	
+1076	boon	coon	good	goof	gook	goop	goos	gown	loon	moon	noon	soon	
+1077	coop	glop	good	goof	gook	goon	goos	hoop	loop	poop	
+1078	boos	coos	gobs	gods	goes	good	goof	gook	goon	goop	goys	loos	moos	woos	zoos	
+1079	bore	core	fore	gone	gory	gyre	lore	more	pore	sore	tore	wore	yore	
+1080	dory	gary	goby	gore	lory	tory	
+1081	bosh	cosh	gash	goth	gush	josh	nosh	posh	tosh	
+1082	both	doth	gosh	loth	moth	
+1083	bout	glut	goat	govt	lout	pout	rout	tout	
+1084	goat	gout	
+1085	down	goon	mown	sown	town	
+1086	boys	gays	gobs	gods	goes	goos	guys	joys	soys	toys	
+1087	arab	crab	drab	grad	gram	gras	gray	grub	
+1088	brad	glad	goad	grab	gram	gras	gray	grid	
+1089	cram	dram	grab	grad	gras	gray	grim	guam	pram	tram	
+1090	bras	eras	grab	grad	gram	gray	
+1091	bray	dray	fray	grab	grad	gram	gras	grey	pray	tray	
+1092	brew	crew	drew	grey	grow	
+1093	gray	grew	prey	trey	
+1094	arid	grad	grim	grin	grip	grit	
+1095	brim	glim	gram	grid	grin	grip	grit	prim	trim	
+1096	brin	erin	gain	grid	grim	grip	grit	
+1097	drip	grid	grim	grin	grit	trip	
+1098	brit	gait	grid	grim	grin	grip	grot	writ	
+1099	frog	geog	grot	grow	
+1100	grit	grog	grow	trot	
+1101	brow	crow	frow	glow	grew	grog	grot	prow	trow	vrow	
+1102	drub	grab	
+1103	gram	guar	quam	
+1104	gear	guam	
+1105	buck	duck	fuck	gunk	huck	luck	muck	puck	ruck	suck	tuck	
+1106	buff	cuff	duff	gaff	gulf	huff	luff	muff	puff	ruff	tuff	
+1107	golf	guff	gull	gulp	
+1108	bull	cull	dull	full	gall	gill	gulf	gulp	hull	lull	mull	null	pull	
+1109	gulf	gull	pulp	
+1110	bums	gams	gems	guns	guts	guys	gyms	hums	mums	rums	sums	
+1111	bung	dung	gang	gong	gunk	guns	hung	kung	lung	rung	sung	
+1112	bunk	dunk	funk	guck	gung	guns	hunk	junk	lunk	punk	sunk	
+1113	buns	duns	gens	gins	gums	gung	gunk	guts	guys	huns	nuns	puns	runs	suns	tuns	
+1114	
+1115	bush	gash	gosh	gust	hush	lush	mush	push	rush	tush	
+1116	bust	dust	gist	gush	just	lust	must	oust	rust	
+1117	buts	cuts	gats	gets	gums	guns	guys	huts	juts	nuts	outs	puts	ruts	tuts	
+1118	buys	gays	goys	gums	guns	guts	
+1119	gams	gems	gums	gyps	
+1120	gaps	gips	gyms	
+1121	byre	gore	gyro	gyve	lyre	pyre	tyre	
+1122	gyre	tyro	
+1123	gave	give	gyre	
+1124	back	hank	hark	hawk	heck	hick	hock	huck	jack	lack	mack	pack	rack	sack	tack	wack	yack	
+1125	hajj	
+1126	daft	halt	hart	hast	heft	raft	waft	
+1127	bags	fags	gags	hahs	hams	haps	hats	haws	hays	hogs	hugs	jags	lags	mags	nags	rags	sags	tags	wags	zags	
+1128	aahs	hags	hams	haps	hats	haws	hays	
+1129	bail	fail	hair	hall	haul	heil	jail	mail	nail	pail	rail	sail	tail	vail	wail	
+1130	fair	hail	heir	lair	pair	
+1131	hajj	
+1132	hadj	haji	
+1133	bake	cake	fake	hale	hare	hate	have	haze	hike	hoke	jake	lake	make	rake	sake	take	wake	
+1134	bale	dale	gale	hake	half	hall	halo	halt	hare	hate	have	haze	hole	kale	male	pale	sale	tale	vale	wale	yale	
+1135	calf	hale	hall	halo	halt	
+1136	ball	call	fall	gall	hail	hale	half	halo	halt	haul	hell	hill	hull	mall	pall	tall	wall	
+1137	hale	half	hall	halt	
+1138	haft	hale	half	hall	halo	hart	hast	hilt	holt	malt	salt	walt	
+1139	cams	dams	gams	hags	hahs	haps	hats	haws	hays	hems	hums	jams	lams	rams	tams	yams	
+1140	band	hang	hank	hard	hind	land	rand	sand	wand	
+1141	bang	dang	fang	gang	hand	hank	hung	pang	rang	sang	tang	wang	yang	
+1142	bank	dank	hack	hand	hang	hark	hawk	honk	hunk	lank	rank	sank	tank	yank	
+1143	caps	gaps	hags	hahs	hams	hats	haws	hays	hips	hops	laps	maps	naps	paps	raps	saps	taps	yaps	zaps	
+1144	bard	card	hand	hare	hark	harm	harp	hart	herd	lard	nard	pard	ward	yard	
+1145	bare	care	dare	fare	hake	hale	hard	hark	harm	harp	hart	hate	have	haze	here	hire	mare	pare	rare	tare	ware	yare	
+1146	bark	dark	hack	hank	hard	hare	harm	harp	hart	hawk	lark	mark	nark	park	wark	
+1147	farm	hard	hare	hark	harp	hart	warm	
+1148	carp	hard	hare	hark	harm	hart	hasp	tarp	warp	
+1149	cart	dart	fart	haft	halt	hard	hare	hark	harm	harp	hast	hurt	kart	mart	part	tart	wart	
+1150	bash	cash	dash	gash	hasp	hast	hath	hush	lash	mash	rash	sash	wash	
+1151	gasp	harp	hash	hast	hosp	rasp	wasp	
+1152	bast	cast	east	fast	haft	halt	hart	hash	hasp	hest	hist	host	last	mast	past	vast	wast	
+1153	bate	date	fate	gate	hake	hale	hare	hath	hats	have	haze	late	mate	pate	rate	sate	tate	
+1154	bath	hash	hate	hats	lath	math	oath	path	
+1155	bats	cats	eats	fats	gats	hags	hahs	hams	haps	hate	hath	haws	hays	hits	hots	huts	mats	oats	pats	rats	tats	vats	wats	
+1156	caul	hail	hall	maul	paul	waul	
+1157	cave	dave	eave	gave	hake	hale	hare	hate	haze	hive	hove	lave	nave	pave	rave	save	wave	
+1158	gawk	hack	hank	hark	haws	
+1159	caws	hags	hahs	hams	haps	hats	hawk	hays	hews	hows	jaws	laws	maws	paws	raws	saws	taws	yaws	
+1160	bays	cays	days	fays	gays	hags	hahs	hams	haps	hats	haws	jays	kays	lays	mays	nays	pays	rays	says	ways	
+1161	daze	faze	gaze	hake	hale	hare	hate	have	hazy	laze	maze	raze	
+1162	haze	lazy	mazy	
+1163	bead	dead	heal	heap	hear	heat	heed	held	herd	lead	mead	read	
+1164	deal	head	heap	hear	heat	heel	heil	hell	leal	meal	peal	real	seal	teal	veal	weal	zeal	
+1165	head	heal	hear	heat	help	hemp	leap	neap	reap	
+1166	bear	dear	fear	gear	head	heal	heap	heat	heir	herr	hoar	lear	near	pear	rear	sear	tear	wear	year	
+1167	beat	feat	head	heal	heap	hear	heft	hest	meat	neat	peat	seat	teat	
+1168	beck	deck	hack	hick	hock	huck	neck	peck	
+1169	deed	feed	geed	head	heel	held	herd	hied	hoed	hued	meed	need	peed	reed	seed	teed	weed	
+1170	feel	heal	heed	heil	hell	keel	peel	reel	
+1171	deft	haft	heat	hest	left	reft	weft	
+1172	ceil	hail	heal	heel	heir	hell	veil	
+1173	hair	hear	heil	herr	weir	
+1174	geld	head	heed	hell	helm	help	herd	hold	meld	veld	weld	
+1175	bell	cell	dell	fell	hall	heal	heel	heil	held	helm	help	hill	hull	jell	sell	tell	well	yell	
+1176	held	hell	help	
+1177	heap	held	hell	helm	hemp	kelp	yelp	
+1178	hemp	hems	here	home	
+1179	heap	help	heme	hems	hump	temp	
+1180	gems	hams	heme	hemp	hens	hers	hews	hums	rems	
+1181	bens	dens	fens	gens	hems	hers	hews	huns	kens	lens	mens	pens	tens	wens	yens	
+1182	herd	here	hero	herr	hers	kerb	serb	verb	
+1183	hard	head	heed	held	herb	here	hero	herr	hers	nerd	
+1184	hare	heme	herb	herd	hero	herr	hers	hire	mere	pere	sere	were	
+1185	herb	herd	here	herr	hers	zero	
+1186	hear	heir	herb	herd	here	hero	hers	terr	
+1187	hems	hens	herb	herd	here	hero	herr	hews	hors	vers	
+1188	best	hast	heat	heft	hist	host	jest	lest	nest	pest	rest	test	vest	west	zest	
+1189	hews	sewn	
+1190	dews	haws	hems	hens	hers	hewn	hows	jews	mews	news	pews	sews	yews	
+1191	dick	hack	heck	hock	huck	kick	lick	mick	nick	pick	rick	sick	tick	wick	
+1192	aide	bide	fide	hike	hire	hive	hyde	ride	side	tide	vide	wide	
+1193	died	heed	hies	hind	hoed	hued	lied	pied	tied	vied	
+1194	dies	hied	hips	hiss	hits	hoes	hues	lies	pies	ties	vies	
+1195	nigh	sigh	
+1196	bike	dike	hake	hide	hire	hive	hoke	kike	like	mike	pike	tike	
+1197	bill	dill	fill	gill	hall	hell	hilt	hull	jill	kill	mill	nill	pill	rill	sill	till	will	
+1198	gilt	halt	hill	hint	hist	holt	jilt	kilt	lilt	milt	silt	tilt	wilt	
+1199	bind	find	hand	hied	hint	kind	mind	rind	wind	
+1200	dint	hilt	hind	hist	hunt	lint	mint	pint	tint	
+1201	dips	gips	haps	hies	hiss	hits	hops	kips	lips	nips	pips	rips	sips	tips	vips	yips	zips	
+1202	dire	eire	fire	hare	here	hide	hike	hive	lire	mire	sire	tire	wire	
+1203	hiss	hist	
+1204	hies	hips	hisn	hist	hits	kiss	miss	piss	
+1205	fist	gist	hast	hest	hilt	hint	hisn	hiss	host	kist	list	mist	
+1206	bits	fits	hats	hies	hips	hiss	hots	huts	kits	lits	nits	pits	sits	tits	wits	
+1207	dive	five	give	have	hide	hike	hire	hove	jive	live	rive	vive	wive	
+1208	boar	hear	hoax	hoer	hour	roar	soar	
+1209	coax	hoar	
+1210	hobs	homo	lobo	
+1211	bobs	cobs	fobs	gobs	hobo	hods	hoes	hogs	hops	hors	hots	hows	hubs	jobs	lobs	mobs	nobs	robs	sobs	
+1212	bock	cock	dock	hack	heck	hick	honk	hook	huck	jock	lock	mock	nock	pock	rock	sock	
+1213	bods	cods	gods	hobs	hoes	hogs	hops	hors	hots	hows	mods	nods	pods	rods	sods	
+1214	coed	heed	hied	hoer	hoes	hold	hood	hued	toed	
+1215	boer	doer	goer	hoar	hoed	hoes	hour	
+1216	does	foes	goes	hies	hobs	hods	hoed	hoer	hogs	hops	hors	hots	hows	hues	joes	noes	roes	toes	woes	
+1217	bogs	cogs	dogs	fogs	hags	hobs	hods	hoes	hops	hors	hots	hows	hugs	jogs	logs	nogs	togs	
+1218	coke	hake	hike	hole	home	hone	hope	hose	hove	howe	joke	poke	toke	woke	yoke	
+1219	bold	cold	fold	gold	held	hoed	hole	holt	holy	hood	mold	sold	told	wold	
+1220	bole	cole	dole	hale	hoke	hold	holt	holy	home	hone	hope	hose	hove	howe	mole	pole	role	sole	tole	vole	
+1221	bolt	colt	dolt	halt	hilt	hold	hole	holy	hoot	host	jolt	molt	volt	
+1222	hold	hole	holt	homy	moly	poly	
+1223	come	dome	heme	hoke	hole	homo	homy	hone	hope	hose	hove	howe	nome	pome	rome	some	tome	
+1224	hobo	home	homy	
+1225	holy	home	homo	
+1226	bone	cone	done	gone	hoke	hole	home	honk	hope	hose	hove	howe	lone	none	pone	tone	zone	
+1227	conk	hank	hock	hone	hook	hunk	monk	
+1228	food	good	hoed	hold	hoof	hook	hoop	hoot	mood	rood	wood	
+1229	goof	hood	hook	hoop	hoot	roof	woof	
+1230	book	cook	gook	hock	honk	hood	hoof	hoop	hoot	kook	look	nook	rook	took	
+1231	coop	goop	hood	hoof	hook	hoot	hosp	loop	poop	
+1232	boot	coot	foot	holt	hood	hoof	hook	hoop	host	loot	moot	root	soot	toot	
+1233	cope	dope	hoke	hole	home	hone	hopi	hops	hose	hove	howe	hype	lope	mope	nope	pope	rope	tope	
+1234	hope	hops	
+1235	bops	cops	fops	haps	hips	hobs	hods	hoes	hogs	hope	hopi	hors	hots	hows	lops	mops	oops	pops	sops	tops	wops	
+1236	fora	horn	hors	tora	
+1237	born	corn	hora	hors	lorn	morn	porn	torn	worn	
+1238	dors	hers	hobs	hods	hoes	hogs	hops	hora	horn	hots	hows	tors	
+1239	dose	hoke	hole	home	hone	hope	hosp	host	hove	howe	jose	lose	nose	pose	rose	
+1240	hasp	hoop	hose	host	
+1241	cost	dost	hast	hest	hist	holt	hoot	hose	hosp	lost	most	post	tost	
+1242	cots	dots	hats	hits	hobs	hods	hoes	hogs	hops	hors	hows	huts	jots	lots	mots	nots	pots	rots	sots	tots	wots	
+1243	dour	four	hoar	hoer	jour	lour	pour	sour	tour	your	
+1244	cove	dove	have	hive	hoke	hole	home	hone	hope	hose	howe	love	move	rove	wove	
+1245	hoke	hole	home	hone	hope	hose	hove	howl	hows	
+1246	bowl	cowl	fowl	howe	hows	jowl	yowl	
+1247	bows	cows	dows	haws	hews	hobs	hods	hoes	hogs	hops	hors	hots	howe	howl	lows	mows	nows	pows	rows	sows	tows	vows	wows	yows	
+1248	bubs	cubs	dubs	hobs	hues	hugs	hums	huns	huts	nubs	pubs	rubs	subs	tubs	
+1249	buck	duck	fuck	guck	hack	heck	hick	hock	hulk	hunk	husk	luck	muck	puck	ruck	suck	tuck	
+1250	cued	heed	hied	hoed	hues	rued	sued	
+1251	cues	dues	hies	hoes	hubs	hued	hugs	hums	huns	huts	ques	rues	sues	
+1252	buff	cuff	duff	guff	luff	muff	puff	ruff	tuff	
+1253	hugs	luge	
+1254	bugs	dugs	fugs	hags	hogs	hubs	hues	huge	hums	huns	huts	jugs	lugs	mugs	pugs	rugs	tugs	vugs	
+1255	hulk	hull	
+1256	bulk	huck	hula	hull	hunk	husk	sulk	
+1257	bull	cull	dull	full	gull	hall	hell	hill	hula	hulk	hurl	lull	mull	null	pull	
+1258	bump	dump	hemp	hums	jump	lump	mump	pump	rump	sump	
+1259	bums	gums	hams	hems	hubs	hues	hugs	hump	huns	huts	mums	rums	sums	
+1260	bung	dung	gung	hang	hunk	huns	hunt	kung	lung	rung	sung	
+1261	bunk	dunk	funk	gunk	hank	honk	huck	hulk	hung	huns	hunt	husk	junk	lunk	punk	sunk	
+1262	buns	duns	guns	hens	hubs	hues	hugs	hums	hung	hunk	hunt	huts	nuns	puns	runs	suns	tuns	
+1263	aunt	bunt	cunt	hint	hung	hunk	huns	hurt	punt	runt	
+1264	burl	curl	furl	hull	hurt	purl	
+1265	curt	hart	hunt	hurl	yurt	
+1266	bush	gush	hash	husk	lush	mush	push	rush	tush	
+1267	dusk	huck	hulk	hunk	hush	musk	rusk	tusk	
+1268	buts	cuts	guts	hats	hits	hots	hubs	hues	hugs	hums	huns	juts	nuts	outs	puts	ruts	tuts	
+1269	hide	hype	
+1270	
+1271	hope	hyde	hypo	type	
+1272	hype	typo	
+1273	jamb	lamb	
+1274	
+1275	ibis	
+1276	ibid	iris	isis	obis	
+1277	
+1278	aced	ices	ired	
+1279	aces	iced	ides	ires	
+1280	inky	
+1281	econ	ikon	iron	
+1282	idee	idem	ideo	ides	
+1283	idea	idem	ideo	ides	idle	ieee	
+1284	idea	idee	ideo	ides	item	
+1285	idea	idee	idem	ides	
+1286	ices	idea	idee	idem	ideo	ires	odes	
+1287	idee	idly	isle	
+1288	idle	illy	inly	
+1289	idyl	
+1290	idol	odyl	
+1291	idee	
+1292	
+1293	icon	iron	
+1294	ixia	
+1295	elks	ills	inks	irks	
+1296	alls	ells	ilks	illy	
+1297	ally	idly	ills	inly	
+1298	
+1299	amps	umps	
+1300	inch	
+1301	inca	itch	
+1302	into	
+1303	ilks	inky	inns	irks	
+1304	icky	inks	inly	
+1305	idly	illy	inky	only	
+1306	inks	ions	
+1307	
+1308	into	intr	
+1309	info	intl	intr	onto	unto	
+1310	intl	into	
+1311	bons	cons	dons	eons	inns	mons	pons	sons	tons	
+1312	iowa	jota	nota	
+1313	iota	
+1314	
+1315	bran	iraq	iron	
+1316	iran	
+1317	bred	fred	iced	ires	
+1318	ares	ices	ides	ired	iris	irks	ores	pres	
+1319	ibis	ires	irks	isis	kris	
+1320	arks	ilks	inks	ires	iris	
+1321	icon	ikon	iran	pron	
+1322	ibis	iris	isms	
+1323	idle	
+1324	isis	
+1325	
+1326	etch	inch	
+1327	idem	stem	
+1328	buds	cuds	duds	fuds	muds	puds	suds	
+1329	ilia	
+1330	czar	tzar	
+1331	cabs	dabs	gabs	jags	jams	jars	jaws	jays	jibs	jobs	labs	nabs	tabs	
+1332	back	hack	jock	lack	mack	pack	rack	sack	tack	wack	yack	
+1333	bade	fade	jake	jane	jape	lade	made	vade	wade	
+1334	bags	fags	gags	hags	jabs	jams	jars	jaws	jays	jigs	jogs	jugs	lags	mags	nags	rags	sags	tags	wags	zags	
+1335	bail	fail	hail	mail	nail	pail	rail	sail	tail	vail	wail	
+1336	bake	cake	fake	hake	jade	jane	jape	joke	juke	lake	make	rake	sake	take	wake	
+1337	iamb	jams	lamb	
+1338	cams	dams	gams	hams	jabs	jags	jamb	jars	jaws	jays	lams	rams	tams	yams	
+1339	bane	cane	dane	jade	jake	jape	june	lane	mane	pane	sane	vane	wane	
+1340	cape	gape	jade	jake	jane	jupe	nape	rape	tape	
+1341	bars	cars	ears	gars	jabs	jags	jams	jaws	jays	mars	oars	pars	tars	wars	
+1342	nato	
+1343	lava	
+1344	caws	haws	jabs	jags	jams	jars	jays	jews	laws	maws	paws	raws	saws	taws	yaws	
+1345	bays	cays	days	fays	gays	hays	jabs	jags	jams	jars	jaws	joys	kays	lays	mays	nays	pays	rays	says	ways	
+1346	razz	
+1347	bean	dean	juan	lean	mean	pean	wean	
+1348	beep	deep	jeer	jeez	keep	peep	seep	veep	weep	
+1349	beer	deer	jeep	jeez	leer	peer	seer	veer	
+1350	jeep	jeer	
+1351	
+1352	bell	cell	dell	fell	hell	jill	sell	tell	well	yell	
+1353	perk	
+1354	bess	cess	fess	jest	jets	jews	joss	less	mess	ness	
+1355	best	hest	jess	just	lest	nest	pest	rest	test	vest	west	zest	
+1356	bets	gets	jess	jews	jots	juts	lets	nets	pets	sets	vets	wets	
+1357	deux	
+1358	dews	hews	jaws	jess	jets	mews	news	pews	sews	yews	
+1359	gibe	jibs	jive	
+1360	bibs	dibs	fibs	gibs	jabs	jibe	jigs	jins	jobs	libs	mibs	nibs	ribs	sibs	
+1361	biff	miff	riff	tiff	
+1362	digs	figs	gigs	jags	jibs	jins	jogs	jugs	migs	pigs	rigs	wigs	zigs	
+1363	bill	dill	fill	gill	hill	jell	jilt	kill	mill	nill	pill	rill	sill	till	will	
+1364	gilt	hilt	jill	jolt	kilt	lilt	milt	silt	tilt	wilt	
+1365	finn	jins	jinx	
+1366	bins	dins	fins	gins	jibs	jigs	jinn	jinx	kins	lins	mins	pins	sins	tins	vins	wins	yins	
+1367	jinn	jins	minx	
+1368	dive	five	give	hive	jibe	live	rive	vive	wive	
+1369	bobs	cobs	fobs	gobs	hobs	jabs	jibs	joes	jogs	joss	jots	joys	lobs	mobs	nobs	robs	sobs	
+1370	bock	cock	dock	hock	jack	lock	mock	nock	pock	rock	sock	
+1371	does	foes	goes	hoes	jobs	joey	jogs	joss	jots	joys	noes	roes	toes	woes	
+1372	joes	
+1373	bogs	cogs	dogs	fogs	hogs	jags	jigs	jobs	joes	joss	jots	joys	jugs	logs	nogs	togs	
+1374	join	
+1375	join	joke	jose	
+1376	coin	john	joie	loin	
+1377	coke	hoke	jake	joie	jose	juke	poke	toke	woke	yoke	
+1378	bolt	colt	dolt	holt	jilt	molt	volt	
+1379	dose	hose	joie	joke	josh	joss	lose	nose	pose	rose	
+1380	bosh	cosh	gosh	jose	joss	nosh	posh	tosh	
+1381	boss	doss	jess	jobs	joes	jogs	jose	josh	jots	joys	loss	moss	toss	
+1382	iota	jots	nota	
+1383	cots	dots	hots	jets	jobs	joes	jogs	joss	jota	joys	juts	lots	mots	nots	pots	rots	sots	tots	wots	
+1384	dour	four	hour	lour	pour	sour	tour	your	
+1385	bowl	cowl	fowl	howl	yowl	
+1386	boys	goys	jays	jobs	joes	jogs	joss	jots	soys	toys	
+1387	jean	yuan	
+1388	judy	juno	kudo	
+1389	judo	july	jury	
+1390	bugs	dugs	fugs	hugs	jags	jigs	jogs	juts	lugs	mugs	pugs	rugs	tugs	vugs	
+1391	
+1392	cuke	duke	jake	joke	june	jupe	jure	jute	luke	nuke	puke	
+1393	duly	judy	jury	
+1394	bump	dump	hump	lump	mump	pump	rump	sump	
+1395	dune	jane	juke	junk	juno	jupe	jure	jute	lune	rune	tune	
+1396	bunk	dunk	funk	gunk	hunk	june	juno	lunk	punk	sunk	
+1397	judo	june	junk	
+1398	dupe	jape	juke	june	jure	jute	supe	
+1399	cure	juke	june	jupe	jury	jute	lure	pure	sure	
+1400	bury	fury	judy	july	jure	
+1401	bust	dust	gust	jest	lust	must	oust	rust	
+1402	cute	juke	june	jupe	jure	juts	lute	mute	
+1403	buts	cuts	guts	huts	jets	jots	jugs	jute	nuts	outs	puts	ruts	tuts	
+1404	
+1405	bale	dale	gale	hale	kame	male	pale	sale	tale	vale	wale	yale	
+1406	came	dame	fame	game	kale	lame	name	same	tame	
+1407	cart	dart	fart	hart	mart	part	tart	wart	
+1408	kays	mayo	
+1409	bays	cays	days	fays	gays	hays	jays	kayo	keys	lays	mays	nays	pays	rays	says	ways	
+1410	feel	heel	keen	keep	peel	reel	
+1411	been	keel	keep	kern	peen	seen	teen	ween	
+1412	beep	deep	jeep	keel	keen	kelp	peep	seep	veep	weep	
+1413	begs	kens	keys	legs	pegs	
+1414	help	keep	yelp	
+1415	kens	kent	reno	
+1416	bens	dens	fens	gens	hens	kegs	keno	kent	keys	kins	lens	mens	pens	tens	wens	yens	
+1417	bent	cent	dent	gent	keno	kens	kept	lent	pent	rent	sent	tent	vent	went	
+1418	kept	
+1419	dept	kent	kepi	sept	wept	
+1420	herb	kerf	kern	serb	verb	
+1421	kerb	kern	serf	
+1422	fern	keen	kerb	kerf	tern	
+1423	beys	kays	kegs	kens	leys	
+1424	koan	than	
+1425	dick	hick	kink	kirk	lick	mick	nick	pick	rick	sick	tick	wick	
+1426	aids	bids	fids	kins	kips	kiss	kits	lids	mids	rids	yids	
+1427	
+1428	bike	dike	hike	kine	kite	like	mike	pike	tike	
+1429	bill	dill	fill	gill	hill	jill	kiln	kilo	kilt	mill	nill	pill	rill	sill	till	will	
+1430	kill	kilo	kilt	
+1431	kill	kiln	kilt	silo	
+1432	gilt	hilt	jilt	kill	kiln	kilo	kist	lilt	milt	silt	tilt	wilt	
+1433	bind	find	hind	kine	king	kink	kins	mind	rind	wind	
+1434	cine	dine	fine	kike	kind	king	kink	kins	kite	line	mine	nine	pine	sine	tine	vine	wine	
+1435	ding	kind	kine	kink	kins	kong	kung	ling	ming	ping	ring	sing	ting	wing	zing	
+1436	fink	kick	kind	kine	king	kins	kirk	link	mink	oink	pink	rink	sink	wink	
+1437	bins	dins	fins	gins	jins	kens	kids	kind	kine	king	kink	kips	kiss	kits	lins	mins	pins	sins	tins	vins	wins	yins	
+1438	dips	gips	hips	kids	kins	kiss	kits	lips	nips	pips	rips	sips	tips	vips	yips	zips	
+1439	dirk	kick	kink	mirk	
+1440	hiss	kids	kins	kips	kist	kits	miss	piss	
+1441	fist	gist	hist	kilt	kiss	list	mist	
+1442	bite	cite	kike	kine	kith	kits	lite	mite	rite	site	
+1443	kite	kits	lith	pith	with	
+1444	bits	fits	hits	kids	kins	kips	kiss	kite	kith	lits	nits	pits	sits	tits	wits	
+1445	
+1446	knew	
+1447	anew	knee	know	
+1448	knot	snit	unit	
+1449	knot	know	knox	snob	
+1450	knit	knob	know	knox	snot	
+1451	enow	knew	knob	knot	knox	snow	
+1452	knob	knot	know	
+1453	khan	loan	moan	roan	
+1454	
+1455	bola	cola	
+1456	bong	dong	gong	king	kung	long	pong	song	tong	
+1457	book	cook	gook	hook	look	nook	rook	took	
+1458	roto	toto	
+1459	iris	
+1460	judo	kudu	
+1461	kudo	
+1462	bung	dung	gung	hung	king	kong	lung	rung	sung	
+1463	
+1464	
+1465	cabs	dabs	gabs	jabs	lads	lags	lams	laos	laps	lass	laws	lays	libs	lobs	nabs	tabs	
+1466	dace	face	lack	lacy	lade	lake	lame	lane	late	lave	laze	lice	mace	pace	race	
+1467	back	hack	jack	lace	lacy	lank	lark	lick	lock	luck	mack	pack	rack	sack	tack	wack	yack	
+1468	lace	lack	lady	laky	lazy	lucy	racy	
+1469	bade	fade	jade	lace	lads	lady	lake	lame	lane	late	lave	laze	lode	made	vade	wade	
+1470	bads	cads	dads	fads	gads	labs	lade	lady	lags	lams	laos	laps	lass	laws	lays	lids	mads	pads	rads	tads	wads	
+1471	lacy	lade	lads	laky	lazy	
+1472	bags	fags	gags	hags	jags	labs	lads	lams	laos	laps	lass	laws	lays	legs	logs	lugs	mags	nags	rags	sags	tags	wags	zags	
+1473	lain	lair	lait	land	lard	laud	maid	paid	qaid	raid	said	
+1474	fain	gain	laid	lair	lait	lawn	loin	main	pain	rain	vain	wain	
+1475	fair	hair	laid	lain	lait	pair	
+1476	bait	fait	gait	laid	lain	lair	last	wait	
+1477	bake	cake	fake	hake	jake	lace	lade	laky	lame	lane	late	lave	laze	like	luke	make	rake	sake	take	wake	
+1478	caky	lacy	lady	lake	lazy	
+1479	lamb	lame	lamp	lams	lava	lima	mama	
+1480	iamb	jamb	lama	lame	lamp	lams	limb	
+1481	came	dame	fame	game	kame	lace	lade	lake	lama	lamb	lamp	lams	lane	late	lave	laze	lime	name	same	tame	
+1482	camp	damp	lama	lamb	lame	lams	lapp	limp	lump	ramp	tamp	vamp	
+1483	cams	dams	gams	hams	jams	labs	lads	lags	lama	lamb	lame	lamp	laos	laps	lass	laws	lays	rams	tams	yams	
+1484	band	hand	laid	lane	lank	lard	laud	lend	rand	sand	wand	
+1485	bane	cane	dane	jane	lace	lade	lake	lame	land	lank	late	lave	laze	line	lone	lune	mane	pane	sane	vane	wane	
+1486	bank	dank	hank	lack	land	lane	lark	link	lunk	rank	sank	tank	yank	
+1487	labs	lads	lags	lams	laps	lass	laws	lays	leos	loos	taos	
+1488	lamp	laps	
+1489	caps	gaps	haps	labs	lads	lags	lams	laos	lapp	lass	laws	lays	lips	lops	maps	naps	paps	raps	saps	taps	yaps	zaps	
+1490	bard	card	hard	laid	land	lark	laud	lord	nard	pard	ward	yard	
+1491	bark	dark	hark	lack	lank	lard	lurk	mark	nark	park	wark	
+1492	bash	cash	dash	gash	hash	lass	last	lath	lush	mash	rash	sash	wash	
+1493	bass	labs	lads	lags	lams	laos	laps	lash	last	laws	lays	less	loss	mass	pass	sass	tass	
+1494	bast	cast	east	fast	hast	lait	lash	lass	lest	list	lost	lust	mast	past	vast	wast	
+1495	bate	date	fate	gate	hate	lace	lade	lake	lame	lane	lath	lave	laze	lite	lute	mate	pate	rate	sate	tate	
+1496	bath	hath	lash	late	lith	loth	math	oath	path	
+1497	baud	gaud	laid	land	lard	loud	
+1498	java	lama	lave	leva	
+1499	cave	dave	eave	gave	have	lace	lade	lake	lame	lane	late	lava	laze	live	love	nave	pave	rave	save	wave	
+1500	dawn	fawn	lain	laws	pawn	sawn	yawn	
+1501	caws	haws	jaws	labs	lads	lags	lams	laos	laps	lass	lawn	lays	lows	maws	paws	raws	saws	taws	yaws	
+1502	bays	cays	days	fays	gays	hays	jays	kays	labs	lads	lags	lams	laos	laps	lass	laws	leys	mays	nays	pays	rays	says	ways	
+1503	daze	faze	gaze	haze	lace	lade	lake	lame	lane	late	lave	lazy	maze	raze	
+1504	hazy	lacy	lady	laky	laze	mazy	
+1505	bead	dead	head	leaf	leak	leal	lean	leap	lear	leas	lend	lewd	load	mead	read	
+1506	deaf	lead	leak	leal	lean	leap	lear	leas	loaf	
+1507	beak	lead	leaf	leal	lean	leap	lear	leas	leek	peak	teak	weak	
+1508	deal	heal	lead	leaf	leak	lean	leap	lear	leas	meal	peal	real	seal	teal	veal	weal	zeal	
+1509	bean	dean	jean	lead	leaf	leak	leal	leap	lear	leas	leon	loan	mean	pean	wean	
+1510	heap	lead	leaf	leak	leal	lean	lear	leas	neap	reap	
+1511	bear	dear	fear	gear	hear	lead	leaf	leak	leal	lean	leap	leas	leer	liar	near	pear	rear	sear	tear	wear	year	
+1512	lead	leaf	leak	leal	lean	leap	lear	lees	legs	leis	leks	lens	leos	less	lets	leys	meas	peas	seas	teas	yeas	
+1513	lect	loch	mech	tech	
+1514	lech	left	lent	lest	sect	
+1515	geek	leak	leer	lees	meek	peek	reek	seek	week	
+1516	beer	deer	jeer	lear	leek	lees	lier	peer	seer	veer	
+1517	bees	cees	dees	fees	gees	leas	leek	leer	legs	leis	leks	lens	leos	less	lets	leys	lies	lyes	pees	sees	tees	vees	zees	
+1518	deft	heft	lect	lent	lest	lift	loft	reft	weft	
+1519	begs	kegs	lags	leas	lees	leis	leks	lens	leos	less	lets	leys	logs	lugs	pegs	
+1520	leas	lees	legs	leks	lens	leos	less	lets	leys	
+1521	leas	lees	legs	leis	lens	leos	less	lets	leys	
+1522	bend	fend	land	lead	lens	lent	lewd	mend	pend	rend	send	tend	vend	wend	
+1523	bens	dens	fens	gens	hens	kens	leas	lees	legs	leis	leks	lend	lent	leos	less	lets	leys	lins	mens	pens	tens	wens	yens	
+1524	bent	cent	dent	gent	kent	lect	left	lend	lens	lest	lint	pent	rent	sent	tent	vent	went	
+1525	aeon	lean	leos	lion	loon	neon	peon	
+1526	laos	leas	lees	legs	leis	leks	lens	leon	less	lets	leys	loos	
+1527	less	lest	lose	
+1528	bess	cess	fess	jess	lass	leas	lees	legs	leis	leks	lens	leos	lese	lest	lets	leys	loss	mess	ness	
+1529	best	hest	jest	last	lect	left	lent	lese	less	list	lost	lust	nest	pest	rest	test	vest	west	zest	
+1530	bets	gets	jets	leas	lees	legs	leis	leks	lens	leos	less	leys	lits	lots	nets	pets	sets	vets	wets	
+1531	deva	lava	levi	levo	levy	
+1532	leva	levo	levy	nevi	
+1533	leva	levi	levy	
+1534	bevy	leva	levi	levo	
+1535	lead	lend	
+1536	beys	keys	lays	leas	lees	legs	leis	leks	lens	leos	less	lets	
+1537	lear	lier	
+1538	bibs	dibs	fibs	gibs	jibs	labs	lids	lies	lins	lips	lits	lobs	mibs	nibs	ribs	sibs	
+1539	dice	lace	lick	life	like	lime	line	lire	lite	live	mice	nice	rice	vice	
+1540	dick	hick	kick	lack	lice	link	lock	luck	mick	nick	pick	rick	sick	tick	wick	
+1541	dido	fido	lids	limo	lino	
+1542	aids	bids	fids	kids	lads	libs	lido	lies	lins	lips	lits	mids	rids	yids	
+1543	died	hied	lief	lien	lier	lies	lieu	pied	tied	vied	
+1544	fief	lied	lien	lier	lies	lieu	
+1545	lied	lief	lier	lies	lieu	limn	lion	mien	
+1546	bier	leer	liar	lied	lief	lien	lies	lieu	pier	tier	vier	
+1547	dies	hies	lees	libs	lids	lied	lief	lien	lier	lieu	lins	lips	lits	lyes	pies	ties	vies	
+1548	lied	lief	lien	lier	lies	
+1549	fife	lice	lift	like	lime	line	lire	lite	live	rife	wife	
+1550	gift	left	life	lilt	lint	list	loft	rift	sift	
+1551	bike	dike	hike	kike	lake	lice	life	lime	line	lire	lite	live	luke	mike	pike	tike	
+1552	gilt	hilt	jilt	kilt	lift	lily	lint	list	milt	silt	tilt	wilt	
+1553	lilt	limy	liny	oily	wily	
+1554	lama	limb	lime	limn	limo	limp	limy	lira	pima	
+1555	lamb	lima	lime	limn	limo	limp	limy	
+1556	dime	lame	lice	life	like	lima	limb	limn	limo	limp	limy	line	lire	lite	live	mime	rime	time	
+1557	lien	lima	limb	lime	limo	limp	limy	lion	
+1558	lido	lima	limb	lime	limn	limp	limy	lino	
+1559	gimp	lamp	lima	limb	lime	limn	limo	limy	lisp	lump	pimp	simp	
+1560	lily	lima	limb	lime	limn	limo	limp	liny	rimy	
+1561	cine	dine	fine	kine	lane	lice	life	like	lime	ling	link	lino	lins	lint	liny	lire	lite	live	lone	lune	mine	nine	pine	sine	tine	vine	wine	
+1562	ding	king	line	link	lino	lins	lint	liny	long	lung	ming	ping	ring	sing	ting	wing	zing	
+1563	fink	kink	lank	lick	line	ling	lino	lins	lint	liny	lunk	mink	oink	pink	rink	sink	wink	
+1564	lido	limo	line	ling	link	lins	lint	liny	vino	wino	
+1565	bins	dins	fins	gins	jins	kins	lens	libs	lids	lies	line	ling	link	lino	lint	liny	lips	lits	mins	pins	sins	tins	vins	wins	yins	
+1566	dint	hint	lent	lift	lilt	line	ling	link	lino	lins	liny	list	mint	pint	tint	
+1567	lily	limy	line	ling	link	lino	lins	lint	luny	piny	tiny	viny	winy	
+1568	leon	lien	limn	loon	pion	zion	
+1569	dips	gips	hips	kips	laps	libs	lids	lies	lins	lits	lops	nips	pips	rips	sips	tips	vips	yips	zips	
+1570	lima	lire	
+1571	dire	eire	fire	hire	lice	life	like	lime	line	lira	lite	live	lore	lure	lyre	mire	sire	tire	wire	
+1572	limp	list	wisp	
+1573	fist	gist	hist	kist	last	lest	lift	lilt	lint	lisp	lost	lust	mist	
+1574	bite	cite	kite	late	lice	life	like	lime	line	lire	lith	lits	live	lute	mite	rite	site	
+1575	kith	lath	lite	lits	loth	pith	with	
+1576	bits	fits	hits	kits	lets	libs	lids	lies	lins	lips	lite	lith	lots	nits	pits	sits	tits	wits	
+1577	dive	five	give	hive	jive	lave	lice	life	like	lime	line	lire	lite	love	rive	vive	wive	
+1578	goad	lead	loaf	loam	loan	lord	loud	road	toad	woad	
+1579	leaf	load	loam	loan	
+1580	foam	load	loaf	loan	loom	roam	
+1581	koan	lean	load	loaf	loam	loin	loon	lorn	moan	roan	
+1582	lobo	lobs	lode	loge	lone	lope	lore	lose	love	lube	robe	
+1583	hobo	lobe	lobs	loco	logo	
+1584	bobs	cobs	fobs	gobs	hobs	jobs	labs	libs	lobe	lobo	logs	loos	lops	loss	lots	lows	mobs	nobs	robs	sobs	
+1585	lech	loci	lock	loco	loth	
+1586	foci	loch	lock	loco	
+1587	bock	cock	dock	hock	jock	lack	lick	loch	loci	loco	look	luck	mock	nock	pock	rock	sock	
+1588	coco	lobo	loch	loci	lock	logo	poco	
+1589	bode	code	lade	lobe	loge	lone	lope	lore	lose	love	mode	node	rode	
+1590	left	lift	loot	lost	lout	soft	
+1591	doge	lobe	lode	logo	logs	logy	lone	lope	lore	lose	love	luge	
+1592	gogo	lobo	loco	loge	logs	logy	togo	
+1593	bogs	cogs	dogs	fogs	hogs	jogs	lags	legs	lobs	loge	logo	logy	loos	lops	loss	lots	lows	lugs	nogs	togs	
+1594	bogy	dogy	fogy	loge	logo	logs	lory	
+1595	coin	join	lain	loan	loon	lorn	
+1596	boll	coll	doll	lull	moll	poll	roll	toll	
+1597	bone	cone	done	gone	hone	lane	line	lobe	lode	loge	long	lope	lore	lose	love	lune	none	pone	tone	zone	
+1598	bong	dong	gong	kong	ling	lone	lung	pong	song	tong	
+1599	book	cook	gook	hook	kook	lock	loom	loon	loop	loos	loot	nook	rook	took	
+1600	boom	doom	loam	look	loon	loop	loos	loot	room	zoom	
+1601	boon	coon	goon	leon	lion	loan	loin	look	loom	loop	loos	loot	lorn	moon	noon	soon	
+1602	coop	goop	hoop	look	loom	loon	loos	loot	loup	poop	
+1603	boos	coos	goos	laos	leos	lobs	logs	look	loom	loon	loop	loot	lops	loss	lots	lows	moos	woos	zoos	
+1604	boot	coot	foot	hoot	loft	look	loom	loon	loop	loos	lost	lout	moot	root	soot	toot	
+1605	cope	dope	hope	lobe	lode	loge	lone	lops	lore	lose	love	mope	nope	pope	rope	tope	
+1606	bops	cops	fops	hops	laps	lips	lobs	logs	loos	lope	loss	lots	lows	mops	oops	pops	sops	tops	wops	
+1607	cord	ford	lard	load	lore	lorn	lory	loud	word	
+1608	bore	core	fore	gore	lire	lobe	lode	loge	lone	lope	lord	lorn	lory	lose	love	lure	lyre	more	pore	sore	tore	wore	yore	
+1609	born	corn	horn	loan	loin	loon	lord	lore	lory	morn	porn	torn	worn	
+1610	dory	gory	logy	lord	lore	lorn	tory	
+1611	dose	hose	jose	lese	lobe	lode	loge	lone	lope	lore	loss	lost	love	nose	pose	rose	
+1612	boss	doss	joss	lass	less	lobs	logs	loos	lops	lose	lost	lots	lows	moss	toss	
+1613	cost	dost	host	last	lest	list	loft	loot	lose	loss	lout	lust	most	post	tost	
+1614	both	doth	goth	lath	lith	loch	lots	moth	
+1615	cots	dots	hots	jots	lets	lits	lobs	logs	loos	lops	loss	loth	lows	mots	nots	pots	rots	sots	tots	wots	
+1616	laud	load	lord	loup	lour	lout	
+1617	coup	loop	loud	lour	lout	soup	
+1618	dour	four	hour	jour	loud	loup	lout	pour	sour	tour	your	
+1619	bout	gout	loft	loot	lost	loud	loup	lour	pout	rout	tout	
+1620	cove	dove	hove	lave	live	lobe	lode	loge	lone	lope	lore	lose	move	rove	wove	
+1621	bows	cows	dows	hows	laws	lobs	logs	loos	lops	loss	lots	mows	nows	pows	rows	sows	tows	vows	wows	yows	
+1622	lulu	
+1623	cube	lobe	luge	luke	lune	lure	lute	luxe	rube	tube	
+1624	buck	duck	fuck	guck	huck	lack	lick	lock	lucy	lunk	lurk	muck	puck	ruck	suck	tuck	
+1625	lacy	luck	luny	
+1626	buff	cuff	duff	guff	huff	muff	puff	ruff	tuff	
+1627	huge	loge	lube	lugs	luke	lune	lure	lute	luxe	
+1628	bugs	dugs	fugs	hugs	jugs	lags	legs	logs	luge	mugs	pugs	rugs	tugs	vugs	
+1629	cuke	duke	juke	lake	like	lube	luge	lune	lure	lute	luxe	nuke	puke	
+1630	bull	cull	dull	full	gull	hull	loll	lulu	mull	null	pull	
+1631	luau	lull	zulu	
+1632	bump	dump	hump	jump	lamp	limp	mump	pump	rump	sump	
+1633	lune	lung	lunk	luny	tuna	
+1634	dune	june	lane	line	lone	lube	luge	luke	luna	lung	lunk	luny	lure	lute	luxe	rune	tune	
+1635	bung	dung	gung	hung	kung	ling	long	luna	lune	lunk	luny	rung	sung	
+1636	bunk	dunk	funk	gunk	hunk	junk	lank	link	luck	luna	lune	lung	luny	lurk	punk	sunk	
+1637	liny	lucy	luna	lune	lung	lunk	puny	
+1638	cure	jure	lire	lore	lube	luge	luke	lune	lurk	lute	luxe	lyre	pure	sure	
+1639	lark	luck	lunk	lure	murk	turk	
+1640	bush	gush	hush	lash	lust	mush	push	rush	tush	
+1641	bust	dust	gust	just	last	lest	list	lost	lush	must	oust	rust	
+1642	cute	jute	late	lite	lube	luge	luke	lune	lure	luxe	mute	
+1643	lube	luge	luke	lune	lure	lute	
+1644	ayes	byes	dyes	eyes	lees	lies	oyes	ryes	wyes	
+1645	
+1646	byre	gyre	lire	lore	lure	pyre	tyre	
+1647	dace	face	lace	mach	mack	macs	made	mage	make	male	mane	mare	mate	maze	mice	pace	race	
+1648	bach	each	mace	mack	macs	mash	math	mech	much	tach	
+1649	back	hack	jack	lack	mace	mach	macs	mark	mask	mick	mock	muck	pack	rack	sack	tack	wack	yack	
+1650	mace	mach	mack	mads	mags	mans	maps	mars	mass	mats	maws	mays	pacs	sacs	wacs	
+1651	bade	fade	jade	lade	mace	mads	mage	make	male	mane	mare	mate	maze	mode	vade	wade	
+1652	bads	cads	dads	fads	gads	lads	macs	made	mags	mans	maps	mars	mass	mats	maws	mays	mids	mods	muds	pads	rads	tads	wads	
+1653	cage	gage	mace	made	magi	mags	make	male	mane	mare	mate	maze	page	rage	sage	wage	
+1654	mage	mags	mali	maxi	
+1655	bags	fags	gags	hags	jags	lags	macs	mads	mage	magi	mans	maps	mars	mass	mats	maws	mays	migs	mugs	nags	rags	sags	tags	wags	zags	
+1656	laid	mail	maim	main	paid	qaid	raid	said	
+1657	bail	fail	hail	jail	maid	maim	main	mall	marl	maul	moil	nail	pail	rail	sail	tail	vail	wail	
+1658	maid	mail	main	
+1659	fain	gain	lain	maid	mail	maim	mein	pain	rain	vain	wain	
+1660	bake	cake	fake	hake	jake	lake	mace	made	mage	male	mane	mare	mate	maze	mike	rake	sake	take	wake	
+1661	gala	male	mali	mall	malt	mama	maya	
+1662	bale	dale	gale	hale	kale	mace	made	mage	make	mala	mali	mall	malt	mane	mare	mate	maze	mile	mole	mule	pale	sale	tale	vale	wale	yale	
+1663	bali	magi	mala	male	mall	malt	maxi	
+1664	ball	call	fall	gall	hall	mail	mala	male	mali	malt	marl	maul	mill	moll	mull	pall	tall	wall	
+1665	halt	mala	male	mali	mall	mart	mast	matt	maut	melt	milt	molt	salt	walt	
+1666	lama	mala	maya	
+1667	bane	cane	dane	jane	lane	mace	made	mage	make	male	mans	manx	many	mare	mate	maze	mine	pane	sane	vane	wane	
+1668	bans	cans	fans	macs	mads	mags	mane	manx	many	maps	mars	mass	mats	maws	mays	mens	mins	mons	pans	sans	tans	vans	
+1669	mane	mans	many	marx	minx	
+1670	mane	mans	manx	mary	mazy	mony	zany	
+1671	caps	gaps	haps	laps	macs	mads	mags	mans	mars	mass	mats	maws	mays	mops	naps	paps	raps	saps	taps	yaps	zaps	
+1672	mare	mark	marl	mars	mart	marx	mary	narc	
+1673	bare	care	dare	fare	hare	mace	made	mage	make	male	mane	marc	mark	marl	mars	mart	marx	mary	mate	maze	mere	mire	more	pare	rare	tare	ware	yare	
+1674	bark	dark	hark	lark	mack	marc	mare	marl	mars	mart	marx	mary	mask	mirk	murk	nark	park	wark	
+1675	carl	earl	mail	mall	marc	mare	mark	mars	mart	marx	mary	maul	
+1676	bars	cars	ears	gars	jars	macs	mads	mags	mans	maps	marc	mare	mark	marl	mart	marx	mary	mass	mats	maws	mays	oars	pars	tars	wars	
+1677	cart	dart	fart	hart	kart	malt	marc	mare	mark	marl	mars	marx	mary	mast	matt	maut	mort	part	tart	wart	
+1678	manx	marc	mare	mark	marl	mars	mart	mary	
+1679	gary	many	marc	mare	mark	marl	mars	mart	marx	mazy	miry	nary	vary	wary	
+1680	bash	cash	dash	gash	hash	lash	mach	mask	mass	mast	math	mesh	mush	rash	sash	wash	
+1681	bask	cask	mack	mark	mash	mass	mast	musk	task	
+1682	bass	lass	macs	mads	mags	mans	maps	mars	mash	mask	mast	mats	maws	mays	mess	miss	moss	muss	pass	sass	tass	
+1683	bast	cast	east	fast	hast	last	malt	mart	mash	mask	mass	matt	maut	mist	most	must	past	vast	wast	
+1684	bate	date	fate	gate	hate	late	mace	made	mage	make	male	mane	mare	math	mats	matt	maze	mete	mite	mote	mute	pate	rate	sate	tate	
+1685	bath	hath	lath	mach	mash	mate	mats	matt	moth	myth	oath	path	
+1686	bats	cats	eats	fats	gats	hats	macs	mads	mags	mans	maps	mars	mass	mate	math	matt	maws	mays	mots	oats	pats	rats	tats	vats	wats	
+1687	malt	mart	mast	mate	math	mats	maut	mitt	mutt	watt	
+1688	caul	haul	mail	mall	marl	maut	paul	waul	
+1689	faut	malt	mart	mast	matt	maul	naut	taut	
+1690	caws	haws	jaws	laws	macs	mads	mags	mans	maps	mars	mass	mats	mays	mews	mows	paws	raws	saws	taws	yaws	
+1691	magi	mali	taxi	
+1692	mala	mama	mayo	mays	
+1693	kayo	maya	mays	
+1694	bays	cays	days	fays	gays	hays	jays	kays	lays	macs	mads	mags	mans	maps	mars	mass	mats	maws	maya	mayo	nays	pays	rays	says	ways	
+1695	daze	faze	gaze	haze	laze	mace	made	mage	make	male	mane	mare	mate	mazy	raze	
+1696	hazy	lazy	many	mary	maze	
+1697	bead	dead	head	lead	meal	mean	meas	meat	meed	meld	mend	read	
+1698	deal	heal	leal	mead	mean	meas	meat	mewl	peal	real	seal	teal	veal	weal	zeal	
+1699	bean	dean	jean	lean	mead	meal	meas	meat	mein	moan	pean	wean	
+1700	leas	mead	meal	mean	meat	mens	mess	mews	moas	peas	seas	teas	yeas	
+1701	beat	feat	heat	mead	meal	mean	meas	meet	melt	moat	neat	peat	seat	teat	
+1702	lech	mach	mesh	much	tech	
+1703	deed	feed	geed	heed	mead	meek	meet	meld	mend	need	peed	reed	seed	teed	weed	
+1704	geek	leek	meed	meet	peek	reek	seek	week	
+1705	beet	feet	meat	meed	meek	melt	
+1706	main	mean	rein	vein	
+1707	geld	held	mead	meed	melt	mend	mild	mold	veld	weld	
+1708	belt	celt	felt	gelt	malt	meat	meet	meld	milt	molt	pelt	welt	
+1709	demo	
+1710	bend	fend	lend	mead	meed	meld	mens	menu	mind	pend	rend	send	tend	vend	wend	
+1711	bens	dens	fens	gens	hens	kens	lens	mans	meas	mend	menu	mess	mews	mins	mons	pens	tens	wens	yens	
+1712	mend	mens	
+1713	
+1714	here	mare	mete	mire	more	pere	sere	were	
+1715	mesh	mess	meta	
+1716	mash	mech	mesa	mess	mush	
+1717	bess	cess	fess	jess	less	mass	meas	mens	mesa	mesh	mews	miss	moss	muss	ness	
+1718	beta	feta	mesa	mete	zeta	
+1719	bete	fete	mate	mere	meta	mite	mote	mute	
+1720	meal	mews	
+1721	dews	hews	jews	maws	meas	mens	mess	mewl	mows	news	pews	sews	yews	
+1722	bibs	dibs	fibs	gibs	jibs	libs	mids	migs	mils	mins	miss	mobs	nibs	ribs	sibs	
+1723	fica	mice	mick	pica	
+1724	dice	lice	mace	mica	mick	mike	mile	mime	mine	mire	mise	mite	nice	rice	vice	
+1725	dick	hick	kick	lick	mack	mica	mice	milk	mink	mirk	mock	muck	nick	pick	rick	sick	tick	wick	
+1726	mids	mini	modi	
+1727	aids	bids	fids	kids	lids	mads	mibs	midi	migs	mils	mins	miss	mods	muds	rids	yids	
+1728	lien	
+1729	biff	jiff	muff	riff	tiff	
+1730	digs	figs	gigs	jigs	mags	mibs	mids	mils	mins	miss	mugs	pigs	rigs	wigs	zigs	
+1731	bike	dike	hike	kike	like	make	mice	mile	mime	mine	mire	mise	mite	pike	tike	
+1732	gild	meld	mile	milk	mill	mils	milt	mind	mold	wild	
+1733	bile	file	male	mice	mike	mild	milk	mill	mils	milt	mime	mine	mire	mise	mite	mole	mule	nile	pile	rile	tile	vile	wile	
+1734	bilk	mick	mild	mile	mill	mils	milt	mink	mirk	silk	
+1735	bill	dill	fill	gill	hill	jill	kill	mall	mild	mile	milk	mils	milt	moll	mull	nill	pill	rill	sill	till	will	
+1736	ails	mibs	mids	migs	mild	mile	milk	mill	milt	mins	miss	nils	oils	
+1737	gilt	hilt	jilt	kilt	lilt	malt	melt	mild	mile	milk	mill	mils	mint	mist	mitt	mixt	molt	silt	tilt	wilt	
+1738	dime	lime	mice	mike	mile	mine	mire	mise	mite	rime	time	
+1739	bind	find	hind	kind	mend	mild	mine	ming	mini	mink	mins	mint	minx	rind	wind	
+1740	cine	dine	fine	kine	line	mane	mice	mike	mile	mime	mind	ming	mini	mink	mins	mint	minx	mire	mise	mite	nine	pine	sine	tine	vine	wine	
+1741	ding	king	ling	mind	mine	mini	mink	mins	mint	minx	ping	ring	sing	ting	wing	zing	
+1742	midi	mind	mine	ming	mink	mins	mint	minx	
+1743	fink	kink	link	mick	milk	mind	mine	ming	mini	mins	mint	minx	mirk	monk	oink	pink	rink	sink	wink	
+1744	bins	dins	fins	gins	jins	kins	lins	mans	mens	mibs	mids	migs	mils	mind	mine	ming	mini	mink	mint	minx	miss	mons	pins	sins	tins	vins	wins	yins	
+1745	dint	hint	lint	milt	mind	mine	ming	mini	mink	mins	minx	mist	mitt	mixt	pint	tint	
+1746	jinx	manx	mind	mine	ming	mini	mink	mins	mint	
+1747	dire	eire	fire	hire	lire	mare	mere	mice	mike	mile	mime	mine	mirk	mirv	miry	mise	mite	more	sire	tire	wire	
+1748	dirk	kirk	mark	mick	milk	mink	mire	mirv	miry	murk	
+1749	mire	mirk	miry	
+1750	airy	mary	mire	mirk	mirv	wiry	
+1751	disc	mise	miso	miss	mist	
+1752	mice	mike	mile	mime	mine	mire	misc	miso	miss	mist	mite	muse	rise	vise	wise	
+1753	misc	mise	miss	mist	
+1754	hiss	kiss	mass	mess	mibs	mids	migs	mils	mins	misc	mise	miso	mist	moss	muss	piss	
+1755	fist	gist	hist	kist	list	mast	milt	mint	misc	mise	miso	miss	mitt	mixt	most	must	
+1756	bite	cite	kite	lite	mate	mete	mice	mike	mile	mime	mine	mire	mise	mitt	mote	mute	rite	site	
+1757	matt	milt	mint	mist	mite	mixt	mutt	
+1758	milt	mint	mist	mitt	
+1759	
+1760	koan	loan	mean	moas	moat	moon	morn	mown	roan	
+1761	boas	meas	moan	moat	mobs	mods	moms	mons	moos	mops	moss	mots	mows	
+1762	boat	coat	goat	meat	moan	moas	molt	moot	mort	most	
+1763	bobs	cobs	fobs	gobs	hobs	jobs	lobs	mibs	moas	mods	moms	mons	moos	mops	moss	mots	mows	nobs	robs	sobs	
+1764	bock	cock	dock	hock	jock	lock	mack	mick	monk	muck	nock	pock	rock	sock	
+1765	bode	code	lode	made	modi	modo	mods	mole	mope	more	mote	moue	move	node	rode	
+1766	midi	mode	modo	mods	
+1767	dodo	mode	modi	mods	mono	
+1768	bods	cods	gods	hods	mads	mids	moas	mobs	mode	modi	modo	moms	mons	moos	mops	moss	mots	mows	muds	nods	pods	rods	sods	
+1769	boil	coil	foil	mail	moll	roil	soil	toil	
+1770	bold	cold	fold	gold	hold	meld	mild	mole	moll	molt	moly	mood	sold	told	wold	
+1771	bole	cole	dole	hole	male	mile	mode	mold	moll	molt	moly	mope	more	mote	moue	move	mule	pole	role	sole	tole	vole	
+1772	boll	coll	doll	loll	mall	mill	moil	mold	mole	molt	moly	mull	poll	roll	toll	
+1773	bolt	colt	dolt	holt	jolt	malt	melt	milt	moat	mold	mole	moll	moly	moot	mort	most	volt	
+1774	holy	mold	mole	moll	molt	mony	mopy	poly	
+1775	doms	moas	mobs	mods	mons	moos	mops	moss	mots	mows	mums	noms	roms	toms	
+1776	conk	honk	mink	mock	mono	mons	mony	
+1777	bono	modo	monk	mons	mony	
+1778	bons	cons	dons	eons	ions	mans	mens	mins	moas	mobs	mods	moms	monk	mono	mony	moos	mops	moss	mots	mows	pons	sons	tons	
+1779	bony	cony	many	moly	monk	mono	mons	mopy	pony	tony	
+1780	food	good	hood	mold	moon	moor	moos	moot	rood	wood	
+1781	boon	coon	goon	loon	moan	mood	moor	moos	moot	morn	mown	muon	noon	soon	
+1782	boor	door	mood	moon	moos	moot	poor	
+1783	boos	coos	goos	loos	moas	mobs	mods	moms	mons	mood	moon	moor	moot	mops	moss	mots	mows	woos	zoos	
+1784	boot	coot	foot	hoot	loot	moat	molt	mood	moon	moor	moos	mort	most	root	soot	toot	
+1785	cope	dope	hope	lope	mode	mole	mops	mopy	more	mote	moue	move	nope	pope	rope	tope	
+1786	bops	cops	fops	hops	lops	maps	moas	mobs	mods	moms	mons	moos	mope	mopy	moss	mots	mows	oops	pops	sops	tops	wops	
+1787	copy	dopy	moly	mony	mope	mops	ropy	
+1788	bore	core	fore	gore	lore	mare	mere	mire	mode	mole	mope	morn	mort	mote	moue	move	pore	sore	tore	wore	yore	
+1789	born	corn	horn	lorn	moan	moon	more	mort	mown	porn	torn	worn	
+1790	bort	fort	mart	moat	molt	moot	more	morn	most	port	sort	tort	wort	
+1791	boss	doss	joss	loss	mass	mess	miss	moas	mobs	mods	moms	mons	moos	mops	most	mots	mows	muss	toss	
+1792	cost	dost	host	lost	mast	mist	moat	molt	moot	mort	moss	must	post	tost	
+1793	cote	dote	mate	mete	mite	mode	mole	mope	more	moth	mots	moue	move	mute	note	rote	tote	vote	
+1794	both	doth	goth	loth	math	mote	mots	myth	
+1795	cots	dots	hots	jots	lots	mats	moas	mobs	mods	moms	mons	moos	mops	moss	mote	moth	mows	nots	pots	rots	sots	tots	wots	
+1796	mode	mole	mope	more	mote	move	roue	
+1797	cove	dove	hove	love	mode	mole	mope	more	mote	moue	rove	wove	
+1798	down	gown	moan	moon	morn	mows	sown	town	
+1799	bows	cows	dows	hows	lows	maws	mews	moas	mobs	mods	moms	mons	moos	mops	moss	mots	mown	nows	pows	rows	sows	tows	vows	wows	yows	
+1800	
+1801	
+1802	mach	mech	muck	mush	ouch	such	
+1803	buck	duck	fuck	guck	huck	luck	mack	mick	mock	much	murk	musk	puck	ruck	suck	tuck	
+1804	buds	cuds	duds	fuds	iuds	mads	mids	mods	mugs	mums	muss	puds	suds	
+1805	buff	cuff	duff	guff	huff	luff	miff	puff	ruff	tuff	
+1806	bugs	dugs	fugs	hugs	jugs	lugs	mags	migs	muds	mums	muss	pugs	rugs	tugs	vugs	
+1807	male	mile	mole	mull	muse	mute	pule	rule	yule	
+1808	bull	cull	dull	full	gull	hull	lull	mall	mill	moll	mule	null	pull	
+1809	mump	mums	
+1810	bump	dump	hump	jump	lump	mumm	mums	pump	rump	sump	
+1811	bums	gums	hums	moms	muds	mugs	mumm	mump	muss	rums	sums	
+1812	moon	
+1813	lurk	mark	mirk	muck	musk	turk	
+1814	fuse	mise	mule	mush	musk	muss	must	mute	ruse	
+1815	bush	gush	hush	lush	mash	mesh	much	muse	musk	muss	must	push	rush	tush	
+1816	dusk	husk	mask	muck	murk	muse	mush	muss	must	rusk	tusk	
+1817	buss	cuss	fuss	mass	mess	miss	moss	muds	mugs	mums	muse	mush	musk	must	puss	
+1818	bust	dust	gust	just	lust	mast	mist	most	muse	mush	musk	muss	mutt	oust	rust	
+1819	cute	jute	lute	mate	mete	mite	mote	mule	muse	mutt	
+1820	butt	matt	mitt	must	mute	putt	
+1821	
+1822	math	moth	
+1823	cabs	dabs	gabs	jabs	labs	nags	naps	nays	nebs	nibs	nobs	nubs	tabs	
+1824	bags	fags	gags	hags	jags	lags	mags	nabs	naps	nays	nogs	rags	sags	tags	wags	zags	
+1825	nail	waif	
+1826	bail	fail	hail	jail	mail	naif	natl	pail	rail	sail	tail	vail	wail	
+1827	came	dame	fame	game	kame	lame	nape	nave	nome	same	tame	
+1828	cape	gape	jape	name	naps	nave	nope	rape	tape	
+1829	caps	gaps	haps	laps	maps	nabs	nags	nape	nays	nips	paps	raps	saps	taps	yaps	zaps	
+1830	marc	nard	nark	nary	
+1831	bard	card	hard	lard	narc	nark	nary	nerd	pard	ward	yard	
+1832	bark	dark	hark	lark	mark	narc	nard	nary	park	wark	
+1833	gary	mary	narc	nard	nark	navy	vary	wary	
+1834	casa	
+1835	nail	nato	
+1836	jato	natl	
+1837	faut	maut	taut	
+1838	cave	dave	eave	gave	have	lave	name	nape	navy	pave	rave	save	wave	
+1839	cavy	nary	nave	wavy	
+1840	bays	cays	days	fays	gays	hays	jays	kays	lays	mays	nabs	nags	naps	pays	rays	says	ways	
+1841	
+1842	heap	leap	near	neat	reap	
+1843	bear	dear	fear	gear	hear	lear	neap	neat	pear	rear	sear	tear	wear	year	
+1844	beat	feat	heat	meat	neap	near	nest	newt	next	peat	seat	teat	
+1845	debs	nabs	ness	nets	news	nibs	nobs	nubs	rebs	webs	
+1846	beck	deck	heck	nick	nock	peck	
+1847	deed	feed	geed	heed	meed	nerd	peed	reed	seed	teed	weed	
+1848	aeon	leon	noon	peon	
+1849	herd	nard	need	
+1850	bess	cess	fess	jess	less	mess	nebs	nest	nets	news	
+1851	best	hest	jest	lest	neat	ness	newt	next	pest	rest	test	vest	west	zest	
+1852	bets	gets	jets	lets	nebs	ness	news	nits	nots	nuts	pets	sets	vets	wets	
+1853	levi	
+1854	dews	hews	jews	mews	nebs	ness	nets	newt	nows	pews	sews	yews	
+1855	neat	nest	news	next	
+1856	neat	nest	newt	text	
+1857	bibs	dibs	fibs	gibs	jibs	libs	mibs	nabs	nebs	nils	nims	nips	nits	nobs	nubs	ribs	sibs	
+1858	dice	lice	mice	nick	nile	nine	rice	vice	
+1859	dick	hick	kick	lick	mick	neck	nice	nock	pick	rick	sick	tick	wick	
+1860	high	sigh	
+1861	bile	file	mile	nice	nill	nils	nine	pile	rile	tile	vile	wile	
+1862	bill	dill	fill	gill	hill	jill	kill	mill	nile	nils	null	pill	rill	sill	till	will	
+1863	ails	mils	nibs	nile	nill	nims	nips	nits	oils	
+1864	aims	dims	nibs	nils	nips	nits	noms	rims	vims	
+1865	cine	dine	fine	kine	line	mine	nice	nile	none	pine	sine	tine	vine	wine	
+1866	dips	gips	hips	kips	lips	naps	nibs	nils	nims	nits	pips	rips	sips	tips	vips	yips	zips	
+1867	
+1868	bits	fits	hits	kits	lits	nets	nibs	nils	nims	nips	nots	nuts	pits	sits	tits	wits	
+1869	pixy	
+1870	nosh	
+1871	bobs	cobs	fobs	gobs	hobs	jobs	lobs	mobs	nabs	nebs	nibs	nods	noes	nogs	noms	nots	nous	nows	nubs	robs	sobs	
+1872	bock	cock	dock	hock	jock	lock	mock	neck	nick	nook	pock	rock	sock	
+1873	bode	code	lode	mode	nods	nome	none	nope	nose	note	nude	rode	
+1874	bods	cods	gods	hods	mods	nobs	node	noes	nogs	noms	nots	nous	nows	pods	rods	sods	
+1875	noes	
+1876	does	foes	goes	hoes	joes	nobs	nods	noel	nogs	noms	nots	nous	nows	roes	toes	woes	
+1877	bogs	cogs	dogs	fogs	hogs	jogs	logs	nags	nobs	nods	noes	noms	nots	nous	nows	togs	
+1878	coir	
+1879	bolo	novo	polo	solo	
+1880	come	dome	home	name	node	noms	none	nope	nose	note	pome	rome	some	tome	
+1881	doms	moms	nims	nobs	nods	noes	nogs	nome	nots	nous	nows	roms	toms	
+1882	bone	cone	done	gone	hone	lone	nine	node	nome	nope	nose	note	pone	tone	zone	
+1883	book	cook	gook	hook	kook	look	nock	noon	rook	took	
+1884	boon	coon	goon	loon	moon	neon	nook	noun	soon	
+1885	cope	dope	hope	lope	mope	nape	node	nome	none	nose	note	pope	rope	tope	
+1886	corm	dorm	form	worm	
+1887	dose	hose	jose	lose	node	nome	none	nope	nosh	nosy	note	pose	rose	
+1888	bosh	cosh	gosh	josh	noah	nose	nosy	posh	tosh	
+1889	cosy	nose	nosh	posy	rosy	
+1890	iota	jota	note	nots	nova	
+1891	cote	dote	mote	node	nome	none	nope	nose	nota	nots	rote	tote	vote	
+1892	cots	dots	hots	jots	lots	mots	nets	nits	nobs	nods	noes	nogs	noms	nota	note	nous	nows	nuts	pots	rots	sots	tots	wots	
+1893	noon	nous	
+1894	nobs	nods	noes	nogs	noms	nots	noun	nows	
+1895	nota	novo	
+1896	nolo	nova	
+1897	bows	cows	dows	hows	lows	mows	news	nobs	nods	noes	nogs	noms	nots	nous	pows	rows	sows	tows	vows	wows	yows	
+1898	bubs	cubs	dubs	hubs	nabs	nebs	nibs	nobs	nuns	nuts	pubs	rubs	subs	tubs	
+1899	dude	node	nuke	rude	
+1900	cuke	duke	juke	luke	nude	puke	
+1901	bull	cull	dull	full	gull	hull	lull	mull	nill	pull	
+1902	dumb	
+1903	buns	duns	guns	huns	nubs	nuts	puns	runs	suns	tuns	
+1904	buts	cuts	guts	huts	juts	nets	nits	nots	nubs	nuns	outs	puts	ruts	tuts	
+1905	oaks	oars	oats	offs	
+1906	oafs	oars	oats	yaks	
+1907	bars	cars	ears	gars	jars	mars	oafs	oaks	oats	ours	pars	tars	wars	
+1908	bath	hath	lath	math	oats	orth	path	
+1909	bats	cats	eats	fats	gats	hats	mats	oafs	oaks	oars	oath	opts	orts	outs	pats	rats	tats	vats	wats	
+1910	
+1911	ibis	obit	
+1912	obis	omit	
+1913	obol	
+1914	oboe	
+1915	adds	odes	olds	
+1916	ides	odds	oles	ones	opes	ores	owes	oxes	oyes	
+1917	odin	otic	
+1918	odic	
+1919	
+1920	idyl	
+1921	okay	
+1922	effs	oafs	
+1923	ogle	ogre	
+1924	ogee	ogre	
+1925	ogee	ogle	
+1926	owed	shed	
+1927	olio	
+1928	
+1929	ails	mils	nils	oily	owls	
+1930	lily	oils	only	wily	
+1931	fink	kink	link	mink	pink	rink	sink	wink	
+1932	ofay	
+1933	
+1934	
+1935	elds	odds	oles	
+1936	oles	olio	
+1937	ales	odes	olds	oleo	ones	opes	ores	owes	oxes	oyes	
+1938	ohio	oleo	
+1939	
+1940	amen	open	oven	oxen	
+1941	emit	obit	smit	
+1942	
+1943	odes	oles	onus	opes	ores	owes	oxes	oyes	
+1944	inly	oily	
+1945	into	otto	unto	
+1946	anus	gnus	ones	opus	
+1947	oryx	
+1948	oops	
+1949	bops	cops	fops	hops	lops	mops	oohs	pops	sops	tops	wops	
+1950	doze	oozy	
+1951	cozy	dozy	ooze	
+1952	oral	oval	
+1953	open	opes	spec	
+1954	omen	opec	opes	oven	oxen	
+1955	apes	odes	oles	ones	opec	open	opts	opus	ores	owes	oxes	oyes	
+1956	oats	opes	opus	orts	outs	
+1957	onus	opes	opts	
+1958	opal	oval	ural	
+1959	orcs	ores	orts	urbs	
+1960	orch	orcs	
+1961	arch	orca	orcs	orth	ouch	
+1962	arcs	orbs	orca	orch	ores	orts	
+1963	
+1964	ares	ires	odes	oles	ones	opes	orbs	orcs	orts	owes	oxes	oyes	pres	
+1965	
+1966	brig	frig	prig	trig	
+1967	oath	orch	orts	
+1968	arts	oats	opts	orbs	orcs	ores	orth	outs	
+1969	onyx	
+1970	
+1971	odic	
+1972	onto	
+1973	much	orch	such	
+1974	burs	curs	furs	oars	outs	
+1975	bust	dust	gust	just	lust	must	rust	
+1976	buts	cuts	guts	huts	juts	nuts	oats	opts	orts	ours	puts	ruts	tuts	
+1977	
+1978	opal	oral	
+1979	even	omen	open	over	oxen	
+1980	aver	ever	oven	oyer	
+1981	avid	
+1982	
+1983	awed	ohed	owes	
+1984	awes	ewes	odes	oles	ones	opes	ores	owed	owls	owns	oxes	oyes	
+1985	awls	oils	owes	owns	
+1986	awns	owes	owls	
+1987	omen	open	oven	oxes	
+1988	axes	exes	odes	oles	ones	opes	ores	owes	oxen	oyes	
+1989	dyer	eyer	over	oyes	oyez	
+1990	ayes	byes	dyes	eyes	lyes	odes	oles	ones	opes	ores	owes	oxes	oyer	oyez	ryes	wyes	
+1991	oyer	oyes	
+1992	dace	face	lace	mace	pack	pacs	pact	page	pale	pane	pare	pate	pave	puce	race	
+1993	back	hack	jack	lack	mack	pace	pacs	pact	park	peck	pick	pock	puck	rack	sack	tack	wack	yack	
+1994	macs	pace	pack	pact	pads	pals	pans	paps	pars	pass	pats	paws	pays	pics	sacs	wacs	
+1995	fact	pace	pack	pacs	pant	part	past	tact	
+1996	bads	cads	dads	fads	gads	lads	mads	pacs	pals	pans	paps	pars	pass	pats	paws	pays	peds	pods	puds	rads	tads	wads	
+1997	cage	gage	mage	pace	pale	pane	pare	pate	pave	rage	sage	wage	
+1998	laid	maid	pail	pain	pair	pard	qaid	raid	said	
+1999	bail	fail	hail	jail	mail	nail	paid	pain	pair	pall	paul	pawl	rail	sail	tail	vail	wail	
+2000	fain	gain	lain	main	paid	pail	pair	pawn	rain	vain	wain	
+2001	fair	hair	lair	paid	pail	pain	
+2002	bale	dale	gale	hale	kale	male	pace	page	pall	palm	pals	pane	pare	pate	pave	pile	pole	pule	sale	tale	vale	wale	yale	
+2003	ball	call	fall	gall	hall	mall	pail	pale	palm	pals	paul	pawl	pill	poll	pull	tall	wall	
+2004	balm	calm	pale	pall	pals	
+2005	gals	pacs	pads	pale	pall	palm	pans	paps	pars	pass	pats	paws	pays	pols	
+2006	bane	cane	dane	jane	lane	mane	pace	page	pale	pang	pans	pant	pare	pate	pave	pine	pone	sane	vane	wane	
+2007	bang	dang	fang	gang	hang	pane	pans	pant	ping	pong	rang	sang	tang	wang	yang	
+2008	bans	cans	fans	mans	pacs	pads	pals	pane	pang	pant	paps	pars	pass	pats	paws	pays	pens	pins	pons	puns	sans	tans	vans	
+2009	cant	pact	pane	pang	pans	part	past	pent	pint	punt	rant	want	
+2010	paps	para	pupa	
+2011	caps	gaps	haps	laps	maps	naps	pacs	pads	pals	pans	papa	pars	pass	pats	paws	pays	peps	pips	pops	pups	raps	saps	taps	yaps	zaps	
+2012	papa	pard	pare	park	pars	part	rara	
+2013	bard	card	hard	lard	nard	paid	para	pare	park	pars	part	ward	yard	
+2014	bare	care	dare	fare	hare	mare	pace	page	pale	pane	para	pard	park	pars	part	pate	pave	pere	pore	pure	pyre	rare	tare	ware	yare	
+2015	bark	dark	hark	lark	mark	nark	pack	para	pard	pare	pars	part	perk	pork	wark	
+2016	bars	cars	ears	gars	jars	mars	oars	pacs	pads	pals	pans	paps	para	pard	pare	park	part	pass	pats	paws	pays	tars	wars	
+2017	cart	dart	fart	hart	kart	mart	pact	pant	para	pard	pare	park	pars	past	pert	port	tart	wart	
+2018	pass	past	peso	
+2019	bass	lass	mass	pacs	pads	pals	pans	paps	pars	paso	past	pats	paws	pays	piss	puss	sass	tass	
+2020	bast	cast	east	fast	hast	last	mast	pact	pant	part	paso	pass	pest	post	psst	vast	wast	
+2021	bate	date	fate	gate	hate	late	mate	pace	page	pale	pane	pare	path	pats	pave	rate	sate	tate	
+2022	bath	hath	lath	math	oath	pate	pats	pith	
+2023	bats	cats	eats	fats	gats	hats	mats	oats	pacs	pads	pals	pans	paps	pars	pass	pate	path	paws	pays	pets	pits	pots	puts	rats	tats	vats	wats	
+2024	caul	haul	maul	pail	pall	pawl	waul	
+2025	cave	dave	eave	gave	have	lave	nave	pace	page	pale	pane	pare	pate	rave	save	wave	
+2026	bawl	pail	pall	paul	pawn	paws	yawl	
+2027	dawn	fawn	lawn	pain	pawl	paws	sawn	yawn	
+2028	caws	haws	jaws	laws	maws	pacs	pads	pals	pans	paps	pars	pass	pats	pawl	pawn	pays	pews	pows	raws	saws	taws	yaws	
+2029	bays	cays	days	fays	gays	hays	jays	kays	lays	mays	nays	pacs	pads	pals	pans	paps	pars	pass	pats	paws	phys	rays	says	ways	
+2030	beak	leak	peal	pean	pear	peas	peat	peck	peek	perk	teak	weak	
+2031	deal	heal	leal	meal	peak	pean	pear	peas	peat	peel	real	seal	teal	veal	weal	zeal	
+2032	bean	dean	jean	lean	mean	peak	peal	pear	peas	peat	peen	peon	plan	wean	
+2033	bear	dear	fear	gear	hear	lear	near	peak	peal	pean	peas	peat	peer	rear	sear	tear	wear	year	
+2034	leas	meas	peak	peal	pean	pear	peat	peds	pees	pegs	pens	peps	pets	pews	seas	teas	yeas	
+2035	beat	feat	heat	meat	neat	peak	peal	pean	pear	peas	pelt	pent	pert	pest	plat	prat	seat	teat	
+2036	beck	deck	heck	neck	pack	peak	peek	perk	pick	pock	puck	
+2037	beds	feds	pads	peas	pees	pegs	pens	peps	pets	pews	pods	puds	reds	teds	weds	zeds	
+2038	deed	feed	geed	heed	meed	need	peek	peel	peen	peep	peer	pees	pend	pied	pled	reed	seed	teed	weed	
+2039	geek	leek	meek	peak	peck	peed	peel	peen	peep	peer	pees	perk	reek	seek	week	
+2040	feel	heel	keel	peal	peed	peek	peen	peep	peer	pees	reel	
+2041	been	keen	pean	peed	peek	peel	peep	peer	pees	peon	seen	teen	ween	
+2042	beep	deep	jeep	keep	peed	peek	peel	peen	peer	pees	prep	seep	veep	weep	
+2043	beer	deer	jeer	leer	pear	peed	peek	peel	peen	peep	pees	pier	seer	veer	
+2044	bees	cees	dees	fees	gees	lees	peas	peds	peed	peek	peel	peen	peep	peer	pegs	pens	peps	pets	pews	pies	pres	sees	tees	vees	zees	
+2045	begs	kegs	legs	peas	peds	pees	pens	peps	pets	pews	pigs	pugs	
+2046	pere	pike	poke	puke	
+2047	pelt	self	
+2048	belt	celt	felt	gelt	melt	peat	pelf	pent	pert	pest	welt	
+2049	bend	fend	lend	mend	peed	pens	pent	pond	rend	send	tend	vend	wend	
+2050	bens	dens	fens	gens	hens	kens	lens	mens	pans	peas	peds	pees	pegs	pend	pent	peps	pets	pews	pins	pons	puns	tens	wens	yens	
+2051	bent	cent	dent	gent	kent	lent	pant	peat	pelt	pend	pens	pert	pest	pint	punt	rent	sent	tent	vent	went	
+2052	aeon	leon	neon	pean	peen	pion	pron	
+2053	paps	peas	peds	pees	pegs	pens	pets	pews	pips	pops	pups	reps	
+2054	here	mere	pare	peke	perk	perm	pert	peru	pore	pure	pyre	sere	were	
+2055	jerk	park	peak	peck	peek	pere	perm	pert	peru	pork	
+2056	berm	derm	germ	pere	perk	pert	peru	term	
+2057	cert	part	peat	pelt	pent	pere	perk	perm	peru	pest	port	vert	wert	
+2058	pere	perk	perm	pert	
+2059	paso	pest	
+2060	best	hest	jest	lest	nest	past	peat	pelt	pent	pert	peso	post	psst	rest	test	vest	west	zest	
+2061	bets	gets	jets	lets	nets	pats	peas	peds	pees	pegs	pens	peps	pews	pits	pots	puts	sets	vets	wets	
+2062	dews	hews	jews	mews	news	paws	peas	peds	pees	pegs	pens	peps	pets	pows	sews	yews	
+2063	chew	shew	thew	whew	
+2064	whiz	
+2065	pays	whys	
+2066	fica	mica	pick	pics	pima	pisa	pita	
+2067	dick	hick	kick	lick	mick	nick	pack	peck	pica	pics	pink	pock	puck	rick	sick	tick	wick	
+2068	pacs	pica	pick	pies	pigs	pins	pips	piss	pits	pius	sics	tics	
+2069	died	hied	lied	peed	pier	pies	pled	tied	vied	
+2070	bier	lier	peer	pied	pies	tier	vier	
+2071	dies	hies	lies	pees	pics	pied	pier	pigs	pins	pips	piss	pits	pius	pres	ties	vies	
+2072	digs	figs	gigs	jigs	migs	pegs	pics	pies	pins	pips	piss	pits	pius	pugs	rigs	wigs	zigs	
+2073	bike	dike	hike	kike	like	mike	peke	pile	pine	pipe	poke	puke	tike	
+2074	bile	file	mile	nile	pale	pike	pill	pine	pipe	pole	pule	rile	tile	vile	wile	
+2075	bill	dill	fill	gill	hill	jill	kill	mill	nill	pall	pile	poll	pull	rill	sill	till	will	
+2076	lima	pica	pimp	pisa	pita	puma	
+2077	gimp	limp	pima	pomp	pump	simp	
+2078	cine	dine	fine	kine	line	mine	nine	pane	pike	pile	ping	pink	pins	pint	piny	pipe	pone	sine	tine	vine	wine	
+2079	ding	king	ling	ming	pang	pine	pink	pins	pint	piny	pong	ring	sing	ting	wing	zing	
+2080	fink	kink	link	mink	oink	pick	pine	ping	pins	pint	piny	punk	rink	sink	wink	
+2081	bins	dins	fins	gins	jins	kins	lins	mins	pans	pens	pics	pies	pigs	pine	ping	pink	pint	piny	pips	piss	pits	pius	pons	puns	sins	tins	vins	wins	yins	
+2082	dint	hint	lint	mint	pant	pent	pine	ping	pink	pins	piny	punt	tint	
+2083	liny	pine	ping	pink	pins	pint	pipy	pity	pixy	pony	puny	tiny	viny	winy	
+2084	lion	peon	pron	zion	
+2085	pike	pile	pine	pips	pipy	pope	ripe	wipe	yipe	
+2086	dips	gips	hips	kips	lips	nips	paps	peps	pics	pies	pigs	pins	pipe	pipy	piss	pits	pius	pops	pups	rips	sips	tips	vips	yips	zips	
+2087	piny	pipe	pips	pity	pixy	
+2088	pica	pima	pish	piss	pita	visa	
+2089	dish	fish	pisa	piss	pith	posh	push	wish	
+2090	hiss	kiss	miss	pass	pics	pies	pigs	pins	pips	pisa	pish	pits	pius	puss	
+2091	pica	pima	pisa	pith	pits	pity	vita	
+2092	kith	lith	path	pish	pita	pits	pity	with	
+2093	bits	fits	hits	kits	lits	nits	pats	pets	pics	pies	pigs	pins	pips	piss	pita	pith	pity	pius	pots	puts	sits	tits	wits	
+2094	city	piny	pipy	pita	pith	pits	pixy	
+2095	pics	pies	pigs	pins	pips	piss	pits	plus	
+2096	nixy	piny	pipy	pity	
+2097	
+2098	alan	clan	elan	flan	pean	plat	play	
+2099	blat	flat	peat	plan	play	plot	prat	slat	
+2100	clay	flay	plan	plat	ploy	pray	slay	
+2101	flea	pled	
+2102	bled	fled	peed	pied	plea	plod	sled	
+2103	clod	pled	plop	plot	plow	ploy	prod	
+2104	clop	flop	glop	plod	plot	plow	ploy	poop	prop	slop	
+2105	blot	clot	plat	plod	plop	plow	ploy	slot	
+2106	blow	flow	glow	plod	plop	plot	ploy	prow	slow	
+2107	cloy	play	plod	plop	plot	plow	
+2108	plum	plus	slug	
+2109	alum	glum	plug	plus	slum	
+2110	flus	pius	plug	plum	
+2111	bock	cock	dock	hock	jock	lock	mock	nock	pack	peck	pick	poco	polk	pork	puck	rock	sock	
+2112	coco	loco	pock	polo	
+2113	bods	cods	gods	hods	mods	nods	pads	peds	pols	pons	pops	pots	pows	puds	rods	sods	
+2114	poet	
+2115	poem	port	post	pout	
+2116	coke	hoke	joke	peke	pike	poky	pole	pome	pone	pope	pore	pose	puke	toke	woke	yoke	
+2117	poke	poly	pony	posy	
+2118	bole	cole	dole	hole	mole	pale	pile	poke	polk	poll	polo	pols	poly	pome	pone	pope	pore	pose	pule	role	sole	tole	vole	
+2119	folk	pock	pole	poll	polo	pols	poly	pork	yolk	
+2120	boll	coll	doll	loll	moll	pall	pill	pole	polk	polo	pols	poly	pool	pull	roll	toll	
+2121	bolo	nolo	poco	pole	polk	poll	pols	poly	solo	
+2122	pals	pods	pole	polk	poll	polo	poly	pons	pops	pots	pows	
+2123	holy	moly	poky	pole	polk	poll	polo	pols	pony	posy	
+2124	come	dome	home	nome	poke	pole	pomp	pone	pope	pore	pose	rome	some	tome	
+2125	comp	pimp	pome	poop	pump	romp	
+2126	bond	fond	pend	pone	pong	pons	pony	yond	
+2127	bone	cone	done	gone	hone	lone	none	pane	pine	poke	pole	pome	pond	pong	pons	pony	pope	pore	pose	tone	zone	
+2128	bong	dong	gong	kong	long	pang	ping	pond	pone	pons	pony	song	tong	
+2129	bons	cons	dons	eons	ions	mons	pans	pens	pins	pods	pols	pond	pone	pong	pony	pops	pots	pows	puns	sons	tons	
+2130	bony	cony	mony	piny	poky	poly	pond	pone	pong	pons	posy	puny	tony	
+2131	pool	poop	poor	posh	
+2132	cool	fool	poll	pooh	poop	poor	tool	wool	
+2133	coop	goop	hoop	loop	plop	pomp	pooh	pool	poor	prop	
+2134	boor	door	moor	pooh	pool	poop	pour	
+2135	cope	dope	hope	lope	mope	nope	pipe	poke	pole	pome	pone	pops	pore	pose	rope	tope	
+2136	bops	cops	fops	hops	lops	mops	oops	paps	peps	pips	pods	pols	pons	pope	pots	pows	pups	sops	tops	wops	
+2137	bore	core	fore	gore	lore	more	pare	pere	poke	pole	pome	pone	pope	pork	porn	port	pose	pure	pyre	sore	tore	wore	yore	
+2138	cork	fork	park	perk	pock	polk	pore	porn	port	work	york	
+2139	born	corn	horn	lorn	morn	pore	pork	port	torn	worn	
+2140	bort	fort	mort	part	pert	poet	pore	pork	porn	post	pout	sort	tort	wort	
+2141	dose	hose	jose	lose	nose	poke	pole	pome	pone	pope	pore	posh	post	posy	rose	
+2142	bosh	cosh	gosh	josh	nosh	pish	pooh	pose	post	posy	push	tosh	
+2143	cost	dost	host	lost	most	past	pest	poet	port	pose	posh	posy	pout	psst	tost	
+2144	cosy	nosy	poky	poly	pony	pose	posh	post	rosy	
+2145	cots	dots	hots	jots	lots	mots	nots	pats	pets	pits	pods	pols	pons	pops	pows	puts	rots	sots	tots	wots	
+2146	pour	pout	
+2147	dour	four	hour	jour	lour	poor	pouf	pout	sour	tour	your	
+2148	bout	gout	lout	poet	port	post	pouf	pour	rout	tout	
+2149	bows	cows	dows	hows	lows	mows	nows	paws	pews	pods	pols	pons	pops	pots	rows	sows	tows	vows	wows	yows	
+2150	cram	dram	gram	prat	pray	prim	prom	tram	
+2151	brat	drat	erat	frat	peat	plat	pram	pray	
+2152	bray	dray	fray	gray	play	pram	prat	prey	tray	
+2153	peep	pres	prey	prop	
+2154	ares	ires	ores	pees	pies	prep	prey	pros	
+2155	grey	pray	prep	pres	trey	
+2156	brig	frig	orig	prim	prix	trig	
+2157	brim	grim	pram	prig	prix	prom	trim	
+2158	prig	prim	
+2159	prod	prof	prom	pron	prop	pros	prow	
+2160	plod	proc	prof	prom	pron	prop	pros	prow	trod	
+2161	proc	prod	prom	pron	prop	pros	prow	
+2162	from	pram	prim	proc	prod	prof	pron	prop	pros	prow	
+2163	iron	peon	pion	proc	prod	prof	prom	prop	pros	prow	
+2164	crop	drop	plop	poop	prep	proc	prod	prof	prom	pron	pros	prow	trop	
+2165	bros	eros	pres	proc	prod	prof	prom	pron	prop	prow	
+2166	brow	crow	frow	grow	plow	proc	prod	prof	prom	pron	prop	pros	trow	vrow	
+2167	asst	past	pest	post	
+2168	bubs	cubs	dubs	hubs	nubs	puds	pugs	puns	pups	puss	puts	rubs	subs	tubs	
+2169	duce	pace	puck	puke	pule	pure	
+2170	buck	duck	fuck	guck	huck	luck	muck	pack	peck	pick	pock	puce	punk	ruck	suck	tuck	
+2171	buds	cuds	duds	fuds	iuds	muds	pads	peds	pods	pubs	pugs	puns	pups	puss	puts	suds	
+2172	buff	cuff	duff	guff	huff	luff	muff	ruff	tuff	
+2173	bugs	dugs	fugs	hugs	jugs	lugs	mugs	pegs	pigs	pubs	puds	puns	pups	puss	puts	rugs	tugs	vugs	
+2174	cuke	duke	juke	luke	nuke	peke	pike	poke	puce	pule	pure	
+2175	mule	pale	pile	pole	puce	puke	pull	pulp	pure	rule	yule	
+2176	bull	cull	dull	full	gull	hull	lull	mull	null	pall	pill	poll	pule	pulp	purl	
+2177	gulp	pule	pull	pump	
+2178	pima	pump	pupa	
+2179	bump	dump	hump	jump	lump	mump	pimp	pomp	pulp	puma	rump	sump	
+2180	bunk	dunk	funk	gunk	hunk	junk	lunk	pink	puck	puns	punt	puny	sunk	
+2181	buns	duns	guns	huns	nuns	pans	pens	pins	pons	pubs	puds	pugs	punk	punt	puny	pups	puss	puts	runs	suns	tuns	
+2182	aunt	bunt	cunt	hunt	pant	pent	pint	punk	puns	puny	putt	runt	
+2183	luny	piny	pony	punk	puns	punt	
+2184	papa	puma	pups	
+2185	cups	paps	peps	pips	pops	pubs	puds	pugs	puns	pupa	puss	puts	sups	tups	
+2186	cure	jure	lure	pare	pere	pore	puce	puke	pule	purl	purr	pyre	sure	
+2187	burl	curl	furl	hurl	pull	pure	purr	
+2188	burr	pure	purl	
+2189	bush	gush	hush	lush	mush	pish	posh	puss	rush	tush	
+2190	buss	cuss	fuss	muss	pass	piss	pubs	puds	pugs	puns	pups	push	puts	
+2191	buts	cuts	guts	huts	juts	nuts	outs	pats	pets	pits	pots	pubs	puds	pugs	puns	pups	puss	putt	ruts	tuts	
+2192	butt	mutt	punt	puts	
+2193	byre	gyre	lyre	pare	pere	pore	pure	tyre	
+2194	laid	maid	paid	quid	raid	said	
+2195	soph	
+2196	duad	quae	quag	quai	qual	quam	quat	quay	quid	quod	
+2197	quad	quag	quai	qual	quam	quat	quay	
+2198	quad	quae	quai	qual	quam	quat	quay	
+2199	quad	quae	quag	qual	quam	quat	quay	
+2200	dual	quad	quae	quag	quai	quam	quat	quay	
+2201	guam	quad	quae	quag	quai	qual	quat	quay	quem	
+2202	quad	quae	quag	quai	qual	quam	quay	quit	
+2203	quad	quae	quag	quai	qual	quam	quat	quey	
+2204	quam	ques	quey	
+2205	cues	dues	hues	quem	quey	quos	rues	sues	
+2206	quay	quem	ques	suey	
+2207	quid	quip	quit	quiz	
+2208	qaid	quad	quia	quip	quit	quiz	quod	
+2209	quia	quid	quit	quiz	
+2210	quat	quia	quid	quip	quiz	suit	
+2211	quia	quid	quip	quit	
+2212	quad	quid	quos	
+2213	duos	ques	quod	
+2214	dace	face	lace	mace	pace	rack	racy	rage	rake	rape	rare	rase	rate	rave	raze	rice	
+2215	back	hack	jack	lack	mack	pack	race	racy	rank	rick	rock	ruck	sack	tack	wack	yack	
+2216	lacy	race	rack	
+2217	bads	cads	dads	fads	gads	lads	mads	pads	rags	rams	raps	rats	raws	rays	reds	rids	rods	tads	wads	
+2218	daft	haft	rant	rapt	reft	rift	waft	
+2219	gaga	rage	rags	raja	rara	rata	saga	
+2220	cage	gage	mage	page	race	raga	rags	rake	rape	rare	rase	rate	rave	raze	sage	wage	
+2221	bags	fags	gags	hags	jags	lags	mags	nags	rads	raga	rage	rams	raps	rats	raws	rays	rigs	rugs	sags	tags	wags	zags	
+2222	laid	maid	paid	qaid	rail	rain	rand	said	
+2223	bail	fail	hail	jail	mail	nail	pail	raid	rain	roil	sail	tail	vail	wail	
+2224	fain	gain	lain	main	pain	raid	rail	rein	ruin	vain	wain	
+2225	raga	rara	rata	
+2226	bake	cake	fake	hake	jake	lake	make	race	rage	rape	rare	rase	rate	rave	raze	sake	take	wake	
+2227	camp	damp	lamp	rams	rasp	romp	rump	tamp	vamp	
+2228	cams	dams	gams	hams	jams	lams	rads	rags	ramp	raps	rats	raws	rays	rems	rims	roms	rums	tams	yams	
+2229	band	hand	land	raid	rang	rani	rank	rant	rend	rind	sand	wand	
+2230	bang	dang	fang	gang	hang	pang	rand	rani	rank	rant	ring	rung	sang	tang	wang	yang	
+2231	rand	rang	rank	rant	
+2232	bank	dank	hank	lank	rack	rand	rang	rani	rant	rink	sank	tank	yank	
+2233	cant	pant	raft	rand	rang	rani	rank	rapt	rent	runt	want	
+2234	cape	gape	jape	nape	race	rage	rake	raps	rapt	rare	rase	rate	rave	raze	ripe	rope	tape	
+2235	caps	gaps	haps	laps	maps	naps	paps	rads	rags	rams	rape	rapt	rats	raws	rays	reps	rips	saps	taps	yaps	zaps	
+2236	raft	rant	rape	raps	rcpt	
+2237	para	raga	raja	rare	rata	
+2238	bare	care	dare	fare	hare	mare	pare	race	rage	rake	rape	rara	rase	rate	rave	raze	tare	ware	yare	
+2239	base	case	ease	race	rage	rake	rape	rare	rash	rasp	rate	rave	raze	rise	rose	ruse	vase	
+2240	bash	cash	dash	gash	hash	lash	mash	rase	rasp	rush	sash	wash	
+2241	gasp	hasp	ramp	rase	rash	resp	wasp	
+2242	data	raga	raja	rara	rate	rats	
+2243	bate	date	fate	gate	hate	late	mate	pate	race	rage	rake	rape	rare	rase	rata	rats	rave	raze	rite	rote	sate	tate	
+2244	bats	cats	eats	fats	gats	hats	mats	oats	pats	rads	rags	rams	raps	rata	rate	raws	rays	rots	ruts	tats	vats	wats	
+2245	cave	dave	eave	gave	have	lave	nave	pave	race	rage	rake	rape	rare	rase	rate	raze	rive	rove	save	wave	
+2246	caws	haws	jaws	laws	maws	paws	rads	rags	rams	raps	rats	rays	rows	saws	taws	yaws	
+2247	bays	cays	days	fays	gays	hays	jays	kays	lays	mays	nays	pays	rads	rags	rams	raps	rats	raws	says	ways	
+2248	daze	faze	gaze	haze	laze	maze	race	rage	rake	rape	rare	rase	rate	rave	razz	
+2249	jazz	raze	
+2250	rapt	
+2251	bead	dead	head	lead	mead	real	ream	reap	rear	recd	reed	rend	retd	road	
+2252	deal	heal	leal	meal	peal	read	ream	reap	rear	reel	rial	seal	teal	veal	weal	zeal	
+2253	beam	read	real	reap	rear	roam	seam	team	
+2254	heap	leap	neap	read	real	ream	rear	resp	
+2255	bear	dear	fear	gear	hear	lear	near	pear	read	real	ream	reap	roar	sear	tear	wear	year	
+2256	debs	nebs	recs	reds	refs	rems	reps	revs	ribs	robs	rubs	webs	
+2257	read	recs	reed	rend	retd	
+2258	rebs	recd	reds	refs	rems	reps	revs	rocs	secs	
+2259	reds	reno	
+2260	beds	feds	peds	rads	rebs	recs	redo	refs	rems	reps	revs	rids	rods	teds	weds	zeds	
+2261	deed	feed	geed	heed	meed	need	peed	read	recd	reef	reek	reel	rend	retd	rued	seed	teed	weed	
+2262	beef	reed	reek	reel	
+2263	geek	leek	meek	peek	reed	reef	reel	seek	week	
+2264	feel	heel	keel	peel	real	reed	reef	reek	riel	
+2265	rebs	recs	reds	reft	rems	reps	revs	
+2266	deft	heft	left	raft	refs	rent	rest	rift	weft	
+2267	mein	rain	ruin	vein	
+2268	eely	
+2269	gems	hems	rams	rebs	recs	reds	refs	reps	revs	rims	roms	rums	
+2270	bend	fend	lend	mend	pend	rand	read	recd	reed	reno	rent	retd	rind	send	tend	vend	wend	
+2271	keno	redo	rend	rent	
+2272	bent	cent	dent	gent	kent	lent	pent	rant	reft	rend	reno	rest	runt	sent	tent	vent	went	
+2273	peps	raps	rebs	recs	reds	refs	rems	revs	rips	
+2274	rasp	reap	rest	
+2275	best	hest	jest	lest	nest	pest	reft	rent	resp	rust	test	vest	west	zest	
+2276	read	recd	reed	rend	
+2277	rebs	recs	reds	refs	rems	reps	
+2278	
+2279	dial	real	riel	rill	vial	
+2280	bibs	dibs	fibs	gibs	jibs	libs	mibs	nibs	rebs	rids	rigs	rims	rips	robs	rubs	sibs	
+2281	dice	lice	mice	nice	race	rich	rick	ride	rife	rile	rime	ripe	rise	rite	rive	vice	
+2282	rice	rick	
+2283	dick	hick	kick	lick	mick	nick	pick	rack	rice	rich	rink	risk	rock	ruck	sick	tick	wick	
+2284	aide	bide	fide	hide	rice	rids	rife	rile	rime	ripe	rise	rite	rive	rode	rude	side	tide	vide	wide	
+2285	aids	bids	fids	kids	lids	mids	rads	reds	ribs	ride	rigs	rims	rips	rods	yids	
+2286	reel	rial	rill	
+2287	fife	life	rice	ride	riff	rift	rile	rime	ripe	rise	rite	rive	wife	
+2288	biff	jiff	miff	rife	rift	ruff	tiff	
+2289	gift	lift	raft	reft	rife	riff	riot	sift	
+2290	digs	figs	gigs	jigs	migs	pigs	rags	ribs	rids	rims	rips	rugs	wigs	zigs	
+2291	bile	file	mile	nile	pile	rice	ride	rife	rill	rime	ripe	rise	rite	rive	role	rule	tile	vile	wile	
+2292	bill	dill	fill	gill	hill	jill	kill	mill	nill	pill	rial	riel	rile	roll	sill	till	will	
+2293	dime	lime	mime	rice	ride	rife	rile	rims	rimy	ripe	rise	rite	rive	rome	time	
+2294	aims	dims	nims	rams	rems	ribs	rids	rigs	rime	rimy	rips	roms	rums	vims	
+2295	limy	rime	rims	
+2296	bind	find	hind	kind	mind	rand	rend	ring	rink	wind	
+2297	ding	king	ling	ming	ping	rang	rind	rink	rung	sing	ting	wing	zing	
+2298	fink	kink	link	mink	oink	pink	rank	rick	rind	ring	risk	sink	wink	
+2299	rift	root	
+2300	pipe	rape	rice	ride	rife	rile	rime	rips	rise	rite	rive	rope	wipe	yipe	
+2301	dips	gips	hips	kips	lips	nips	pips	raps	reps	ribs	rids	rigs	rims	ripe	sips	tips	vips	yips	zips	
+2302	mise	rase	rice	ride	rife	rile	rime	ripe	risk	rite	rive	rose	ruse	vise	wise	
+2303	disk	rick	rink	rise	rusk	
+2304	bite	cite	kite	lite	mite	rate	rice	ride	rife	rile	rime	ripe	rise	ritz	rive	rote	site	
+2305	rite	sitz	
+2306	dive	five	give	hive	jive	live	rave	rice	ride	rife	rile	rime	ripe	rise	rite	rove	vive	wive	
+2307	goad	load	read	roam	roan	roar	rood	toad	woad	
+2308	foam	loam	ream	road	roan	roar	room	
+2309	koan	loan	moan	road	roam	roar	
+2310	boar	hoar	rear	road	roam	roan	soar	
+2311	lobe	robs	rode	role	rome	rope	rose	rote	roue	rove	rube	
+2312	bobs	cobs	fobs	gobs	hobs	jobs	lobs	mobs	nobs	rebs	ribs	robe	rocs	rods	roes	roms	rots	rows	rubs	sobs	
+2313	bock	cock	dock	hock	jock	lock	mock	nock	pock	rack	rick	rocs	rook	ruck	sock	
+2314	docs	recs	robs	rock	rods	roes	roms	rots	rows	
+2315	bode	code	lode	mode	node	ride	robe	rods	role	rome	rope	rose	rote	roue	rove	rude	
+2316	bods	cods	gods	hods	mods	nods	pods	rads	reds	rids	robs	rocs	rode	roes	roms	rots	rows	sods	
+2317	does	foes	goes	hoes	joes	noes	robs	rocs	rods	roms	rots	rows	rues	ryes	toes	woes	
+2318	boil	coil	foil	moil	rail	roll	soil	toil	
+2319	bole	cole	dole	hole	mole	pole	rile	robe	rode	roll	rome	rope	rose	rote	roue	rove	rule	sole	tole	vole	
+2320	boll	coll	doll	loll	moll	poll	rill	roil	role	toll	
+2321	come	dome	home	nome	pome	rime	robe	rode	role	romp	roms	rope	rose	rote	roue	rove	some	tome	
+2322	comp	pomp	ramp	rome	roms	rump	
+2323	doms	moms	noms	rams	rems	rims	robs	rocs	rods	roes	rome	romp	rots	rows	rums	toms	
+2324	food	good	hood	mood	road	roof	rook	room	root	wood	
+2325	goof	hoof	rood	rook	room	root	woof	
+2326	book	cook	gook	hook	kook	look	nook	rock	rood	roof	room	root	took	
+2327	boom	doom	loom	roam	rood	roof	rook	root	zoom	
+2328	boot	coot	foot	hoot	loot	moot	riot	rood	roof	rook	room	rout	soot	toot	
+2329	cope	dope	hope	lope	mope	nope	pope	rape	ripe	robe	rode	role	rome	ropy	rose	rote	roue	rove	tope	
+2330	copy	dopy	mopy	rope	rosy	
+2331	rose	rosy	
+2332	dose	hose	jose	lose	nose	pose	rase	rise	robe	rode	role	rome	rope	rosa	rosy	rote	roue	rove	ruse	
+2333	cosy	nosy	posy	ropy	rosa	rose	
+2334	cote	dote	mote	note	rate	rite	robe	rode	role	rome	rope	rose	roto	rots	roue	rove	tote	vote	
+2335	koto	rote	rots	toto	
+2336	cots	dots	hots	jots	lots	mots	nots	pots	rats	robs	rocs	rods	roes	roms	rote	roto	rows	ruts	sots	tots	wots	
+2337	moue	robe	rode	role	rome	rope	rose	rote	rout	roux	rove	
+2338	bout	gout	lout	pout	root	roue	roux	tout	
+2339	roue	rout	
+2340	cove	dove	hove	love	move	rave	rive	robe	rode	role	rome	rope	rose	rote	roue	wove	
+2341	bows	cows	dows	hows	lows	mows	nows	pows	raws	robs	rocs	rods	roes	roms	rots	sows	tows	vows	wows	yows	
+2342	cube	lube	robe	rubs	ruby	rude	rule	rune	ruse	tube	
+2343	bubs	cubs	dubs	hubs	nubs	pubs	rebs	ribs	robs	rube	ruby	rues	rugs	rums	runs	ruts	subs	tubs	
+2344	rube	rubs	
+2345	buck	duck	fuck	guck	huck	luck	muck	puck	rack	rick	rock	rusk	suck	tuck	
+2346	dude	nude	ride	rode	rube	rule	rune	ruse	
+2347	cued	hued	reed	ruer	rues	sued	
+2348	rued	rues	suer	
+2349	cues	dues	hues	ques	roes	rubs	rued	ruer	rugs	rums	runs	ruts	ryes	sues	
+2350	buff	cuff	duff	guff	huff	luff	muff	puff	riff	tuff	
+2351	bugs	dugs	fugs	hugs	jugs	lugs	mugs	pugs	rags	rigs	rubs	rues	rums	runs	ruts	tugs	vugs	
+2352	rain	rein	
+2353	mule	pule	rile	role	rube	rude	rune	ruse	yule	
+2354	bump	dump	hump	jump	lump	mump	pump	ramp	romp	rums	sump	
+2355	bums	gums	hums	mums	rams	rems	rims	roms	rubs	rues	rugs	rump	runs	ruts	sums	
+2356	dune	june	lune	rube	rude	rule	rung	runs	runt	ruse	tune	
+2357	bung	dung	gung	hung	kung	lung	rang	ring	rune	runs	runt	sung	
+2358	buns	duns	guns	huns	nuns	puns	rubs	rues	rugs	rums	rune	rung	runt	ruts	suns	tuns	
+2359	aunt	bunt	cunt	hunt	punt	rant	rent	rune	rung	runs	rust	
+2360	fuse	muse	rase	rise	rose	rube	rude	rule	rune	rush	rusk	rust	
+2361	bush	gush	hush	lush	mush	push	rash	ruse	rusk	rust	ruth	tush	
+2362	dusk	husk	musk	risk	ruck	ruse	rush	rust	tusk	
+2363	bust	dust	gust	just	lust	must	oust	rest	runt	ruse	rush	rusk	
+2364	rush	ruts	
+2365	buts	cuts	guts	huts	juts	nuts	outs	puts	rats	rots	rubs	rues	rugs	rums	runs	ruth	tuts	
+2366	ryes	
+2367	ayes	byes	dyes	eyes	lyes	oyes	roes	rues	ryas	wyes	
+2368	back	hack	jack	lack	mack	pack	rack	sacs	sank	sick	sock	suck	tack	wack	yack	
+2369	macs	pacs	sack	sags	sans	saps	sass	saws	says	secs	sics	wacs	
+2370	cafe	sage	sake	sale	same	sane	sate	save	
+2371	gaga	raga	sage	sago	sags	sagy	
+2372	cage	gage	mage	page	rage	safe	saga	sago	sags	sagy	sake	sale	same	sane	sate	save	wage	
+2373	dago	saga	sage	sags	sagy	
+2374	bags	fags	gags	hags	jags	lags	mags	nags	rags	sacs	saga	sage	sago	sagy	sans	saps	sass	saws	says	tags	wags	zags	
+2375	cagy	saga	sage	sago	sags	
+2376	laid	maid	paid	qaid	raid	sail	sand	skid	slid	
+2377	bail	fail	hail	jail	mail	nail	pail	rail	said	scil	soil	tail	vail	wail	
+2378	bake	cake	fake	hake	jake	lake	make	rake	safe	sage	sale	same	sane	sate	save	take	wake	
+2379	bale	dale	gale	hale	kale	male	pale	safe	sage	sake	salt	same	sane	sate	save	sole	tale	vale	wale	yale	
+2380	halt	malt	sale	silt	walt	
+2381	came	dame	fame	game	kame	lame	name	safe	sage	sake	sale	sane	sate	save	some	tame	
+2382	band	hand	land	rand	said	sane	sang	sank	sans	send	wand	
+2383	bane	cane	dane	jane	lane	mane	pane	safe	sage	sake	sale	same	sand	sang	sank	sans	sate	save	sine	syne	vane	wane	
+2384	bang	dang	fang	gang	hang	pang	rang	sand	sane	sank	sans	sing	song	sung	tang	wang	yang	
+2385	bank	dank	hank	lank	rank	sack	sand	sane	sang	sans	sink	sunk	tank	yank	
+2386	bans	cans	fans	mans	pans	sacs	sags	sand	sane	sang	sank	saps	sass	saws	says	sins	sons	suns	tans	vans	
+2387	caps	gaps	haps	laps	maps	naps	paps	raps	sacs	sags	sans	sass	saws	says	sips	sops	sups	taps	yaps	zaps	
+2388	
+2389	bash	cash	dash	gash	hash	lash	mash	rash	sass	wash	
+2390	bass	lass	mass	pass	sacs	sags	sans	saps	sash	saws	says	tass	
+2391	bate	date	fate	gate	hate	late	mate	pate	rate	safe	sage	sake	sale	same	sane	save	site	tate	
+2392	cave	dave	eave	gave	have	lave	nave	pave	rave	safe	sage	sake	sale	same	sane	sate	wave	
+2393	dawn	fawn	lawn	pawn	saws	sewn	sown	yawn	
+2394	caws	haws	jaws	laws	maws	paws	raws	sacs	sags	sans	saps	sass	sawn	says	sews	sows	taws	yaws	
+2395	bays	cays	days	fays	gays	hays	jays	kays	lays	mays	nays	pays	rays	sacs	sags	sans	saps	sass	saws	skys	soys	ways	
+2396	scad	scag	scam	scan	scar	scat	slab	stab	swab	
+2397	scab	scag	scam	scan	scar	scat	scud	shad	
+2398	scab	scad	scam	scan	scar	scat	shag	skag	slag	snag	stag	swag	
+2399	scab	scad	scag	scan	scar	scat	scum	seam	sham	siam	slam	swam	
+2400	scab	scad	scag	scam	scar	scat	span	swan	
+2401	scab	scad	scag	scam	scan	scat	sear	soar	spar	star	
+2402	scab	scad	scag	scam	scan	scar	scot	scut	seat	shat	slat	spat	stat	swat	
+2403	sail	soil	
+2404	scot	scow	shop	slop	stop	swop	
+2405	scat	scop	scow	scut	shot	slot	snot	soot	spot	
+2406	scop	scot	show	slow	snow	stow	
+2407	scad	scum	scut	spud	stud	
+2408	scam	scud	scut	slum	swum	
+2409	scat	scot	scud	scum	shut	slut	smut	
+2410	deal	heal	leal	meal	peal	real	seam	sear	seas	seat	sell	teal	veal	weal	zeal	
+2411	beam	ream	scam	seal	sear	seas	seat	seem	sham	siam	slam	swam	team	
+2412	bear	dear	fear	gear	hear	lear	near	pear	rear	scar	seal	seam	seas	seat	seer	soar	spar	star	tear	wear	year	
+2413	leas	meas	peas	seal	seam	sear	seat	secs	sees	sets	sews	spas	teas	yeas	
+2414	beat	feat	heat	meat	neat	peat	scat	seal	seam	sear	seas	sect	sent	sept	shat	slat	spat	stat	swat	teat	
+2415	recs	sacs	seas	sect	sees	sets	sews	sics	
+2416	lect	seat	secs	sent	sept	
+2417	deed	feed	geed	heed	meed	need	peed	reed	seek	seem	seen	seep	seer	sees	send	shed	sled	sped	sued	teed	weed	
+2418	geek	leek	meek	peek	reek	seed	seem	seen	seep	seer	sees	week	
+2419	deem	seam	seed	seek	seen	seep	seer	sees	stem	teem	
+2420	been	keen	peen	seed	seek	seem	seep	seer	sees	sewn	teen	ween	
+2421	beep	deep	jeep	keep	peep	seed	seek	seem	seen	seer	sees	step	veep	weep	
+2422	beer	deer	jeer	leer	peer	sear	seed	seek	seem	seen	seep	sees	suer	veer	
+2423	bees	cees	dees	fees	gees	lees	pees	seas	secs	seed	seek	seem	seen	seep	seer	sets	sews	shes	sues	tees	vees	zees	
+2424	pelf	sell	serf	
+2425	bell	cell	dell	fell	hell	jell	seal	self	sill	tell	well	yell	
+2426	
+2427	bend	fend	lend	mend	pend	rend	sand	seed	sent	tend	vend	wend	
+2428	bent	cent	dent	gent	kent	lent	pent	rent	seat	sect	send	sept	tent	vent	went	
+2429	dept	kept	seat	sect	sent	supt	wept	
+2430	serb	sere	serf	
+2431	herb	kerb	sera	sere	serf	verb	
+2432	here	mere	pere	sera	serb	serf	sire	sore	sure	were	
+2433	kerf	self	sera	serb	sere	surf	
+2434	bets	gets	jets	lets	nets	pets	seas	secs	sees	sews	sits	sots	vets	wets	
+2435	hewn	sawn	seen	sews	sown	
+2436	dews	hews	jews	mews	news	pews	saws	seas	secs	sees	sets	sewn	sows	yews	
+2437	
+2438	chad	scad	shag	shah	sham	shat	shay	shed	shod	
+2439	scag	shad	shah	sham	shat	shay	skag	slag	snag	stag	swag	
+2440	shad	shag	sham	shat	shay	
+2441	cham	scam	seam	shad	shag	shah	shat	shay	shim	siam	slam	swam	wham	
+2442	chat	ghat	scat	seat	shad	shag	shah	sham	shay	shit	shot	shut	slat	spat	stat	swat	that	what	
+2443	shad	shag	shah	sham	shat	slay	spay	stay	sway	
+2444	ohed	seed	shad	shes	shew	shod	sled	sped	sued	
+2445	sees	shed	shew	sues	
+2446	chew	phew	shed	shes	show	skew	slew	spew	stew	thew	whew	
+2447	sham	shin	ship	shit	shiv	skim	slim	swim	whim	
+2448	chin	shim	ship	shit	shiv	shun	skin	spin	thin	
+2449	chip	shim	shin	shit	shiv	shop	skip	slip	snip	whip	
+2450	chit	shat	shim	shin	ship	shiv	shot	shut	skit	slit	smit	snit	spit	suit	whit	
+2451	shim	shin	ship	shit	
+2452	shoo	sumo	
+2453	shad	shed	shoe	shoo	shop	shot	show	
+2454	shod	shoo	shop	shot	show	sloe	
+2455	shmo	shod	shoe	shop	shot	show	
+2456	chop	scop	ship	shod	shoe	shoo	shot	show	slop	stop	swop	
+2457	scot	shat	shit	shod	shoe	shoo	shop	show	shut	slot	snot	soot	spot	
+2458	chow	dhow	scow	shew	shod	shoe	shoo	shop	shot	slow	snow	stow	
+2459	shun	shut	soul	
+2460	shin	shul	shut	spun	stun	
+2461	scut	shat	shit	shot	shul	shun	slut	smut	
+2462	diam	scam	seam	sham	slam	swam	
+2463	bibs	dibs	fibs	gibs	jibs	libs	mibs	nibs	ribs	sics	sins	sips	sirs	sits	sobs	subs	
+2464	dick	hick	kick	lick	mick	nick	pick	rick	sack	sics	silk	sink	sock	suck	tick	wick	
+2465	pics	sacs	secs	sibs	sick	sins	sips	sirs	sits	tics	
+2466	aide	bide	fide	hide	ride	sine	sire	site	size	tide	vide	wide	
+2467	gift	lift	rift	silt	soft	
+2468	high	nigh	sign	sikh	sinh	
+2469	sigh	
+2470	sigh	sinh	
+2471	bilk	milk	sick	sill	silo	silt	sink	sulk	
+2472	bill	dill	fill	gill	hill	jill	kill	mill	nill	pill	rill	sell	silk	silo	silt	till	will	
+2473	kilo	silk	sill	silt	solo	
+2474	gilt	hilt	jilt	kilt	lilt	milt	salt	sift	silk	sill	silo	tilt	wilt	
+2475	gimp	limp	pimp	sump	
+2476	cine	dine	fine	kine	line	mine	nine	pine	sane	side	sing	sinh	sink	sins	sire	site	size	syne	tine	vine	wine	
+2477	ding	king	ling	ming	ping	ring	sang	sine	sinh	sink	sins	song	sung	ting	wing	zing	
+2478	sigh	sikh	sine	sing	sink	sins	
+2479	fink	kink	link	mink	oink	pink	rink	sank	sick	silk	sine	sing	sinh	sins	sunk	wink	
+2480	bins	dins	fins	gins	jins	kins	lins	mins	pins	sans	sibs	sics	sine	sing	sinh	sink	sips	sirs	sits	sons	suns	tins	vins	wins	yins	
+2481	dips	gips	hips	kips	lips	nips	pips	rips	saps	sibs	sics	sins	sirs	sits	sops	sups	tips	vips	yips	zips	
+2482	dire	eire	fire	hire	lire	mire	sere	side	sine	sirs	site	size	sore	sure	tire	wire	
+2483	airs	firs	sibs	sics	sins	sips	sire	sits	
+2484	bite	cite	kite	lite	mite	rite	sate	side	sine	sire	sits	situ	sitz	size	
+2485	bits	fits	hits	kits	lits	nits	pits	sets	sibs	sics	sins	sips	sirs	site	situ	sitz	sots	tits	wits	
+2486	site	sits	sitz	
+2487	ritz	site	sits	situ	
+2488	side	sine	sire	site	sizy	
+2489	size	
+2490	scag	shag	slag	snag	stag	swag	
+2491	shew	slew	spew	stew	
+2492	said	skim	skin	skip	skis	skit	slid	
+2493	shim	skid	skin	skip	skis	skit	slim	swim	
+2494	akin	shin	skid	skim	skip	skis	skit	spin	
+2495	ship	skid	skim	skin	skis	skit	slip	snip	
+2496	skid	skim	skin	skip	skit	skys	
+2497	shit	skid	skim	skin	skip	skis	slit	smit	snit	spit	suit	
+2498	says	skis	soys	
+2499	blab	flab	scab	slag	slam	slap	slat	slav	slaw	slay	slob	stab	swab	
+2500	flag	scag	shag	skag	slab	slam	slap	slat	slav	slaw	slay	slog	slug	snag	stag	swag	
+2501	clam	scam	seam	sham	siam	slab	slag	slap	slat	slav	slaw	slay	slim	slum	swam	
+2502	clap	flap	slab	slag	slam	slat	slav	slaw	slay	slip	slop	snap	soap	swap	
+2503	blat	flat	plat	scat	seat	shat	slab	slag	slam	slap	slav	slaw	slay	slit	slot	slut	spat	stat	swat	
+2504	slab	slag	slam	slap	slat	slaw	slay	
+2505	claw	flaw	slab	slag	slam	slap	slat	slav	slay	slew	slow	
+2506	clay	flay	play	shay	slab	slag	slam	slap	slat	slav	slaw	spay	stay	sway	
+2507	bled	fled	pled	seed	shed	slew	slid	sped	sued	
+2508	blew	clew	flew	shew	skew	slaw	sled	slow	spew	stew	
+2509	said	skid	sled	slim	slip	slit	
+2510	glim	shim	skim	slam	slid	slip	slit	slum	swim	
+2511	blip	clip	flip	ship	skip	slap	slid	slim	slit	slop	snip	
+2512	alit	flit	shit	skit	slat	slid	slim	slip	slot	slut	smit	snit	spit	suit	
+2513	blob	glob	slab	sloe	slog	slop	slot	slow	snob	swob	
+2514	aloe	floe	shoe	slob	slog	slop	slot	slow	slue	
+2515	clog	flog	slag	slob	sloe	slop	slot	slow	slug	smog	
+2516	clop	flop	glop	plop	scop	shop	slap	slip	slob	sloe	slog	slot	slow	stop	swop	
+2517	blot	clot	plot	scot	shot	slat	slit	slob	sloe	slog	slop	slow	slut	snot	soot	spot	
+2518	blow	flow	glow	plow	scow	show	slaw	slew	slob	sloe	slog	slop	slot	snow	stow	
+2519	blue	clue	flue	glue	sloe	slug	slum	slur	slut	
+2520	plug	slag	slog	slue	slum	slur	slut	smug	snug	
+2521	alum	glum	plum	scum	slam	slim	slue	slug	slur	slut	swum	
+2522	blur	slue	slug	slum	slut	sour	spur	
+2523	glut	scut	shut	slat	slit	slot	slue	slug	slum	slur	smut	
+2524	emit	omit	shit	skit	slit	smut	snit	spit	suit	
+2525	slog	smug	
+2526	slug	smog	smut	snug	
+2527	scut	shut	slut	smit	smug	
+2528	scag	shag	skag	slag	snap	snug	stag	swag	
+2529	slap	snag	snip	soap	swap	
+2530	ship	skip	slip	snap	snit	
+2531	knit	shit	skit	slit	smit	snip	snot	spit	suit	unit	
+2532	knob	slob	snot	snow	snub	swob	
+2533	knot	scot	shot	slot	snit	snob	snow	soot	spot	
+2534	enow	know	scow	show	slow	snob	snot	stow	
+2535	snob	snug	stub	
+2536	slug	smug	snag	snub	
+2537	soap	soar	sock	
+2538	slap	snap	soak	soar	soup	swap	
+2539	boar	hoar	roar	scar	sear	soak	soap	sour	spar	star	
+2540	bobs	cobs	fobs	gobs	hobs	jobs	lobs	mobs	nobs	robs	sibs	sods	sons	sops	sots	sows	soys	subs	
+2541	bock	cock	dock	hock	jock	lock	mock	nock	pock	rock	sack	sick	soak	suck	
+2542	coda	sods	sofa	soma	soya	
+2543	bods	cods	gods	hods	mods	nods	pods	rods	sobs	soda	sons	sops	sots	sows	soys	suds	
+2544	soda	soft	soma	soya	
+2545	loft	sift	sofa	soot	sort	
+2546	boil	coil	foil	moil	roil	sail	scil	soul	toil	
+2547	bold	cold	fold	gold	hold	mold	sole	soli	solo	told	wold	
+2548	bole	cole	dole	hole	mole	pole	role	sale	sold	soli	solo	some	sore	tole	vole	
+2549	sold	sole	solo	
+2550	bolo	nolo	polo	silo	sold	sole	soli	
+2551	coma	soda	sofa	some	soya	
+2552	come	dome	home	nome	pome	rome	same	sole	soma	sore	tome	
+2553	bong	dong	gong	kong	long	pong	sang	sing	sons	sung	tong	
+2554	bons	cons	dons	eons	ions	mons	pons	sans	sins	sobs	sods	song	sops	sots	sows	soys	suns	tons	
+2555	boon	coon	goon	loon	moon	noon	soot	sown	
+2556	boot	coot	foot	hoot	loot	moot	root	scot	shot	slot	snot	soft	soon	sort	spot	toot	
+2557	qoph	sops	
+2558	bops	cops	fops	hops	lops	mops	oops	pops	saps	sips	sobs	sods	sons	soph	sots	sows	soys	sups	tops	wops	
+2559	bore	core	fore	gore	lore	more	pore	sere	sire	sole	some	sort	sure	tore	wore	yore	
+2560	bort	fort	mort	port	soft	soot	sore	tort	wort	
+2561	cots	dots	hots	jots	lots	mots	nots	pots	rots	sets	sits	sobs	sods	sons	sops	sows	soys	tots	wots	
+2562	foul	shul	soil	soup	sour	
+2563	coup	loup	soap	soul	sour	
+2564	dour	four	hour	jour	lour	pour	slur	soar	soul	soup	spur	tour	your	
+2565	down	gown	mown	sawn	sewn	soon	sows	town	
+2566	bows	cows	dows	hows	lows	mows	nows	pows	rows	saws	sews	sobs	sods	sons	sops	sots	sown	soys	tows	vows	wows	yows	
+2567	soda	sofa	soma	soys	
+2568	boys	goys	joys	says	skys	sobs	sods	sons	sops	sots	sows	soya	toys	
+2569	scan	spar	spas	spat	spay	spin	spun	swan	
+2570	scar	sear	soar	span	spas	spat	spay	spur	star	
+2571	seas	span	spar	spat	spay	
+2572	scat	seat	shat	slat	span	spar	spas	spay	spit	spot	stat	swat	
+2573	shay	slay	span	spar	spas	spat	spry	stay	sway	
+2574	opec	sped	spew	spic	
+2575	aped	seed	shed	sled	spec	spew	spud	sued	
+2576	shew	skew	slew	spec	sped	stew	
+2577	epic	spec	spin	spit	
+2578	shin	skin	span	spic	spit	spun	
+2579	shit	skit	slit	smit	snit	spat	spic	spin	spot	suit	
+2580	scot	shot	slot	snot	soot	spat	spit	
+2581	spay	
+2582	scud	sped	spun	spur	stud	
+2583	shun	span	spin	spud	spur	stun	
+2584	slur	sour	spar	spud	spun	
+2585	scab	slab	stag	star	stat	stay	stub	swab	
+2586	scag	shag	skag	slag	snag	stab	star	stat	stay	swag	
+2587	scar	sear	soar	spar	stab	stag	stat	stay	stir	
+2588	scat	seat	shat	slat	spat	stab	stag	star	stay	stet	swat	
+2589	shay	slay	spay	stab	stag	star	stat	sway	
+2590	item	seem	step	stet	stew	
+2591	seep	stem	stet	stew	stop	
+2592	stat	stem	step	stew	suet	
+2593	shew	skew	slew	spew	stem	step	stet	stow	
+2594	star	
+2595	stop	stow	
+2596	atop	scop	shop	slop	step	stoa	stow	swop	
+2597	scow	show	slow	snow	stew	stoa	stop	
+2598	snub	stab	stud	stun	
+2599	scud	spud	stub	stun	
+2600	shun	spun	stub	stud	
+2601	styx	
+2602	stye	
+2603	bubs	cubs	dubs	hubs	nubs	pubs	rubs	sibs	sobs	suds	sues	sums	suns	sups	tubs	
+2604	much	ouch	suck	
+2605	buck	duck	fuck	guck	huck	luck	muck	puck	ruck	sack	sick	sock	such	sulk	sunk	tuck	
+2606	buds	cuds	duds	fuds	iuds	muds	puds	sods	subs	sues	sums	suns	sups	
+2607	cued	hued	rued	seed	shed	sled	sped	suer	sues	suet	suey	suez	
+2608	ruer	seer	sued	sues	suet	suey	suez	
+2609	cues	dues	hues	ques	rues	sees	shes	subs	suds	sued	suer	suet	suey	suez	sums	suns	sups	
+2610	duet	stet	sued	suer	sues	suey	suez	suit	supt	
+2611	quey	sued	suer	sues	suet	suez	
+2612	sued	suer	sues	suet	suey	
+2613	quit	shit	skit	slit	smit	snit	spit	suet	supt	
+2614	bulk	hulk	silk	suck	sunk	
+2615	shmo	sump	sums	
+2616	bump	dump	hump	jump	lump	mump	pump	rump	simp	sumo	sums	
+2617	bums	gums	hums	mums	rums	subs	suds	sues	sumo	sump	suns	sups	
+2618	bung	dung	gung	hung	kung	lung	rung	sang	sing	song	sunk	suns	
+2619	bunk	dunk	funk	gunk	hunk	junk	lunk	punk	sank	sink	suck	sulk	sung	suns	
+2620	buns	duns	guns	huns	nuns	puns	runs	sans	sins	sons	subs	suds	sues	sums	sung	sunk	sups	tuns	
+2621	dupe	jupe	sups	supt	sure	
+2622	cups	pups	saps	sips	sops	subs	suds	sues	sums	suns	supe	supt	tups	
+2623	sept	suet	suit	supe	sups	
+2624	cure	jure	lure	pure	sere	sire	sore	supe	surf	
+2625	serf	sure	turf	
+2626	scab	slab	stab	swag	swam	swan	swap	swat	sway	swob	
+2627	scag	shag	skag	slag	snag	stag	swab	swam	swan	swap	swat	sway	swig	
+2628	scam	seam	sham	siam	slam	swab	swag	swan	swap	swat	sway	swim	swum	
+2629	scan	span	swab	swag	swam	swap	swat	sway	
+2630	slap	snap	soap	swab	swag	swam	swan	swat	sway	swop	
+2631	scat	seat	shat	slat	spat	stat	swab	swag	swam	swan	swap	sway	twat	
+2632	away	shay	slay	spay	stay	swab	swag	swam	swan	swap	swat	
+2633	swag	swim	twig	
+2634	shim	skim	slim	swam	swig	swum	
+2635	slob	snob	swab	swop	
+2636	scop	shop	slop	stop	swap	swob	
+2637	scum	slum	swam	swim	
+2638	syne	
+2639	dyne	sane	sine	sync	
+2640	cabs	dabs	gabs	jabs	labs	nabs	tabu	tads	tags	tams	tans	taos	taps	tars	tass	tats	taws	tubs	
+2641	babu	tabs	
+2642	bach	each	mach	tack	taco	tact	tech	
+2643	back	hack	jack	lack	mack	pack	rack	sack	tach	taco	tact	talk	tank	task	tick	tuck	wack	yack	
+2644	tach	tack	tact	taro	
+2645	fact	pact	tach	tack	taco	tart	taut	
+2646	bads	cads	dads	fads	gads	lads	mads	pads	rads	tabs	tags	tams	tans	taos	taps	tars	tass	tats	taws	teds	wads	
+2647	bags	fags	gags	hags	jags	lags	mags	nags	rags	sags	tabs	tads	tams	tans	taos	taps	tars	tass	tats	taws	togs	tugs	wags	zags	
+2648	bail	fail	hail	jail	mail	nail	pail	rail	sail	tall	toil	vail	wail	
+2649	bake	cake	fake	hake	jake	lake	make	rake	sake	tale	tame	tape	tare	tate	tike	toke	tyke	wake	
+2650	calc	tale	talk	tall	
+2651	bale	dale	gale	hale	kale	male	pale	sale	take	talc	talk	tall	tame	tape	tare	tate	tile	tole	vale	wale	yale	
+2652	balk	calk	tack	talc	tale	tall	tank	task	walk	
+2653	ball	call	fall	gall	hall	mall	pall	tail	talc	tale	talk	tell	till	toll	wall	
+2654	came	dame	fame	game	kame	lame	name	same	take	tale	tamp	tams	tape	tare	tate	time	tome	
+2655	camp	damp	lamp	ramp	tame	tams	tarp	temp	vamp	
+2656	cams	dams	gams	hams	jams	lams	rams	tabs	tads	tags	tame	tamp	tans	taos	taps	tars	tass	tats	taws	toms	yams	
+2657	bang	dang	fang	gang	hang	pang	rang	sang	tank	tans	ting	tong	wang	yang	
+2658	bank	dank	hank	lank	rank	sank	tack	talk	tang	tans	task	yank	
+2659	bans	cans	fans	mans	pans	sans	tabs	tads	tags	tams	tang	tank	taos	taps	tars	tass	tats	taws	tens	tins	tons	tuns	vans	
+2660	laos	tabs	tads	tags	tams	tans	taps	tars	tass	tats	taws	twos	
+2661	cape	gape	jape	nape	rape	take	tale	tame	taps	tare	tate	tope	type	
+2662	caps	gaps	haps	laps	maps	naps	paps	raps	saps	tabs	tads	tags	tams	tans	taos	tape	tars	tass	tats	taws	tips	tops	tups	yaps	zaps	
+2663	bare	care	dare	fare	hare	mare	pare	rare	take	tale	tame	tape	tarn	taro	tarp	tars	tart	tate	tire	tore	tyre	ware	yare	
+2664	barn	darn	earn	tare	taro	tarp	tars	tart	tern	torn	turn	warn	yarn	
+2665	faro	taco	tare	tarn	tarp	tars	tart	thro	tiro	toro	tyro	
+2666	carp	harp	tamp	tare	tarn	taro	tars	tart	warp	
+2667	bars	cars	ears	gars	jars	mars	oars	pars	tabs	tads	tags	tams	tans	taos	taps	tare	tarn	taro	tarp	tart	tass	tats	taws	tors	wars	
+2668	cart	dart	fart	hart	kart	mart	part	tact	tare	tarn	taro	tarp	tars	taut	tort	wart	
+2669	bask	cask	mask	tack	talk	tank	tass	tusk	
+2670	bass	lass	mass	pass	sass	tabs	tads	tags	tams	tans	taos	taps	tars	task	tats	taws	toss	
+2671	bate	date	fate	gate	hate	late	mate	pate	rate	sate	take	tale	tame	tape	tare	tats	tote	
+2672	bats	cats	eats	fats	gats	hats	mats	oats	pats	rats	tabs	tads	tags	tams	tans	taos	taps	tars	tass	tate	taws	tits	tots	tuts	vats	wats	
+2673	faut	maut	naut	tact	tart	tout	
+2674	caws	haws	jaws	laws	maws	paws	raws	saws	tabs	tads	tags	tams	tans	taos	taps	tars	tass	tats	tows	yaws	
+2675	maxi	
+2676	
+2677	beak	leak	peak	teal	team	tear	teas	teat	weak	
+2678	deal	heal	leal	meal	peal	real	seal	teak	team	tear	teas	teat	tell	veal	weal	zeal	
+2679	beam	ream	seam	teak	teal	tear	teas	teat	teem	term	tram	
+2680	bear	dear	fear	gear	hear	lear	near	pear	rear	sear	teak	teal	team	teas	teat	terr	tsar	tzar	wear	year	
+2681	leas	meas	peas	seas	teak	teal	team	tear	teat	teds	tees	tens	twas	yeas	
+2682	beat	feat	heat	meat	neat	peat	seat	teak	teal	team	tear	teas	tent	test	text	that	twat	
+2683	lech	mech	tach	
+2684	beds	feds	peds	reds	tads	teas	tees	tens	weds	zeds	
+2685	deed	feed	geed	heed	meed	need	peed	reed	seed	teem	teen	tees	tend	tied	toed	weed	
+2686	deem	seem	team	teed	teen	tees	term	them	
+2687	been	keen	peen	seen	teed	teem	tees	tern	then	ween	
+2688	bees	cees	dees	fees	gees	lees	pees	sees	teas	teds	teed	teem	teen	tens	ties	toes	vees	zees	
+2689	bell	cell	dell	fell	hell	jell	sell	tall	teal	till	toll	well	yell	
+2690	hemp	tamp	
+2691	bend	fend	lend	mend	pend	rend	send	teed	tens	tent	vend	wend	
+2692	bens	dens	fens	gens	hens	kens	lens	mens	pens	tans	teas	teds	tees	tend	tent	tins	tons	tuns	wens	yens	
+2693	bent	cent	dent	gent	kent	lent	pent	rent	sent	teat	tend	tens	test	text	tint	vent	went	
+2694	berm	derm	germ	perm	team	teem	tern	terr	
+2695	fern	kern	tarn	teen	term	terr	torn	turn	
+2696	herr	tear	term	tern	
+2697	best	hest	jest	lest	nest	pest	rest	teat	tent	text	tost	vest	west	zest	
+2698	next	teat	tent	test	
+2699	than	that	thaw	
+2700	khan	thai	that	thaw	then	thin	
+2701	chat	ghat	shat	teat	thai	than	thaw	twat	what	
+2702	chaw	thai	than	that	thew	
+2703	ghee	them	then	thew	they	tree	whee	
+2704	ahem	chem	teem	thee	then	thew	they	
+2705	teen	than	thee	them	thew	they	thin	when	
+2706	chew	phew	shew	thaw	thee	them	then	they	whew	
+2707	thee	them	then	thew	trey	whey	
+2708	chin	shin	than	then	this	twin	
+2709	thin	thus	
+2710	thou	
+2711	chou	thor	thru	
+2712	taro	thru	tiro	toro	tyro	
+2713	thou	thro	
+2714	thug	thus	
+2715	chug	thud	thus	
+2716	this	thud	thug	
+2717	dick	hick	kick	lick	mick	nick	pick	rick	sick	tack	tics	tuck	wick	
+2718	pics	sics	tick	ties	tins	tips	tits	
+2719	aide	bide	fide	hide	ride	side	tidy	tike	tile	time	tine	tire	vide	wide	
+2720	didy	tide	tiny	
+2721	died	hied	lied	pied	teed	tier	ties	toed	vied	
+2722	bier	lier	pier	tied	ties	vier	
+2723	dies	hies	lies	pies	tees	tics	tied	tier	tins	tips	tits	toes	vies	
+2724	biff	jiff	miff	riff	toff	tuff	
+2725	bike	dike	hike	kike	like	mike	pike	take	tide	tile	time	tine	tire	toke	tyke	
+2726	bile	file	mile	nile	pile	rile	tale	tide	tike	till	tilt	time	tine	tire	tole	vile	wile	
+2727	bill	dill	fill	gill	hill	jill	kill	mill	nill	pill	rill	sill	tall	tell	tile	tilt	toll	will	
+2728	gilt	hilt	jilt	kilt	lilt	milt	silt	tile	till	tint	wilt	
+2729	dime	lime	mime	rime	tame	tide	tike	tile	tine	tire	tome	
+2730	cine	dine	fine	kine	line	mine	nine	pine	sine	tide	tike	tile	time	ting	tins	tint	tiny	tire	tone	tune	vine	wine	
+2731	ding	king	ling	ming	ping	ring	sing	tang	tine	tins	tint	tiny	tong	wing	zing	
+2732	bins	dins	fins	gins	jins	kins	lins	mins	pins	sins	tans	tens	tics	ties	tine	ting	tint	tiny	tips	tits	tons	tuns	vins	wins	yins	
+2733	dint	hint	lint	mint	pint	tent	tilt	tine	ting	tins	tiny	
+2734	liny	piny	tidy	tine	ting	tins	tint	tony	viny	winy	
+2735	tips	
+2736	dips	gips	hips	kips	lips	nips	pips	rips	sips	taps	tics	ties	tins	tipi	tits	tops	tups	vips	yips	zips	
+2737	dire	eire	fire	hire	lire	mire	sire	tare	tide	tike	tile	time	tine	tiro	tore	tyre	wire	
+2738	taro	thro	tire	toro	tyro	
+2739	bits	fits	hits	kits	lits	nits	pits	sits	tats	tics	ties	tins	tips	tots	tuts	wits	
+2740	
+2741	goad	load	road	toed	told	woad	
+2742	coed	hoed	teed	tied	toad	toes	told	
+2743	does	foes	goes	hoes	joes	noes	roes	tees	ties	toed	togs	toms	tons	tops	tors	toss	tots	tows	toys	woes	
+2744	boff	doff	tiff	tofu	tuff	
+2745	toff	
+2746	togo	togs	tora	yoga	
+2747	gogo	logo	toga	togs	toro	toto	
+2748	bogs	cogs	dogs	fogs	hogs	jogs	logs	nogs	tags	toes	toga	togo	toms	tons	tops	tors	toss	tots	tows	toys	tugs	
+2749	boil	coil	foil	moil	roil	soil	tail	toll	tool	
+2750	coke	hoke	joke	poke	take	tike	tole	tome	tone	tope	tore	tote	tyke	woke	yoke	
+2751	bold	cold	fold	gold	hold	mold	sold	toad	toed	tole	toll	wold	
+2752	bole	cole	dole	hole	mole	pole	role	sole	tale	tile	toke	told	toll	tome	tone	tope	tore	tote	vole	
+2753	boll	coll	doll	loll	moll	poll	roll	tall	tell	till	toil	told	tole	tool	
+2754	bomb	comb	tome	toms	womb	
+2755	come	dome	home	nome	pome	rome	some	tame	time	toke	tole	tomb	toms	tone	tope	tore	tote	
+2756	doms	moms	noms	roms	tams	toes	togs	tomb	tome	tons	tops	tors	toss	tots	tows	toys	
+2757	bone	cone	done	gone	hone	lone	none	pone	tine	toke	tole	tome	tong	tons	tony	tope	tore	tote	tune	zone	
+2758	bong	dong	gong	kong	long	pong	song	tang	ting	tone	tons	tony	
+2759	bons	cons	dons	eons	ions	mons	pons	sons	tans	tens	tins	toes	togs	toms	tone	tong	tony	tops	tors	toss	tots	tows	toys	tuns	
+2760	bony	cony	mony	pony	tiny	tone	tong	tons	tory	
+2761	book	cook	gook	hook	kook	look	nook	rook	tool	toot	
+2762	cool	fool	pool	toil	toll	took	toot	wool	
+2763	boot	coot	foot	hoot	loot	moot	root	soot	took	tool	tort	tost	tout	trot	
+2764	cope	dope	hope	lope	mope	nope	pope	rope	tape	toke	tole	tome	tone	tops	tore	tote	type	
+2765	bops	cops	fops	hops	lops	mops	oops	pops	sops	taps	tips	toes	togs	toms	tons	tope	tors	toss	tots	tows	toys	tups	wops	
+2766	fora	hora	toga	torc	tore	torn	toro	tors	tort	tory	
+2767	tora	tore	torn	toro	tors	tort	tory	
+2768	bore	core	fore	gore	lore	more	pore	sore	tare	tire	toke	tole	tome	tone	tope	tora	torc	torn	toro	tors	tort	tory	tote	tyre	wore	yore	
+2769	born	corn	horn	lorn	morn	porn	tarn	tern	tora	torc	tore	toro	tors	tort	tory	town	turn	worn	
+2770	taro	thro	tiro	togo	tora	torc	tore	torn	tors	tort	tory	toto	tyro	
+2771	dors	hors	tars	toes	togs	toms	tons	tops	tora	torc	tore	torn	toro	tort	tory	toss	tots	tows	toys	
+2772	bort	fort	mort	port	sort	tart	toot	tora	torc	tore	torn	toro	tors	tory	tost	tout	wort	
+2773	dory	gory	lory	tony	tora	torc	tore	torn	toro	tors	tort	
+2774	bosh	cosh	gosh	josh	nosh	posh	toss	tost	tush	
+2775	boss	doss	joss	loss	moss	tass	toes	togs	toms	tons	tops	tors	tosh	tost	tots	tows	toys	
+2776	cost	dost	host	lost	most	post	test	toot	tort	tosh	toss	tout	
+2777	cote	dote	mote	note	rote	tate	toke	tole	tome	tone	tope	tore	toto	tots	vote	
+2778	koto	roto	togo	toro	tote	tots	
+2779	cots	dots	hots	jots	lots	mots	nots	pots	rots	sots	tats	tits	toes	togs	toms	tons	tops	tors	toss	tote	toto	tows	toys	tuts	wots	
+2780	dour	four	hour	jour	lour	pour	sour	tout	your	
+2781	bout	gout	lout	pout	rout	taut	toot	tort	tost	tour	
+2782	down	gown	mown	sown	torn	tows	
+2783	bows	cows	dows	hows	lows	mows	nows	pows	rows	sows	taws	toes	togs	toms	tons	tops	tors	toss	tots	town	toys	vows	wows	yows	
+2784	boys	goys	joys	soys	toes	togs	toms	tons	tops	tors	toss	tots	tows	
+2785	cram	dram	gram	pram	team	trap	tray	trim	
+2786	crap	tram	tray	trip	trop	wrap	
+2787	bray	dray	fray	gray	pray	tram	trap	trey	troy	
+2788	cree	free	thee	tref	trek	trey	true	
+2789	tree	trek	trey	
+2790	drek	tree	tref	trey	
+2791	grey	prey	they	tray	tree	tref	trek	troy	
+2792	brig	frig	orig	prig	trim	trio	trip	twig	
+2793	brim	grim	prim	tram	trig	trio	trip	
+2794	brio	trig	trim	trip	
+2795	drip	grip	trap	trig	trim	trio	trop	
+2796	prod	trop	trot	trow	troy	
+2797	crop	drop	prop	trap	trip	trod	trot	trow	troy	
+2798	grot	toot	trod	trop	trow	troy	
+2799	brow	crow	frow	grow	prow	trod	trop	trot	troy	vrow	
+2800	tray	trey	trod	trop	trot	trow	
+2801	tree	
+2802	tear	tzar	
+2803	cuba	tube	tubs	tufa	tuna	
+2804	cube	lube	rube	tuba	tubs	tune	
+2805	bubs	cubs	dubs	hubs	nubs	pubs	rubs	subs	tabs	tuba	tube	tugs	tuns	tups	tuts	
+2806	buck	duck	fuck	guck	huck	luck	muck	puck	ruck	suck	tack	tick	turk	tusk	
+2807	tuba	tuff	tuft	tuna	
+2808	buff	cuff	duff	guff	huff	luff	muff	puff	ruff	tiff	toff	tufa	tuft	turf	
+2809	tufa	tuff	
+2810	bugs	dugs	fugs	hugs	jugs	lugs	mugs	pugs	rugs	tags	togs	tubs	tuns	tups	tuts	vugs	
+2811	luna	tuba	tufa	tune	tuns	
+2812	dune	june	lune	rune	tine	tone	tube	tuna	tuns	
+2813	buns	duns	guns	huns	nuns	puns	runs	suns	tans	tens	tins	tons	tubs	tugs	tuna	tune	tups	tuts	
+2814	cups	pups	sups	taps	tips	tops	tubs	tugs	tuns	tuts	
+2815	curd	turf	turk	turn	
+2816	surf	tuff	turd	turk	turn	
+2817	lurk	murk	tuck	turd	turf	turn	tusk	
+2818	burn	durn	tarn	tern	torn	turd	turf	turk	
+2819	bush	gush	hush	lush	mush	push	rush	tosh	tusk	
+2820	dusk	husk	musk	rusk	task	tuck	turk	tush	
+2821	buts	cuts	guts	huts	juts	nuts	outs	puts	ruts	tats	tits	tots	tubs	tugs	tuns	tups	tutu	
+2822	tuts	
+2823	teas	twat	twos	
+2824	swat	teat	that	twas	twit	
+2825	swig	trig	twin	twit	
+2826	thin	twig	twit	
+2827	twat	twig	twin	
+2828	taos	twas	
+2829	dyke	take	tike	toke	type	tyre	
+2830	hype	tape	tope	tyke	typo	tyre	
+2831	hypo	type	tyro	
+2832	byre	gyre	lyre	pyre	tare	tire	tore	tyke	type	tyro	
+2833	gyro	taro	thro	tiro	toro	typo	tyre	
+2834	czar	izar	tear	tsar	
+2835	
+2836	
+2837	ugly	
+2838	ugli	
+2839	ekes	uses	
+2840	ulva	
+2841	ulna	
+2842	amps	imps	
+2843	undo	unto	
+2844	unco	undy	unto	
+2845	undo	
+2846	knit	snit	univ	unix	
+2847	unit	unix	
+2848	unit	univ	
+2849	into	onto	unco	undo	
+2850	
+2851	
+2852	oral	
+2853	orbs	urds	urns	
+2854	urbs	urns	
+2855	area	ursa	
+2856	
+2857	
+2858	erns	urbs	urds	
+2859	urea	
+2860	usee	user	uses	
+2861	used	user	uses	
+2862	used	usee	uses	ussr	
+2863	eses	ukes	used	usee	user	
+2864	user	
+2865	
+2866	bade	fade	jade	lade	made	vale	vane	vase	vide	wade	
+2867	bail	fail	hail	jail	mail	nail	pail	rail	sail	tail	vain	veil	wail	
+2868	fain	gain	lain	main	pain	rain	vail	vein	wain	
+2869	bale	dale	gale	hale	kale	male	pale	sale	tale	vade	vane	vase	vile	vole	wale	yale	
+2870	camp	damp	lamp	ramp	tamp	
+2871	bane	cane	dane	jane	lane	mane	pane	sane	vade	vale	vans	vase	vine	wane	
+2872	bans	cans	fans	mans	pans	sans	tans	vane	vats	vins	
+2873	gary	mary	nary	very	wary	
+2874	base	case	ease	rase	vade	vale	vane	vast	vise	
+2875	bast	cast	east	fast	hast	last	mast	past	vase	vest	wast	
+2876	bats	cats	eats	fats	gats	hats	mats	oats	pats	rats	tats	vans	vets	wats	
+2877	deal	heal	leal	meal	peal	real	seal	teal	veil	vial	weal	zeal	
+2878	vela	
+2879	beep	deep	jeep	keep	peep	seep	veer	vees	weep	
+2880	beer	deer	jeer	leer	peer	seer	veep	vees	vier	
+2881	bees	cees	dees	fees	gees	lees	pees	sees	tees	veep	veer	vers	vets	vies	zees	
+2882	ceil	heil	vail	veal	vein	
+2883	mein	rein	vain	veil	
+2884	veda	veld	
+2885	geld	held	meld	vela	vend	weld	
+2886	bend	fend	lend	mend	pend	rend	send	tend	veld	vent	wend	
+2887	bent	cent	dent	gent	kent	lent	pent	rent	sent	tent	vend	vert	vest	went	
+2888	herb	kerb	serb	vers	vert	very	
+2889	hers	vees	verb	vert	very	vets	
+2890	cert	pert	vent	verb	vers	very	vest	wert	
+2891	aery	eery	vary	verb	vers	vert	
+2892	best	hest	jest	lest	nest	pest	rest	test	vast	vent	vert	west	zest	
+2893	vets	
+2894	bets	gets	jets	lets	nets	pets	sets	vats	vees	vers	veto	wets	
+2895	dial	rial	veal	vias	viol	
+2896	bias	dias	vial	vies	vims	vins	vips	
+2897	dice	lice	mice	nice	rice	vide	vile	vine	vise	vive	voce	
+2898	aide	bide	fide	hide	ride	side	tide	vade	vice	vile	vine	vise	vive	wide	
+2899	died	hied	lied	pied	tied	vier	vies	view	
+2900	bier	lier	pier	tier	veer	vied	vies	view	
+2901	dies	hies	lies	pies	ties	vees	vias	vied	vier	view	vims	vins	vips	
+2902	vied	vier	vies	
+2903	bile	file	mile	nile	pile	rile	tile	vale	vice	vide	vine	vise	vive	vole	wile	
+2904	aims	dims	nims	rims	vias	vies	vins	vips	
+2905	cine	dine	fine	kine	line	mine	nine	pine	sine	tine	vane	vice	vide	vile	vino	vins	viny	vise	vive	wine	
+2906	lino	vine	vins	viny	vivo	wino	
+2907	bins	dins	fins	gins	jins	kins	lins	mins	pins	sins	tins	vans	vias	vies	vims	vine	vino	viny	vips	wins	yins	
+2908	liny	piny	tiny	vine	vino	vins	winy	
+2909	biol	vial	
+2910	dips	gips	hips	kips	lips	nips	pips	rips	sips	tips	vias	vies	vims	vins	yips	zips	
+2911	pisa	vise	vita	viva	
+2912	mise	rise	vase	vice	vide	vile	vine	visa	vive	wise	
+2913	pita	visa	viva	
+2914	diva	visa	vita	vive	vivo	
+2915	dive	five	give	hive	jive	live	rive	vice	vide	vile	vine	vise	viva	vivo	wive	
+2916	vino	viva	vive	
+2917	vice	vole	vote	
+2918	
+2919	bole	cole	dole	hole	mole	pole	role	sole	tole	vale	vile	voce	volt	vote	
+2920	bolt	colt	dolt	holt	jolt	molt	vole	
+2921	cote	dote	mote	note	rote	tote	voce	vole	
+2922	bows	cows	dows	hows	lows	mows	nows	pows	rows	sows	tows	wows	yows	
+2923	brow	crow	frow	grow	prow	trow	
+2924	vugh	vugs	
+2925	vugg	vugs	
+2926	bugs	dugs	fugs	hugs	jugs	lugs	mugs	pugs	rugs	tugs	vugg	vugh	
+2927	back	hack	jack	lack	mack	pack	rack	sack	tack	wacs	walk	wark	wick	yack	
+2928	macs	pacs	sacs	wack	wads	wags	wars	wats	ways	
+2929	bade	fade	jade	lade	made	vade	wadi	wads	wage	wake	wale	wane	ware	wave	wide	
+2930	wade	wads	
+2931	bads	cads	dads	fads	gads	lads	mads	pads	rads	tads	wacs	wade	wadi	wags	wars	wats	ways	weds	
+2932	daft	haft	raft	wait	walt	want	wart	wast	watt	weft	
+2933	cage	gage	mage	page	rage	sage	wade	wags	wake	wale	wane	ware	wave	
+2934	bags	fags	gags	hags	jags	lags	mags	nags	rags	sags	tags	wacs	wads	wage	wars	wats	ways	wigs	zags	
+2935	naif	wail	wain	wait	
+2936	bail	fail	hail	jail	mail	nail	pail	rail	sail	tail	vail	waif	wain	wait	wall	waul	
+2937	fain	gain	lain	main	pain	rain	vain	waif	wail	wait	warn	
+2938	bait	fait	gait	lait	waft	waif	wail	wain	walt	want	wart	wast	watt	whit	writ	
+2939	bake	cake	fake	hake	jake	lake	make	rake	sake	take	wade	wage	wale	wane	ware	wave	woke	
+2940	bale	dale	gale	hale	kale	male	pale	sale	tale	vale	wade	wage	wake	walk	wall	walt	wane	ware	wave	wile	yale	
+2941	balk	calk	talk	wack	wale	wall	walt	wark	
+2942	ball	call	fall	gall	hall	mall	pall	tall	wail	wale	walk	walt	waul	well	will	
+2943	halt	malt	salt	waft	wait	wale	walk	wall	want	wart	wast	watt	welt	wilt	
+2944	band	hand	land	rand	sand	wane	wang	want	ward	wend	wind	
+2945	bane	cane	dane	jane	lane	mane	pane	sane	vane	wade	wage	wake	wale	wand	wang	want	ware	wave	wine	
+2946	bang	dang	fang	gang	hang	pang	rang	sang	tang	wand	wane	want	wing	yang	
+2947	cant	pant	rant	waft	wait	walt	wand	wane	wang	wart	wast	watt	went	wont	
+2948	bard	card	hard	lard	nard	pard	wand	ware	wark	warm	warn	warp	wars	wart	wary	word	yard	
+2949	bare	care	dare	fare	hare	mare	pare	rare	tare	wade	wage	wake	wale	wane	ward	wark	warm	warn	warp	wars	wart	wary	wave	were	wire	wore	yare	
+2950	bark	dark	hark	lark	mark	nark	park	wack	walk	ward	ware	warm	warn	warp	wars	wart	wary	work	
+2951	farm	harm	ward	ware	wark	warn	warp	wars	wart	wary	worm	
+2952	barn	darn	earn	tarn	wain	ward	ware	wark	warm	warp	wars	wart	wary	worn	yarn	
+2953	carp	harp	tarp	ward	ware	wark	warm	warn	wars	wart	wary	wasp	
+2954	bars	cars	ears	gars	jars	mars	oars	pars	tars	wacs	wads	wags	ward	ware	wark	warm	warn	warp	wart	wary	wats	ways	
+2955	cart	dart	fart	hart	kart	mart	part	tart	waft	wait	walt	want	ward	ware	wark	warm	warn	warp	wars	wary	wast	watt	wert	wort	
+2956	gary	mary	nary	vary	ward	ware	wark	warm	warn	warp	wars	wart	wavy	waxy	wiry	
+2957	bash	cash	dash	gash	hash	lash	mash	rash	sash	wasp	wast	wish	
+2958	gasp	hasp	rasp	warp	wash	wast	wisp	
+2959	bast	cast	east	fast	hast	last	mast	past	vast	waft	wait	walt	want	wart	wash	wasp	watt	west	
+2960	bats	cats	eats	fats	gats	hats	mats	oats	pats	rats	tats	vats	wacs	wads	wags	wars	watt	ways	wets	wits	wots	
+2961	matt	waft	wait	walt	want	wart	wast	wats	
+2962	caul	haul	maul	paul	wail	wall	
+2963	cave	dave	eave	gave	have	lave	nave	pave	rave	save	wade	wage	wake	wale	wane	ware	wavy	wive	wove	
+2964	cavy	navy	wary	wave	waxy	
+2965	wary	wavy	
+2966	bays	cays	days	fays	gays	hays	jays	kays	lays	mays	nays	pays	rays	says	wacs	wads	wags	wars	wats	whys	
+2967	beak	leak	peak	teak	weal	wean	wear	week	
+2968	deal	heal	leal	meal	peal	real	seal	teal	veal	weak	wean	wear	well	zeal	
+2969	bean	dean	jean	lean	mean	pean	weak	weal	wear	ween	
+2970	bear	dear	fear	gear	hear	lear	near	pear	rear	sear	tear	weak	weal	wean	weir	year	
+2971	debs	nebs	rebs	weds	wens	wets	
+2972	beds	feds	peds	reds	teds	wads	webs	wens	wets	zeds	
+2973	deed	feed	geed	heed	meed	need	peed	reed	seed	teed	week	ween	weep	weld	wend	
+2974	geek	leek	meek	peek	reek	seek	weak	weed	ween	weep	
+2975	been	keen	peen	seen	teen	wean	weed	week	weep	when	wren	
+2976	beep	deep	jeep	keep	peep	seep	veep	weed	week	ween	
+2977	deft	heft	left	reft	waft	welt	went	wept	wert	west	
+2978	heir	wear	whir	
+2979	geld	held	meld	veld	weed	well	welt	wend	wild	wold	
+2980	bell	cell	dell	fell	hell	jell	sell	tell	wall	weal	weld	welt	will	yell	
+2981	belt	celt	felt	gelt	melt	pelt	walt	weft	weld	well	went	wept	wert	west	wilt	
+2982	bend	fend	lend	mend	pend	rend	send	tend	vend	wand	weed	weld	wens	went	wind	
+2983	bens	dens	fens	gens	hens	kens	lens	mens	pens	tens	webs	weds	wend	went	wets	wins	yens	
+2984	bent	cent	dent	gent	kent	lent	pent	rent	sent	tent	vent	want	weft	welt	wend	wens	wept	wert	west	wont	
+2985	dept	kept	sept	weft	welt	went	wert	west	
+2986	here	mere	pere	sere	ware	wert	wire	wore	
+2987	cert	pert	vert	wart	weft	welt	went	wept	were	west	wort	
+2988	best	hest	jest	lest	nest	pest	rest	test	vest	wast	weft	welt	went	wept	wert	zest	
+2989	bets	gets	jets	lets	nets	pets	sets	vets	wats	webs	weds	wens	wits	wots	
+2990	cham	sham	whap	what	whim	whom	
+2991	chap	wham	what	whip	wrap	
+2992	chat	ghat	shat	that	wham	whap	whet	whit	
+2993	ghee	thee	when	whet	whew	whey	
+2994	then	ween	whee	whet	whew	whey	wren	
+2995	what	whee	when	whew	whey	whit	
+2996	chew	phew	shew	thew	whee	when	whet	whey	
+2997	they	whee	when	whet	whew	
+2998	whim	whip	whir	whit	whiz	
+2999	shim	wham	whig	whip	whir	whit	whiz	whom	
+3000	chip	ship	whap	whig	whim	whir	whit	whiz	
+3001	weir	whig	whim	whip	whit	whiz	
+3002	chit	shit	wait	what	whet	whig	whim	whip	whir	whiz	writ	
+3003	phiz	whig	whim	whip	whir	whit	
+3004	whom	
+3005	wham	whim	whoa	
+3006	phys	ways	
+3007	dick	hick	kick	lick	mick	nick	pick	rick	sick	tick	wack	wink	
+3008	aide	bide	fide	hide	ride	side	tide	vide	wade	wife	wile	wine	wipe	wire	wise	wive	
+3009	fife	life	rife	wide	wile	wine	wipe	wire	wise	wive	
+3010	digs	figs	gigs	jigs	migs	pigs	rigs	wags	wins	wits	zigs	
+3011	gild	mild	weld	wile	will	wilt	wily	wind	wold	
+3012	bile	file	mile	nile	pile	rile	tile	vile	wale	wide	wife	wild	will	wilt	wily	wine	wipe	wire	wise	wive	
+3013	bill	dill	fill	gill	hill	jill	kill	mill	nill	pill	rill	sill	till	wall	well	wild	wile	wilt	wily	
+3014	gilt	hilt	jilt	kilt	lilt	milt	silt	tilt	walt	welt	wild	wile	will	wily	
+3015	lily	oily	wild	wile	will	wilt	winy	wiry	wkly	
+3016	bind	find	hind	kind	mind	rind	wand	wend	wild	wine	wing	wink	wino	wins	winy	
+3017	cine	dine	fine	kine	line	mine	nine	pine	sine	tine	vine	wane	wide	wife	wile	wind	wing	wink	wino	wins	winy	wipe	wire	wise	wive	
+3018	ding	king	ling	ming	ping	ring	sing	ting	wang	wind	wine	wink	wino	wins	winy	zing	
+3019	fink	kink	link	mink	oink	pink	rink	sink	wick	wind	wine	wing	wino	wins	winy	
+3020	lino	vino	wind	wine	wing	wink	wins	winy	
+3021	bins	dins	fins	gins	jins	kins	lins	mins	pins	sins	tins	vins	wens	wigs	wind	wine	wing	wink	wino	winy	wits	yins	
+3022	liny	piny	tiny	viny	wily	wind	wine	wing	wink	wino	wins	wiry	
+3023	pipe	ripe	wide	wife	wile	wine	wire	wise	wive	yipe	
+3024	dire	eire	fire	hire	lire	mire	sire	tire	ware	were	wide	wife	wile	wine	wipe	wiry	wise	wive	wore	
+3025	airy	miry	wary	wily	winy	wire	
+3026	mise	rise	vise	wide	wife	wile	wine	wipe	wire	wish	wisp	wive	
+3027	dish	fish	pish	wash	wise	wisp	with	
+3028	lisp	wasp	wise	wish	
+3029	kith	lith	pith	wish	wits	
+3030	bits	fits	hits	kits	lits	nits	pits	sits	tits	wats	wets	wigs	wins	with	wots	
+3031	dive	five	give	hive	jive	live	rive	vive	wave	wide	wife	wile	wine	wipe	wire	wise	wove	
+3032	wily	
+3033	goad	load	road	toad	wold	wood	word	
+3034	does	foes	goes	hoes	joes	noes	roes	toes	woks	woos	wops	wots	wows	wyes	
+3035	coke	hoke	joke	poke	toke	wake	woks	wore	wove	yoke	
+3036	woes	woke	woos	wops	wots	wows	
+3037	bold	cold	fold	gold	hold	mold	sold	told	weld	wild	woad	wolf	wood	word	
+3038	golf	wold	woof	
+3039	bomb	comb	tomb	
+3040	cont	font	want	went	wort	
+3041	food	good	hood	mood	rood	woad	wold	woof	wool	woos	word	
+3042	goof	hoof	roof	wolf	wood	wool	woos	
+3043	cool	fool	pool	tool	wood	woof	woos	
+3044	boos	coos	goos	loos	moos	woes	woks	wood	woof	wool	wops	wots	wows	zoos	
+3045	bops	cops	fops	hops	lops	mops	oops	pops	sops	tops	woes	woks	woos	wots	wows	
+3046	cord	ford	lord	ward	woad	wold	wood	wore	work	worm	worn	wort	
+3047	bore	core	fore	gore	lore	more	pore	sore	tore	ware	were	wire	woke	word	work	worm	worn	wort	wove	yore	
+3048	cork	fork	pork	wark	word	wore	worm	worn	wort	york	
+3049	corm	dorm	form	norm	warm	word	wore	work	worn	wort	
+3050	born	corn	horn	lorn	morn	porn	torn	warn	word	wore	work	worm	wort	
+3051	bort	fort	mort	port	sort	tort	wart	wert	wont	word	wore	work	worm	worn	
+3052	cots	dots	hots	jots	lots	mots	nots	pots	rots	sots	tots	wats	wets	wits	woes	woks	woos	wops	wows	
+3053	cove	dove	hove	love	move	rove	wave	wive	woke	wore	
+3054	bows	cows	dows	hows	lows	mows	nows	pows	rows	sows	tows	vows	woes	woks	woos	wops	wots	yows	
+3055	crap	trap	whap	
+3056	ween	when	
+3057	brit	grit	wait	whit	
+3058	ayes	byes	dyes	eyes	lyes	oyes	ryes	woes	
+3059	xvii	xxii	
+3060	
+3061	xiii	xxii	
+3062	xiii	xvii	xxiv	
+3063	xxii	
+3064	back	hack	jack	lack	mack	pack	rack	sack	tack	wack	yank	
+3065	oaks	yams	yaps	yaws	yuks	
+3066	bale	dale	gale	hale	kale	male	pale	sale	tale	vale	wale	yare	yule	
+3067	cams	dams	gams	hams	jams	lams	rams	tams	yaks	yaps	yaws	
+3068	bang	dang	fang	gang	hang	pang	rang	sang	tang	wang	yank	
+3069	bank	dank	hank	lank	rank	sank	tank	yack	yang	
+3070	caps	gaps	haps	laps	maps	naps	paps	raps	saps	taps	yaks	yams	yaws	yips	zaps	
+3071	bard	card	hard	lard	nard	pard	ward	yare	yarn	
+3072	bare	care	dare	fare	hare	mare	pare	rare	tare	ware	yale	yard	yarn	yore	
+3073	barn	darn	earn	tarn	warn	yard	yare	yawn	
+3074	bawl	pawl	yawn	yawp	yaws	yowl	
+3075	dawn	fawn	lawn	pawn	sawn	yarn	yawl	yawp	yaws	
+3076	yawl	yawn	yaws	
+3077	caws	haws	jaws	laws	maws	paws	raws	saws	taws	yaks	yams	yaps	yawl	yawn	yawp	yews	yows	
+3078	year	yeas	
+3079	bear	dear	fear	gear	hear	lear	near	pear	rear	sear	tear	wear	yeah	yeas	
+3080	leas	meas	peas	seas	teas	yeah	year	yens	yews	
+3081	
+3082	bell	cell	dell	fell	hell	jell	sell	tell	well	yelp	
+3083	help	kelp	yell	
+3084	bens	dens	fens	gens	hens	kens	lens	mens	pens	tens	wens	yeas	yews	yins	
+3085	
+3086	dews	hews	jews	mews	news	pews	sews	yaws	yeas	yens	yows	
+3087	aids	bids	fids	kids	lids	mids	rids	yins	yips	
+3088	bins	dins	fins	gins	jins	kins	lins	mins	pins	sins	tins	vins	wins	yens	yids	yips	
+3089	pipe	ripe	wipe	yips	
+3090	dips	gips	hips	kips	lips	nips	pips	rips	sips	tips	vips	yaps	yids	yins	yipe	zips	
+3091	ywca	
+3092	toga	yogi	
+3093	yoga	yoni	
+3094	coke	hoke	joke	poke	toke	woke	yore	
+3095	folk	polk	york	
+3096	bond	fond	pond	yoni	
+3097	yogi	yond	
+3098	bore	core	fore	gore	lore	more	pore	sore	tore	wore	yare	yoke	york	
+3099	cork	fork	pork	work	yolk	yore	
+3100	dour	four	hour	jour	lour	pour	sour	tour	
+3101	bowl	cowl	fowl	howl	jowl	yawl	yows	
+3102	bows	cows	dows	hows	lows	mows	nows	pows	rows	sows	tows	vows	wows	yaws	yews	yowl	
+3103	juan	
+3104	auks	yaks	
+3105	mule	pule	rule	yale	
+3106	curt	hurt	
+3107	ymca	
+3108	bags	fags	gags	hags	jags	lags	mags	nags	rags	sags	tags	wags	zaps	zigs	
+3109	many	
+3110	caps	gaps	haps	laps	maps	naps	paps	raps	saps	taps	yaps	zags	zips	
+3111	deal	heal	leal	meal	peal	real	seal	teal	veal	weal	
+3112	
+3113	beds	feds	peds	reds	teds	weds	zees	zeus	
+3114	bees	cees	dees	fees	gees	lees	pees	sees	tees	vees	zeds	zeus	
+3115	hero	
+3116	best	hest	jest	lest	nest	pest	rest	test	vest	west	
+3117	beta	feta	meta	
+3118	deus	zeds	zees	
+3119	digs	figs	gigs	jigs	migs	pigs	rigs	wigs	zags	zips	
+3120	zing	
+3121	ding	king	ling	ming	ping	ring	sing	ting	wing	zinc	
+3122	lion	pion	
+3123	dips	gips	hips	kips	lips	nips	pips	rips	sips	tips	vips	yips	zaps	zigs	
+3124	bone	cone	done	gone	hone	lone	none	pone	tone	
+3125	boom	doom	loom	room	zoos	
+3126	boos	coos	goos	loos	moos	woos	zoom	
+3127	
+3128	lulu	
+3129	
